@@ -1,1 +1,197 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLlr7kgNjgg56+H5paH56ug5YGa6Ieq5Yqo5YyW5a6h5qCh77yM6L6T5Ye6IGRhdGEvcWEtcmVwb3J0Lmpzb24g5ZKMIGRhdGEvcWEtcmVwb3J0Lm1k44CCIiIiCgppbXBvcnQganNvbgppbXBvcnQgcmUKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgKCkxJQiA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50Ck5BViA9IExJQiAvICJkYXRhIiAvICJuYXYuanNvbiIKCgpkZWYgcGFyc2VfZnJvbnRtYXR0ZXIodGV4dDogc3RyKToKICAgIGlmIG5vdCB0ZXh0LnN0YXJ0c3dpdGgoIi0tLSIpOgogICAgICAgIHJldHVybiB7fSwgdGV4dAogICAgZW5kID0gdGV4dC5maW5kKCJcbi0tLSIsIDMpCiAgICBpZiBlbmQgPT0gLTE6CiAgICAgICAgcmV0dXJuIHt9LCB0ZXh0CiAgICBtZXRhID0ge30KICAgIGZvciBsaW5lIGluIHRleHRbMzplbmRdLnN0cmlwKCkuc3BsaXRsaW5lcygpOgogICAgICAgIGlmICI6IiBub3QgaW4gbGluZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBrZXksIHZhbHVlID0gbGluZS5zcGxpdCgiOiIsIDEpCiAgICAgICAgbWV0YVtrZXkuc3RyaXAoKV0gPSB2YWx1ZS5zdHJpcCgpLnN0cmlwKCciJykKICAgIHJldHVybiBtZXRhLCB0ZXh0W2VuZCArIDQ6XQoKCmRlZiBhdWRpdF9hcnRpY2xlKG1vZHVsZSwgdG9waWMsIHBhdGgpOgogICAgcmF3ID0gcGF0aC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikKICAgIG1ldGEsIGJvZHkgPSBwYXJzZV9mcm9udG1hdHRlcihyYXcpCiAgICBmbGFncyA9IFtdCgogICAgcmVxdWlyZWQgPSBbInRpdGxlIiwgInNsdWciLCAibW9kdWxlIiwgIm9yZGVyIiwgInN0YXR1cyIsICJ0YWdzIiwgInN1bW1hcnkiLCAidXBkYXRlZCJdCiAgICBmb3Iga2V5IGluIHJlcXVpcmVkOgogICAgICAgIGlmIGtleSBub3QgaW4gbWV0YToKICAgICAgICAgICAgZmxhZ3MuYXBwZW5kKGYi57y65bCR5YWD5pWw5o2uIHtrZXl9IikKCiAgICBpZiBtZXRhLmdldCgidGl0bGUiKSAhPSB0b3BpY1sidGl0bGUiXToKICAgICAgICBmbGFncy5hcHBlbmQoIuagh+mimOS4jiBuYXYuanNvbiDkuI3kuIDoh7QiKQogICAgaWYgbWV0YS5nZXQoInNsdWciKSAhPSB0b3BpY1sic2x1ZyJdOgogICAgICAgIGZsYWdzLmFwcGVuZCgic2x1ZyDkuI4gbmF2Lmpzb24g5LiN5LiA6Ie0IikKICAgIGlmIG1ldGEuZ2V0KCJtb2R1bGUiKSAhPSBtb2R1bGVbInRpdGxlIl06CiAgICAgICAgZmxhZ3MuYXBwZW5kKCLmqKHlnZflkI3kuI4gbmF2Lmpzb24g5LiN5LiA6Ie0IikKICAgIGlmIG1ldGEuZ2V0KCJzdGF0dXMiKSBub3QgaW4geyJwbGFubmVkIiwgImRyYWZ0IiwgInJldmlldyIsICJwdWJsaXNoZWQifToKICAgICAgICBmbGFncy5hcHBlbmQoZiLpnZ7ms5XnirbmgIEge21ldGEuZ2V0KCdzdGF0dXMnKX0iKQoKICAgIGhlYWRpbmdzID0gcmUuZmluZGFsbChyIl4oI3sxLDZ9KVxzKyguKykkIiwgYm9keSwgZmxhZ3M9cmUuTSkKICAgIGgxID0gW2ggZm9yIGggaW4gaGVhZGluZ3MgaWYgbGVuKGhbMF0pID09IDFdCiAgICBpZiBsZW4oaDEpICE9IDE6CiAgICAgICAgZmxhZ3MuYXBwZW5kKGYi5LiA57qn5qCH6aKY5pWw6YeP5Li6IHtsZW4oaDEpfSIpCiAgICBlbGlmIGgxWzBdWzFdLnN0cmlwKCkgIT0gdG9waWNbInRpdGxlIl06CiAgICAgICAgZmxhZ3MuYXBwZW5kKCLmraPmlofkuIDnuqfmoIfpopjkuI7moIfpopjkuI3kuIDoh7QiKQoKICAgIGxldmVscyA9IFtsZW4oaFswXSkgZm9yIGggaW4gaGVhZGluZ3NdCiAgICBmb3IgcHJldiwgY3VyIGluIHppcChsZXZlbHMsIGxldmVsc1sxOl0pOgogICAgICAgIGlmIGN1ciA+IHByZXYgKyAxOgogICAgICAgICAgICBmbGFncy5hcHBlbmQoZiLmoIfpopjlsYLnuqfot7Pot4PvvJpIe3ByZXZ9IOKGkiBIe2N1cn0iKQogICAgICAgICAgICBicmVhawoKICAgIGlmICIjIyDlj4LogIPmnaXmupAiIG5vdCBpbiBib2R5OgogICAgICAgIGZsYWdzLmFwcGVuZCgi57y65bCR5Y+C6ICD5p2l5rqQIikKICAgIGlmICIjIyDluLjop4Hor6/ljLoiIG5vdCBpbiBib2R5OgogICAgICAgIGZsYWdzLmFwcGVuZCgi57y65bCR5bi46KeB6K+v5Yy6IikKICAgIGlmICIjIyDlrp7mk43lu7rorq4iIG5vdCBpbiBib2R5OgogICAgICAgIGZsYWdzLmFwcGVuZCgi57y65bCR5a6e5pON5bu66K6uIikKCiAgICBwbGFjZWhvbGRlcnMgPSBbeCBmb3IgeCBpbiBbIuW+heihpeWFhSIsICJUT0RPIiwgIlRCRCIsICJsb3JlbSIsICLljaDkvY0iXSBpZiB4IGluIGJvZHldCiAgICBpZiBwbGFjZWhvbGRlcnM6CiAgICAgICAgZmxhZ3MuYXBwZW5kKCLljIXlkKvljaDkvY3or43vvJoiICsgIuOAgSIuam9pbihwbGFjZWhvbGRlcnMpKQoKICAgIG1kX2xpbmtzID0gcmUuZmluZGFsbChyIlxdXCgoW14pXStcLm1kKSg/OiNbXildKik/XCkiLCBib2R5KQogICAgYnJva2VuID0gW10KICAgIGZvciB0YXJnZXQgaW4gbWRfbGlua3M6CiAgICAgICAgaWYgdGFyZ2V0LnN0YXJ0c3dpdGgoKCJodHRwOi8vIiwgImh0dHBzOi8vIikpOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGlmIG5vdCAocGF0aC5wYXJlbnQgLyB0YXJnZXQpLnJlc29sdmUoKS5leGlzdHMoKToKICAgICAgICAgICAgYnJva2VuLmFwcGVuZCh0YXJnZXQpCiAgICBpZiBicm9rZW46CiAgICAgICAgZmxhZ3MuYXBwZW5kKCLlpLHmlYjnmoQgbWQg6ZO+5o6l77yaIiArICLjgIEiLmpvaW4oYnJva2VuWzozXSkpCgogICAgaWYgbGVuKG1ldGEuZ2V0KCJzdW1tYXJ5IiwgIiIpKSA8IDE1OgogICAgICAgIGZsYWdzLmFwcGVuZCgi5pGY6KaB6L+H55+tIikKCiAgICB0YWdzID0gbWV0YS5nZXQoInRhZ3MiLCAiIikKICAgIGlmIG5vdCB0YWdzLnN0YXJ0c3dpdGgoIlsiKSBvciBsZW4odGFncykgPCA2OgogICAgICAgIGZsYWdzLmFwcGVuZCgi5qCH562+5qC85byP5oiW5pWw6YeP5byC5bi4IikKCiAgICB0YWJsZV9yb3dzID0gbGVuKHJlLmZpbmRhbGwociJeXHwiLCBib2R5LCBmbGFncz1yZS5NKSkKICAgIHJldHVybiB7CiAgICAgICAgIm1vZHVsZSI6IG1vZHVsZVsidGl0bGUiXSwKICAgICAgICAibW9kdWxlX2lkIjogbW9kdWxlWyJpZCJdLAogICAgICAgICJvcmRlciI6IHRvcGljWyJvcmRlciJdLAogICAgICAgICJ0aXRsZSI6IHRvcGljWyJ0aXRsZSJdLAogICAgICAgICJzbHVnIjogdG9waWNbInNsdWciXSwKICAgICAgICAic3RhdHVzIjogbWV0YS5nZXQoInN0YXR1cyIpLAogICAgICAgICJjaGFycyI6IGxlbihib2R5KSwKICAgICAgICAiaDIiOiBzdW0oMSBmb3IgaCBpbiBoZWFkaW5ncyBpZiBsZW4oaFswXSkgPT0gMiksCiAgICAgICAgInRhYmxlcyI6IHRhYmxlX3Jvd3MsCiAgICAgICAgImxpbmtzIjogbGVuKG1kX2xpbmtzKSwKICAgICAgICAiZmxhZ3MiOiBmbGFncywKICAgIH0KCgpkZWYgbWFpbigpOgogICAgbmF2ID0ganNvbi5sb2FkcyhOQVYucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgcmVjb3JkcyA9IFtdCiAgICBmb3IgbW9kdWxlIGluIG5hdlsibW9kdWxlcyJdOgogICAgICAgIGZvciB0b3BpYyBpbiBtb2R1bGVbInRvcGljcyJdOgogICAgICAgICAgICBwYXRoID0gTElCIC8gdG9waWNbInBsYW5uZWRQYXRoIl0KICAgICAgICAgICAgaWYgbm90IHBhdGguZXhpc3RzKCk6CiAgICAgICAgICAgICAgICByZWNvcmRzLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJtb2R1bGUiOiBtb2R1bGVbInRpdGxlIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICJtb2R1bGVfaWQiOiBtb2R1bGVbImlkIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICJvcmRlciI6IHRvcGljWyJvcmRlciJdLAogICAgICAgICAgICAgICAgICAgICAgICAidGl0bGUiOiB0b3BpY1sidGl0bGUiXSwKICAgICAgICAgICAgICAgICAgICAgICAgInNsdWciOiB0b3BpY1sic2x1ZyJdLAogICAgICAgICAgICAgICAgICAgICAgICAic3RhdHVzIjogdG9waWMuZ2V0KCJzdGF0dXMiKSwKICAgICAgICAgICAgICAgICAgICAgICAgImNoYXJzIjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgImgyIjogMCwKICAgICAgICAgICAgICAgICAgICAgICAgInRhYmxlcyI6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICJsaW5rcyI6IDAsCiAgICAgICAgICAgICAgICAgICAgICAgICJmbGFncyI6IFsi5paH5Lu25LiN5a2Y5ZyoIl0sCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgcmVjb3Jkcy5hcHBlbmQoYXVkaXRfYXJ0aWNsZShtb2R1bGUsIHRvcGljLCBwYXRoKSkKCiAgICB0b3RhbCA9IGxlbihyZWNvcmRzKQogICAgZmxhZ2dlZCA9IFtyIGZvciByIGluIHJlY29yZHMgaWYgclsiZmxhZ3MiXV0KICAgIGNoYXJzID0gc3VtKHJbImNoYXJzIl0gZm9yIHIgaW4gcmVjb3JkcykKICAgIHN0YXR1c19jb3VudCA9IENvdW50ZXIoclsic3RhdHVzIl0gZm9yIHIgaW4gcmVjb3JkcykKICAgIGZsYWdfY291bnQgPSBDb3VudGVyKGZsYWcuc3BsaXQoIu+8miIpWzBdIGZvciByIGluIGZsYWdnZWQgZm9yIGZsYWcgaW4gclsiZmxhZ3MiXSkKCiAgICByZXBvcnQgPSB7CiAgICAgICAgImdlbmVyYXRlZCI6ICIyMDI2LTEwLTI1IiwKICAgICAgICAidG90YWwiOiB0b3RhbCwKICAgICAgICAidG90YWxfY2hhcnMiOiBjaGFycywKICAgICAgICAiYXZlcmFnZV9jaGFycyI6IHJvdW5kKGNoYXJzIC8gdG90YWwpIGlmIHRvdGFsIGVsc2UgMCwKICAgICAgICAic3RhdHVzIjogZGljdChzdGF0dXNfY291bnQpLAogICAgICAgICJmbGFnZ2VkX2FydGljbGVzIjogbGVuKGZsYWdnZWQpLAogICAgICAgICJmbGFnX2NvdW50cyI6IGRpY3QoZmxhZ19jb3VudCksCiAgICAgICAgImFydGljbGVzIjogcmVjb3JkcywKICAgIH0KICAgIChMSUIgLyAiZGF0YSIgLyAicWEtcmVwb3J0Lmpzb24iKS53cml0ZV90ZXh0KAogICAgICAgIGpzb24uZHVtcHMocmVwb3J0LCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKSArICJcbiIsIGVuY29kaW5nPSJ1dGYtOCIKICAgICkKCiAgICBsaW5lcyA9IFsKICAgICAgICAiIyDlhoXlrrnlrqHmoKHmiqXlkYoiLAogICAgICAgICIiLAogICAgICAgIGYiLSDnlJ/miJDml6XmnJ/vvJoyMDI2LTEwLTI1IiwKICAgICAgICBmIi0g5paH56ug5oC75pWw77yae3RvdGFsfSIsCiAgICAgICAgZiItIOaAu+Wtl+espu+8mntjaGFyczosfSIsCiAgICAgICAgZiItIOW5s+Wdh+Wtl+espu+8mntyZXBvcnRbJ2F2ZXJhZ2VfY2hhcnMnXTosfSIsCiAgICAgICAgZiItIOeKtuaAgeWIhuW4g++8mnsnLCAnLmpvaW4oZid7a30ge3Z9JyBmb3IgaywgdiBpbiBzdGF0dXNfY291bnQuaXRlbXMoKSl9IiwKICAgICAgICBmIi0g5pyJ6Zeu6aKY5paH56ug77yae2xlbihmbGFnZ2VkKX0iLAogICAgICAgICIiLAogICAgICAgICIjIyDpl67popjmsYfmgLsiLAogICAgICAgICIiLAogICAgXQogICAgaWYgZmxhZ19jb3VudDoKICAgICAgICBsaW5lcyArPSBbInwg6Zeu6aKYIHwg56+H5pWwIHwiLCAifC0tLXwtLS18Il0KICAgICAgICBmb3IgZmxhZywgY291bnQgaW4gZmxhZ19jb3VudC5tb3N0X2NvbW1vbigpOgogICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiJ8IHtmbGFnfSB8IHtjb3VudH0gfCIpCiAgICBlbHNlOgogICAgICAgIGxpbmVzLmFwcGVuZCgi5pyq5Y+R546w6Ieq5Yqo5YyW5Y+v6K+G5Yir55qE6Zeu6aKY44CCIikKCiAgICBsaW5lcyArPSBbIiIsICIjIyDliIbmqKHlnZfnu5/orqEiLCAiIiwgInwg5qih5Z2XIHwg56+H5pWwIHwg5a2X56ym5pWwIHwg5bmz5Z2H5a2X56ymIHwg6Zeu6aKY5pWwIHwiLCAifC0tLXwtLS18LS0tfC0tLXwtLS18Il0KICAgIGZvciBtb2R1bGUgaW4gbmF2WyJtb2R1bGVzIl06CiAgICAgICAgaXRlbXMgPSBbciBmb3IgciBpbiByZWNvcmRzIGlmIHJbIm1vZHVsZV9pZCJdID09IG1vZHVsZVsiaWQiXV0KICAgICAgICBtb2R1bGVfY2hhcnMgPSBzdW0oclsiY2hhcnMiXSBmb3IgciBpbiBpdGVtcykKICAgICAgICBsaW5lcy5hcHBlbmQoCiAgICAgICAgICAgIGYifCB7bW9kdWxlWyd0aXRsZSddfSB8IHtsZW4oaXRlbXMpfSB8IHttb2R1bGVfY2hhcnM6LH0gfCAiCiAgICAgICAgICAgIGYie3JvdW5kKG1vZHVsZV9jaGFycyAvIGxlbihpdGVtcykpIGlmIGl0ZW1zIGVsc2UgMDosfSB8IHtzdW0oMSBmb3IgciBpbiBpdGVtcyBpZiByWydmbGFncyddKX0gfCIKICAgICAgICApCgogICAgbGluZXMgKz0gWyIiLCAiIyMg6ZyA6KaB5aSE55CG55qE5paH56ugIiwgIiJdCiAgICBpZiBmbGFnZ2VkOgogICAgICAgIGZvciByZWNvcmQgaW4gZmxhZ2dlZDoKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiIyMjIHtyZWNvcmRbJ3RpdGxlJ11977yIe3JlY29yZFsnbW9kdWxlJ11977yJIikKICAgICAgICAgICAgbGluZXMuYXBwZW5kKCIiKQogICAgICAgICAgICBmb3IgZmxhZyBpbiByZWNvcmRbImZsYWdzIl06CiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoZiItIHtmbGFnfSIpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGVsc2U6CiAgICAgICAgbGluZXMuYXBwZW5kKCLml6DjgIIiKQoKICAgIChMSUIgLyAiZGF0YSIgLyAicWEtcmVwb3J0Lm1kIikud3JpdGVfdGV4dCgiXG4iLmpvaW4obGluZXMpICsgIlxuIiwgZW5jb2Rpbmc9InV0Zi04IikKICAgIHByaW50KGYi5a6h5qCh5a6M5oiQ77yae3RvdGFsfSDnr4fvvIx7bGVuKGZsYWdnZWQpfSDnr4fmnInlvoXlpITnkIbmoIforrDvvIzmgLvlrZfnrKYge2NoYXJzOix9IikKICAgIGlmIGZsYWdfY291bnQ6CiAgICAgICAgZm9yIGZsYWcsIGNvdW50IGluIGZsYWdfY291bnQubW9zdF9jb21tb24oKToKICAgICAgICAgICAgcHJpbnQoZiIgIC0ge2ZsYWd9OiB7Y291bnR9IikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+#!/usr/bin/env python3
+"""对 68 篇文章做自动化审校，输出 data/qa-report.json 和 data/qa-report.md。"""
+
+import json
+import re
+from collections import Counter
+from pathlib import Path
+
+LIB = Path(__file__).resolve().parent.parent
+NAV = LIB / "data" / "nav.json"
+
+
+def parse_frontmatter(text: str):
+    if not text.startswith("---"):
+        return {}, text
+    end = text.find("\n---", 3)
+    if end == -1:
+        return {}, text
+    meta = {}
+    for line in text[3:end].strip().splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        meta[key.strip()] = value.strip().strip('"')
+    return meta, text[end + 4:]
+
+
+def audit_article(module, topic, path):
+    raw = path.read_text(encoding="utf-8")
+    meta, body = parse_frontmatter(raw)
+    flags = []
+
+    required = ["title", "slug", "module", "order", "status", "tags", "summary", "updated"]
+    for key in required:
+        if key not in meta:
+            flags.append(f"缺少元数据 {key}")
+
+    if meta.get("title") != topic["title"]:
+        flags.append("标题与 nav.json 不一致")
+    if meta.get("slug") != topic["slug"]:
+        flags.append("slug 与 nav.json 不一致")
+    if meta.get("module") != module["title"]:
+        flags.append("模块名与 nav.json 不一致")
+    if meta.get("status") not in {"planned", "draft", "review", "published"}:
+        flags.append(f"非法状态 {meta.get('status')}")
+
+    headings = re.findall(r"^(#{1,6})\s+(.+)$", body, flags=re.M)
+    h1 = [h for h in headings if len(h[0]) == 1]
+    if len(h1) != 1:
+        flags.append(f"一级标题数量为 {len(h1)}")
+    elif h1[0][1].strip() != topic["title"]:
+        flags.append("正文一级标题与标题不一致")
+
+    levels = [len(h[0]) for h in headings]
+    for prev, cur in zip(levels, levels[1:]):
+        if cur > prev + 1:
+            flags.append(f"标题层级跳跃：H{prev} → H{cur}")
+            break
+
+    if "## 参考来源" not in body:
+        flags.append("缺少参考来源")
+    if "## 常见误区" not in body:
+        flags.append("缺少常见误区")
+    if "## 实操建议" not in body:
+        flags.append("缺少实操建议")
+
+    placeholders = [x for x in ["待补充", "TODO", "TBD", "lorem", "占位"] if x in body]
+    if placeholders:
+        flags.append("包含占位词：" + "、".join(placeholders))
+
+    md_links = re.findall(r"\]\(([^)]+\.md)(?:#[^)]*)?\)", body)
+    broken = []
+    for target in md_links:
+        if target.startswith(("http://", "https://")):
+            continue
+        if not (path.parent / target).resolve().exists():
+            broken.append(target)
+    if broken:
+        flags.append("失效的 md 链接：" + "、".join(broken[:3]))
+
+    if len(meta.get("summary", "")) < 15:
+        flags.append("摘要过短")
+
+    tags = meta.get("tags", "")
+    if not tags.startswith("[") or len(tags) < 6:
+        flags.append("标签格式或数量异常")
+
+    table_rows = len(re.findall(r"^\|", body, flags=re.M))
+    return {
+        "module": module["title"],
+        "module_id": module["id"],
+        "order": topic["order"],
+        "title": topic["title"],
+        "slug": topic["slug"],
+        "status": meta.get("status"),
+        "chars": len(body),
+        "h2": sum(1 for h in headings if len(h[0]) == 2),
+        "tables": table_rows,
+        "links": len(md_links),
+        "flags": flags,
+    }
+
+
+def main():
+    nav = json.loads(NAV.read_text(encoding="utf-8"))
+    records = []
+    for module in nav["modules"]:
+        for topic in module["topics"]:
+            path = LIB / topic["plannedPath"]
+            if not path.exists():
+                records.append(
+                    {
+                        "module": module["title"],
+                        "module_id": module["id"],
+                        "order": topic["order"],
+                        "title": topic["title"],
+                        "slug": topic["slug"],
+                        "status": topic.get("status"),
+                        "chars": 0,
+                        "h2": 0,
+                        "tables": 0,
+                        "links": 0,
+                        "flags": ["文件不存在"],
+                    }
+                )
+                continue
+            records.append(audit_article(module, topic, path))
+
+    total = len(records)
+    flagged = [r for r in records if r["flags"]]
+    chars = sum(r["chars"] for r in records)
+    status_count = Counter(r["status"] for r in records)
+    flag_count = Counter(flag.split("：")[0] for r in flagged for flag in r["flags"])
+
+    report = {
+        "generated": "2026-10-25",
+        "total": total,
+        "total_chars": chars,
+        "average_chars": round(chars / total) if total else 0,
+        "status": dict(status_count),
+        "flagged_articles": len(flagged),
+        "flag_counts": dict(flag_count),
+        "articles": records,
+    }
+    (LIB / "data" / "qa-report.json").write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+
+    lines = [
+        "# 内容审校报告",
+        "",
+        f"- 生成日期：2026-10-25",
+        f"- 文章总数：{total}",
+        f"- 总字符：{chars:,}",
+        f"- 平均字符：{report['average_chars']:,}",
+        f"- 状态分布：{', '.join(f'{k} {v}' for k, v in status_count.items())}",
+        f"- 有问题文章：{len(flagged)}",
+        "",
+        "## 问题汇总",
+        "",
+    ]
+    if flag_count:
+        lines += ["| 问题 | 篇数 |", "|---|---|"]
+        for flag, count in flag_count.most_common():
+            lines.append(f"| {flag} | {count} |")
+    else:
+        lines.append("未发现自动化可识别的问题。")
+
+    lines += ["", "## 分模块统计", "", "| 模块 | 篇数 | 字符数 | 平均字符 | 问题数 |", "|---|---|---|---|---|"]
+    for module in nav["modules"]:
+        items = [r for r in records if r["module_id"] == module["id"]]
+        module_chars = sum(r["chars"] for r in items)
+        lines.append(
+            f"| {module['title']} | {len(items)} | {module_chars:,} | "
+            f"{round(module_chars / len(items)) if items else 0:,} | {sum(1 for r in items if r['flags'])} |"
+        )
+
+    lines += ["", "## 需要处理的文章", ""]
+    if flagged:
+        for record in flagged:
+            lines.append(f"### {record['title']}（{record['module']}）")
+            lines.append("")
+            for flag in record["flags"]:
+                lines.append(f"- {flag}")
+            lines.append("")
+    else:
+        lines.append("无。")
+
+    (LIB / "data" / "qa-report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"审校完成：{total} 篇，{len(flagged)} 篇有待处理标记，总字符 {chars:,}")
+    if flag_count:
+        for flag, count in flag_count.most_common():
+            print(f"  - {flag}: {count}")
+
+
+if __name__ == "__main__":
+    main()

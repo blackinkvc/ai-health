@@ -1,1 +1,27 @@
-IyBtYWNPUwouRFNfU3RvcmUKLkFwcGxlRG91YmxlCi5fKgoKIyBQeXRob24KX19weWNhY2hlX18vCioucHljCioucHlvCgojIFRlbXAKLmNvd29yay10ZW1wLwoqLnRtcAoqLmJhawoqLnN3cAoKIyBJREUKLmlkZWEvCi52c2NvZGUvCgojIEVudgouZW52Ci5lbnYubG9jYWwKKi5wZW0KKi5rZXkKc2VjcmV0cyouanNvbgpzZWNyZXRzKi55YW1sCg==
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp
+.cowork-temp/
+*.tmp
+*.bak
+*.swp
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local
+*.pem
+*.key
+secrets*.json
+secrets*.yaml

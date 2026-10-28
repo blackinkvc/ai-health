@@ -1,1 +1,118 @@
-LS0tCnRpdGxlOiAi6ISC5rq25oCn57u055Sf57SgIEEvRC9FL0siCnNsdWc6ICJmYXQtc29sdWJsZS12aXRhbWlucyIKbW9kdWxlOiAi5b6u6YeP6JCl5YW757SgIgpvcmRlcjogMgpzdGF0dXM6ICJkcmFmdCIKdGFnczogW+e7tOeUn+e0oEEsIOe7tOeUn+e0oEQsIOe7tOeUn+e0oEUsIOe7tOeUn+e0oEssIOiEgua6tuaAp10Kc3VtbWFyeTogIkEg566h6KeG6KeJ5ZKM5LiK55qu77yMRCDnrqHpkpnno7flkozpqqjpqrzvvIxFIOaYr+aKl+awp+WMluWJgu+8jEsg566h5Yed6KGA77yb5Zub56eN6YO96ZqP6ISC6IKq5ZC45pS277yM6L+H6YeP5Lya5Zyo5L2T5YaF6JOE56ev44CCIgp1cGRhdGVkOiAyMDI2LTEwLTIzCi0tLQoKIyDohILmurbmgKfnu7TnlJ/ntKAgQS9EL0UvSwoKIyMg5qC45b+D57uT6K66CgrohILmurbmgKfnu7TnlJ/ntKDpnIDopoHohILogqrlkozog4bmsYHljY/liqnlkLjmlLbvvIzog73lnKjogp3ohI/miJbohILogqrnu4Tnu4flgqjlrZjvvIzlm6DmraQqKue8uuS5j+S4jeS8muS4gOWkqeWPkeeUn++8jOi/h+mHj+S5n+S4jeS8muS4gOWkqeaOkuWHuioq44CCCgoxLiDkvJjlhYjku47po5/nianojrflj5bvvIzlsKTlhbbmmK/mt7HoibLolKzoj5zjgIHlpbbnsbvjgIHom4vjgIHmt7HmtbfpsbzlkozmpI3nianmsrnjgIIKMi4g57u055Sf57SgIEQg5piv5ZSv5LiA5bi46ZyA6aKd5aSW6KGl5YWF55qE6ISC5rq25oCn57u055Sf57Sg77yM5bCk5YW25pel5pmS5LiN6Laz6ICF5ZKM6ICB5bm05Lq644CCCjMuIOe7tOeUn+e0oCBBIOWSjCBEIOeahOihpeWFheWJguWJgumHj+imgeS4peagvOeciyBVTO+8jOWtleacn+mrmOWJgumHj+e7tOeUn+e0oCBBIOacieiHtOeVuOmjjumZqeOAggoKIyMg5Zub56eN57u055Sf57Sg5a+554WnCgp8IOe7tOeUn+e0oCB8IOS4u+imgeWKn+iDvSB8IOS4u+imgeadpea6kCB8IOe8uuS5j+ihqOeOsCB8IOi/h+mHj+mjjumZqSB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IEEgfCDop4bop4njgIHlhY3nlqvjgIHkuIrnmq7lrozmlbTmgKfjgIHln7rlm6Dooajovr4gfCDliqjnianogp3ohI/jgIHom4vpu4TjgIHlpbbjgIHOsi3og6HokJ3ljZzntKDvvIjog6HokJ3ljZzjgIHljZfnk5zjgIHmt7Hnu7/lj7boj5zvvIkgfCDlpJznm7LjgIHlubLnnLznl4fjgIHlhY3nlqvlipvkuIvpmY0gfCDogp3mjZ/kvKTjgIHlpLTnl5vjgIHoh7TnlbggfAp8IEQgfCDpkpnno7flkLjmlLbjgIHpqqjpqrznn7/ljJbjgIHlhY3nlqvosIPoioIgfCDml6XmmZLjgIHmt7HmtbfpsbzjgIHom4vpu4TjgIHlvLrljJblpbYgfCDkvZ3lgbvnl4XjgIHpqqjova/ljJbjgIHogozml6DlipsgfCDpq5jpkpnooYDnl4fjgIHogr7nu5Pnn7MgfAp8IEUgfCDmipfmsKfljJbjgIHkv53miqTnu4bog57ohpwgfCDmpI3nianmsrnjgIHlnZrmnpzjgIHnp43lrZDjgIHnu7/lj7boj5wgfCDnvZXop4HvvIzml6nkuqflhL/murbooYAgfCDlh7rooYDpo47pmanjgIHlubLmibDnu7TnlJ/ntKAgSyB8CnwgSyB8IOWHneihgOWboOWtkOWQiOaIkOOAgemqqOS7o+iwoiB8IOa3see7v+WPtuiPnO+8iEsx77yJ44CB5Y+R6YW16aOf5ZOB5ZKM5Yqo54mp5oCn6aOf54mp77yISzLvvIkgfCDlh7rooYDlgL7lkJHjgIHmlrDnlJ/lhL/lh7rooYAgfCDkuIDoiKzpo5/nianov4fph4/po47pmankvY7vvIzooaXlhYXliYLpnIDms6jmhI8gfAoKIyMg57u055Sf57SgIEEKCiMjIyDlvaLlvI/kuI7mjaLnrpcKCi0g5Yqo54mp5oCn6aOf54mp5o+Q5L6bKirpooTmiJDlnovnu7TnlJ/ntKAgQSoq77yI6KeG6buE6YaH44CB6KeG6buE6YWv77yJ77yM5ZC45pS25Yip55So546H6auY44CCCi0g5qSN54mp5oCn6aOf54mp5o+Q5L6bKirOsi3og6HokJ3ljZzntKAqKuetieexu+iDoeiQneWNnOe0oO+8jOmcgOWcqOS9k+WGhei9rOWMlu+8jOi9rOWMlueOh+aciemZkOOAggotIOeUqOinhum7hOmGh+a0u+aAp+W9k+mHj++8iFJBRe+8iee7n+S4gOiuoemHj+OAggoKIyMjIOWPguiAg+aRhOWFpQoKLSDmiJDkurogUk5J77ya55S35oCn57qmIDgwMCDlvq7lhYsgUkFFL+Wkqe+8jOWls+aAp+e6piA3MDAg5b6u5YWLIFJBRS/lpKnjgIIKLSBVTO+8muaIkOS6uue6piAzMDAwIOW+ruWFiyBSQUUv5aSp44CCCi0g5a2V5pyf5LiN5bqU6Ieq6KGM5pyN55So6auY5YmC6YeP6KeG6buE6YaH6KGl5YWF5YmC44CCCgojIyMg5a6e55So5o+Q56S6CgotIOavj+WRqOWQgyAxIOasoeWKqOeJqeiCneiEj+WNs+WPr+aPkOS+m+Wkp+mHj+e7tOeUn+e0oCBB77yM5LiN6KaB5aSp5aSp5ZCD44CCCi0g5rex6Imy6JSs6I+c5Lit55qEIM6yLeiDoeiQneWNnOe0oOWQuOaUtumcgOimgeWwkemHj+ayueiEgu+8jOS9huS4jeW/heWkp+mHj+eUqOayueOAggotIOWknOebsuOAgeearuiCpOW5sueHpeOAgeWPjeWkjeaEn+afk+WPr+iDveaYr+e8uuS5j+S/oeWPt++8jOS9humcgOe7k+WQiOmlrumjn+WSjOajgOa1i+WIpOaWreOAggoKIyMg57u055Sf57SgIEQKCiMjIyDmnaXmupAKCjEuICoq5pel5pmSKirvvJrntKvlpJbnur8gQiDkvb/nmq7ogqTlkIjmiJDnu7TnlJ/ntKAgRDPvvIzmmK/mnIDkuLvopoHmnaXmupDjgIIKMi4gKirpo5/niakqKu+8mua3sea1t+mxvOOAgeibi+m7hOOAgeiCneiEj+OAgeW8uuWMluWltuOAggozLiAqKuihpeWFheWJgioq77yaRDMg5oiWIEQy44CCCgojIyMg5Y+C6ICD5pGE5YWlCgotIOaIkOS6uiBSTknvvJoxMCDlvq7lhYsv5aSp77yINDAwIElV77yJ44CCCi0gNjUg5bKB5Lul5LiK77yaMTUg5b6u5YWLL+Wkqe+8iDYwMCBJVe+8ieOAggotIFVM77ya5oiQ5Lq6IDUwIOW+ruWFiy/lpKnvvIgyMDAwIElV77yJ44CCCgojIyMg6auY6aOO6Zmp5Lq6576kCgotIOmVv+acn+WupOWGheW3peS9nOOAgemYsuaZkuS4peagvOOAgemrmOe6rOW6puWcsOWMugotIOiAgeW5tOS6uuOAgeearuiCpOiJsue0oOi+g+a3seiAhQotIOiCpeiDluS6uue+pO+8iOiEguiCque7hOe7h+S8muKAnOaJo+aKvOKAnee7tOeUn+e0oCBE77yJCi0g5oWi5oCn6IK+55eF44CB6IKd55eF44CB5ZC45pS25LiN6Imv6ICFCi0g5a2V5pyf5ZKM5ZO65Lmz5pyf77yI5oyJ5Yy75Zix77yJCgojIyMg5rOo5oSPCgotIOe7tOeUn+e0oCBEIOaYr+iEgua6tuaAp++8jOi/h+mHj+ihpeWFheWPr+iHtOmrmOmSmeihgOeXh+OAgeiCvue7k+efs+WSjOi9r+e7hOe7h+mSmeWMluOAggotIOihgCAyNShPSClEIOaYr+ivhOS8sOWCqOWkh+eahOW4uOeUqOaMh+agh++8jOS9huS4jeW6lOebsuebrui/veaxgui2iumrmOi2iuWlveOAggotIOaZkuWkqumYs+S4juihpeWFheWJguS4jeiDveeugOWNleaNoueul++8jOWPl+e6rOW6puOAgeWto+iKguOAgeiCpOiJsuOAgeaatOmcsumdouenr+W9seWTjeOAggoKIyMg57u055Sf57SgIEUKCi0g5YyF5ous55Sf6IKy6YWa5ZKM55Sf6IKy5LiJ54Ov6YWa77yMzrEt55Sf6IKy6YWa5rS75oCn5pyA6auY44CCCi0g5Li76KaB5L2c55So5piv5oqX5rCn5YyW77yM5L+d5oqk57uG6IOe6Iac5Lit55qE5aSa5LiN6aWx5ZKM6ISC6IKq6YW444CCCi0g5oiQ5Lq6IEFJIOe6piAxNCDmr6vlhYsgzrEt55Sf6IKy6YWa5b2T6YePL+Wkqe+8jFVMIOe6piA3MDAg5q+r5YWLL+WkqeOAggotIOe8uuS5j+e9leinge+8jOWkmuingeS6juS4pemHjeiEguiCquWQuOaUtuS4jeiJr+OAgeaXqeS6p+WEv+OAggotIOmrmOWJgumHj+ihpeWFheWPr+iDveWinuWKoOWHuuihgOmjjumZqe+8jOWwpOWFtuS4juaKl+WHneiNr+WQjOacjeaXtuOAggotIOmjn+eJqeadpea6kO+8muiRteiKseexveayueOAgeeOieexs+ayueOAgeWdmuaenOOAgeenjeWtkOOAgeiPoOiPnOOAggoKIyMg57u055Sf57SgIEsKCi0gSzHvvIjlj7bnu7/phozvvInmnaXoh6rnu7/lj7boj5zvvIxLMu+8iOeUsuiQmOmGjO+8ieadpeiHquWPkemFtemjn+WTgeWSjOWKqOeJqeaAp+mjn+eJqeOAggotIOWPguS4juWHneihgOWboOWtkCBJSeOAgVZJSeOAgUlY44CBWCDnmoTlkIjmiJDvvIzkuZ/lj4LkuI7pqqjpkpnntKDnvqfljJbjgIIKLSDmiJDkurogQUkg57qmIDgwIOW+ruWFiy/lpKnjgIIKLSDmlrDnlJ/lhL/luLjop4Tms6jlsITnu7TnlJ/ntKAgS++8jOmihOmYsuaWsOeUn+WEv+WHuuihgOeXh+OAggotIOacjeeUqOWNjuazleael+iAheW6lOS/neaMgee7tOeUn+e0oCBLIOaRhOWFpSoq56iz5a6aKirvvIzogIzkuI3mmK/lrozlhajkuI3lkIPnu7/lj7boj5zjgIIKLSDnvLrkuY/lj6/ooajnjrDkuLrmmJPlh7rooYDjgIHnmIDmlpHvvJvohILogqrlkLjmlLbkuI3oia/ogIXpo47pmanovoPpq5jjgIIKCiMjIOW4uOingeivr+WMugoKMS4gKirigJznu7TnlJ/ntKAgRCDooaXlvpfotorlpJrotorlpb3igJ0qKu+8mui2hei/hyBVTCDkvJrlop7liqDpq5jpkpnooYDnl4flkozogr7nu5Pnn7Ppo47pmanjgIIKMi4gKirigJzOsi3og6HokJ3ljZzntKDooaXlhYXliYLog73pmLLnmYzigJ0qKu+8muWQuOeDn+iAhemrmOWJgumHj+ihpeWFheWPjeiAjOWinuWKoOiCuueZjOmjjumZqeOAggozLiAqKuKAnOe7tOeUn+e0oCBFIOiDveaKl+ihsOiAgeKAnSoq77ya6auY5YmC6YeP6KGl5YWF5pyq5pi+56S66I6355uK77yM6L+Y5Y+v6IO95pyJ5Ye66KGA6aOO6Zmp44CCCjQuICoq4oCc5ZCD5Y2O5rOV5p6X5LiN6IO95ZCD57u/5Y+26I+c4oCdKirvvJrlhbPplK7mmK/mkYTlhaXph4/nqLPlrprvvIwgc3VkZGVuIOWkp+W5heWPmOWMluaJjeWNsemZqeOAggo1LiAqKuKAnOmqqOWktOaxpOiDveihpee7tOeUn+e0oCBE4oCdKirvvJrpqqjlpLTmsaTnu7TnlJ/ntKAgRCDlkKvph4/mnoHkvY7vvIzkuLvopoHpnaDml6XmmZLjgIHpsbznsbvlkozlvLrljJbpo5/lk4HjgIIKCiMjIOWunuaTjeW7uuiurgoKMS4g5q+P5aSp5L+d6K+B5LiA5Lu95rex6Imy6JSs6I+c44CB5LiA5p2v5aW244CB5LiA5Liq6JuL77yM5q+P5ZGoIDF+MiDmrKHmt7HmtbfpsbzjgIIKMi4g5pel5pmS5LiN6Laz6ICF5qOA5rWLIDI1KE9IKUQg5ZCO77yM5Zyo5Yy755Sf5oyH5a+85LiL6KGl5YWF57u055Sf57SgIETjgIIKMy4g57u055Sf57SgIEEg5LyY5YWI5LuO6aOf54mp6I635Y+W77yM5a2V5pyf6YG/5YWN6auY5YmC6YeP6KeG6buE6YaH6KGl5YWF5YmC44CCCjQuIOacjeeUqOaKl+WHneiNr+iAhe+8jOe7v+WPtuiPnOaRhOWFpeS/neaMgeeos+Wumu+8jOW5tuWumuacn+ebkea1i+WHneihgOaMh+agh+OAggo1LiDmnInohILogqrlkLjmlLbkuI3oia/jgIHogp3og4bnlr7nl4XmiJblh4/ph43miYvmnK/lj7LvvIzlrprmnJ/or4TkvLDohILmurbmgKfnu7TnlJ/ntKDjgIIKCiMjIOWPguiAg+adpea6kAoKLSDkuK3lm73okKXlhbvlrabkvJou44CK5Lit5Zu95bGF5rCR6Iaz6aOf6JCl5YW757Sg5Y+C6ICD5pGE5YWl6YeP77yIMjAyMyDniYjvvInjgIsKLSDkuK3lm73okKXlhbvlrabkvJou44CK5Lit5Zu95bGF5rCR6Iaz6aOf5oyH5Y2X77yIMjAyMu+8ieOAiwotIE5JSCBPZmZpY2Ugb2YgRGlldGFyeSBTdXBwbGVtZW50cy4gVml0YW1pbiBBLCBELCBFLCBLIGZhY3Qgc2hlZXRzCi0g5a2Z6ZW/6aKi5Li757yWLuOAiuiQpeWFu+S4jumjn+WTgeWNq+eUn+WtpuOAi++8iOS6uuawkeWNq+eUn+WHuueJiOekvu+8iQo=
+---
+title: "脂溶性维生素 A/D/E/K"
+slug: "fat-soluble-vitamins"
+module: "微量营养素"
+order: 2
+status: "draft"
+tags: [维生素A, 维生素D, 维生素E, 维生素K, 脂溶性]
+summary: "A 管视觉和上皮，D 管钙磷和骨骼，E 是抗氧化剂，K 管凝血；四种都随脂肪吸收，过量会在体内蓄积。"
+updated: 2026-10-23
+---
+
+# 脂溶性维生素 A/D/E/K
+
+## 核心结论
+
+脂溶性维生素需要脂肪和胆汁协助吸收，能在肝脏或脂肪组织储存，因此**缺乏不会一天发生，过量也不会一天排出**。
+
+1. 优先从食物获取，尤其是深色蔬菜、奶类、蛋、深海鱼和植物油。
+2. 维生素 D 是唯一常需额外补充的脂溶性维生素，尤其日晒不足者和老年人。
+3. 维生素 A 和 D 的补充剂剂量要严格看 UL，孕期高剂量维生素 A 有致畸风险。
+
+## 四种维生素对照
+
+| 维生素 | 主要功能 | 主要来源 | 缺乏表现 | 过量风险 |
+|---|---|---|---|---|
+| A | 视觉、免疫、上皮完整性、基因表达 | 动物肝脏、蛋黄、奶、β-胡萝卜素（胡萝卜、南瓜、深绿叶菜） | 夜盲、干眼症、免疫力下降 | 肝损伤、头痛、致畸 |
+| D | 钙磷吸收、骨骼矿化、免疫调节 | 日晒、深海鱼、蛋黄、强化奶 | 佝偻病、骨软化、肌无力 | 高钙血症、肾结石 |
+| E | 抗氧化、保护细胞膜 | 植物油、坚果、种子、绿叶菜 | 罕见，早产儿溶血 | 出血风险、干扰维生素 K |
+| K | 凝血因子合成、骨代谢 | 深绿叶菜（K1）、发酵食品和动物性食物（K2） | 出血倾向、新生儿出血 | 一般食物过量风险低，补充剂需注意 |
+
+## 维生素 A
+
+### 形式与换算
+
+- 动物性食物提供**预成型维生素 A**（视黄醇、视黄酯），吸收利用率高。
+- 植物性食物提供**β-胡萝卜素**等类胡萝卜素，需在体内转化，转化率有限。
+- 用视黄醇活性当量（RAE）统一计量。
+
+### 参考摄入
+
+- 成人 RNI：男性约 800 微克 RAE/天，女性约 700 微克 RAE/天。
+- UL：成人约 3000 微克 RAE/天。
+- 孕期不应自行服用高剂量视黄醇补充剂。
+
+### 实用提示
+
+- 每周吃 1 次动物肝脏即可提供大量维生素 A，不要天天吃。
+- 深色蔬菜中的 β-胡萝卜素吸收需要少量油脂，但不必大量用油。
+- 夜盲、皮肤干燥、反复感染可能是缺乏信号，但需结合饮食和检测判断。
+
+## 维生素 D
+
+### 来源
+
+1. **日晒**：紫外线 B 使皮肤合成维生素 D3，是最主要来源。
+2. **食物**：深海鱼、蛋黄、肝脏、强化奶。
+3. **补充剂**：D3 或 D2。
+
+### 参考摄入
+
+- 成人 RNI：10 微克/天（400 IU）。
+- 65 岁以上：15 微克/天（600 IU）。
+- UL：成人 50 微克/天（2000 IU）。
+
+### 高风险人群
+
+- 长期室内工作、防晒严格、高纬度地区
+- 老年人、皮肤色素较深者
+- 肥胖人群（脂肪组织会“扣押”维生素 D）
+- 慢性肾病、肝病、吸收不良者
+- 孕期和哺乳期（按医嘱）
+
+### 注意
+
+- 维生素 D 是脂溶性，过量补充可致高钙血症、肾结石和软组织钙化。
+- 血 25(OH)D 是评估储备的常用指标，但不应盲目追求越高越好。
+- 晒太阳与补充剂不能简单换算，受纬度、季节、肤色、暴露面积影响。
+
+## 维生素 E
+
+- 包括生育酚和生育三烯酚，α-生育酚活性最高。
+- 主要作用是抗氧化，保护细胞膜中的多不饱和脂肪酸。
+- 成人 AI 约 14 毫克 α-生育酚当量/天，UL 约 700 毫克/天。
+- 缺乏罕见，多见于严重脂肪吸收不良、早产儿。
+- 高剂量补充可能增加出血风险，尤其与抗凝药同服时。
+- 食物来源：葵花籽油、玉米油、坚果、种子、菠菜。
+
+## 维生素 K
+
+- K1（叶绿醌）来自绿叶菜，K2（甲萘醌）来自发酵食品和动物性食物。
+- 参与凝血因子 II、VII、IX、X 的合成，也参与骨钙素羧化。
+- 成人 AI 约 80 微克/天。
+- 新生儿常规注射维生素 K，预防新生儿出血症。
+- 服用华法林者应保持维生素 K 摄入**稳定**，而不是完全不吃绿叶菜。
+- 缺乏可表现为易出血、瘀斑；脂肪吸收不良者风险较高。
+
+## 常见误区
+
+1. **“维生素 D 补得越多越好”**：超过 UL 会增加高钙血症和肾结石风险。
+2. **“β-胡萝卜素补充剂能防癌”**：吸烟者高剂量补充反而增加肺癌风险。
+3. **“维生素 E 能抗衰老”**：高剂量补充未显示获益，还可能有出血风险。
+4. **“吃华法林不能吃绿叶菜”**：关键是摄入量稳定， sudden 大幅变化才危险。
+5. **“骨头汤能补维生素 D”**：骨头汤维生素 D 含量极低，主要靠日晒、鱼类和强化食品。
+
+## 实操建议
+
+1. 每天保证一份深色蔬菜、一杯奶、一个蛋，每周 1~2 次深海鱼。
+2. 日晒不足者检测 25(OH)D 后，在医生指导下补充维生素 D。
+3. 维生素 A 优先从食物获取，孕期避免高剂量视黄醇补充剂。
+4. 服用抗凝药者，绿叶菜摄入保持稳定，并定期监测凝血指标。
+5. 有脂肪吸收不良、肝胆疾病或减重手术史，定期评估脂溶性维生素。
+
+## 参考来源
+
+- 中国营养学会.《中国居民膳食营养素参考摄入量（2023 版）》
+- 中国营养学会.《中国居民膳食指南（2022）》
+- NIH Office of Dietary Supplements. Vitamin A, D, E, K fact sheets
+- 孙长颢主编.《营养与食品卫生学》（人民卫生出版社）

@@ -1,1 +1,102 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmoKHpqozokKXlhbvlrabotYTmlpnlupPnmoTnm67lvZXjgIHmqKHlnZflr7zor7vkuI4gZGF0YS9uYXYuanNvbiDmmK/lkKbkuIDoh7TjgIIiIiIKCmltcG9ydCBqc29uCmltcG9ydCByZQppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKTElCID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQKTkFWID0gTElCIC8gImRhdGEiIC8gIm5hdi5qc29uIgoKU1RBVFVTX1ZBTFVFUyA9IHsicGxhbm5lZCIsICJkcmFmdCIsICJyZXZpZXciLCAicHVibGlzaGVkIn0KZXJyb3JzID0gW10Kd2FybmluZ3MgPSBbXQoKCmRlZiBwYXJzZV9mcm9udG1hdHRlcih0ZXh0OiBzdHIpIC0+IGRpY3Q6CiAgICBpZiBub3QgdGV4dC5zdGFydHN3aXRoKCItLS0iKToKICAgICAgICByZXR1cm4ge30KICAgIGVuZCA9IHRleHQuZmluZCgiXG4tLS0iLCAzKQogICAgaWYgZW5kID09IC0xOgogICAgICAgIHJldHVybiB7fQogICAgZGF0YSA9IHt9CiAgICBmb3IgbGluZSBpbiB0ZXh0WzM6ZW5kXS5zdHJpcCgpLnNwbGl0bGluZXMoKToKICAgICAgICBpZiAiOiIgbm90IGluIGxpbmU6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAga2V5LCB2YWx1ZSA9IGxpbmUuc3BsaXQoIjoiLCAxKQogICAgICAgIGRhdGFba2V5LnN0cmlwKCldID0gdmFsdWUuc3RyaXAoKS5zdHJpcCgnIicpCiAgICByZXR1cm4gZGF0YQoKCmRlZiBtYWluKCkgLT4gaW50OgogICAgaWYgbm90IE5BVi5leGlzdHMoKToKICAgICAgICBwcmludChmIue8uuWwkeWvvOiIquaWh+S7tjoge05BVn0iKQogICAgICAgIHJldHVybiAxCgogICAgbmF2ID0ganNvbi5sb2FkcyhOQVYucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpKQogICAgbW9kdWxlcyA9IG5hdi5nZXQoIm1vZHVsZXMiLCBbXSkKICAgIHNsdWdzID0gc2V0KCkKICAgIHRvdGFsX3RvcGljcyA9IDAKICAgIHN0YXR1c19jb3VudCA9IHtrZXk6IDAgZm9yIGtleSBpbiBTVEFUVVNfVkFMVUVTfQoKICAgIGZvciBtb2R1bGUgaW4gbW9kdWxlczoKICAgICAgICBtb2R1bGVfZGlyID0gTElCIC8gbW9kdWxlWyJkaXIiXQogICAgICAgIGlmIG5vdCBtb2R1bGVfZGlyLmlzX2RpcigpOgogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKGYi57y65bCR5qih5Z2X55uu5b2VOiB7bW9kdWxlWydkaXInXX0iKQogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBndWlkZSA9IExJQiAvIG1vZHVsZVsiZ3VpZGUiXQogICAgICAgIGlmIG5vdCBndWlkZS5leGlzdHMoKToKICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIue8uuWwkeaooeWdl+WvvOivuzoge21vZHVsZVsnZ3VpZGUnXX0iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG1ldGEgPSBwYXJzZV9mcm9udG1hdHRlcihndWlkZS5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikpCiAgICAgICAgICAgIGlmIG1ldGEuZ2V0KCJzbHVnIikgIT0gZiJndWlkZS17bW9kdWxlWydpZCddfSI6CiAgICAgICAgICAgICAgICB3YXJuaW5ncy5hcHBlbmQoZiLlr7zor7sgc2x1ZyDkuI3ljLnphY06IHttb2R1bGVbJ2d1aWRlJ119IikKCiAgICAgICAgZm9yIHRvcGljIGluIG1vZHVsZVsidG9waWNzIl06CiAgICAgICAgICAgIHRvdGFsX3RvcGljcyArPSAxCiAgICAgICAgICAgIGlmIHRvcGljWyJzbHVnIl0gaW4gc2x1Z3M6CiAgICAgICAgICAgICAgICBlcnJvcnMuYXBwZW5kKGYi6YeN5aSNIHNsdWc6IHt0b3BpY1snc2x1ZyddfSIpCiAgICAgICAgICAgIHNsdWdzLmFkZCh0b3BpY1sic2x1ZyJdKQoKICAgICAgICAgICAgc3RhdHVzID0gdG9waWMuZ2V0KCJzdGF0dXMiLCAicGxhbm5lZCIpCiAgICAgICAgICAgIGlmIHN0YXR1cyBub3QgaW4gU1RBVFVTX1ZBTFVFUzoKICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiLpnZ7ms5XnirbmgIEge3N0YXR1c306IHt0b3BpY1snc2x1ZyddfSIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzdGF0dXNfY291bnRbc3RhdHVzXSArPSAxCgogICAgICAgICAgICBwbGFubmVkID0gTElCIC8gdG9waWNbInBsYW5uZWRQYXRoIl0KICAgICAgICAgICAgaWYgbm90IHBsYW5uZWQucGFyZW50LmlzX2RpcigpOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIuS4u+mimOi3r+W+hOeahOebruW9leS4jeWtmOWcqDoge3RvcGljWydwbGFubmVkUGF0aCddfSIpCiAgICAgICAgICAgIGlmIHN0YXR1cyAhPSAicGxhbm5lZCIgYW5kIG5vdCBwbGFubmVkLmV4aXN0cygpOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIueKtuaAgeS4uiB7c3RhdHVzfSDkvYbmlofku7bkuI3lrZjlnKg6IHt0b3BpY1sncGxhbm5lZFBhdGgnXX0iKQoKICAgICMg5om+5Ye65pyq55m76K6w5ZyoIG5hdi5qc29uIOeahOaWh+eroAogICAgZGVjbGFyZWQgPSB7aXRlbVsicGxhbm5lZFBhdGgiXSBmb3IgbSBpbiBtb2R1bGVzIGZvciBpdGVtIGluIG1bInRvcGljcyJdfQogICAgZm9yIHBhdGggaW4gTElCLmdsb2IoIiovKi5tZCIpOgogICAgICAgIGlmIHBhdGgubmFtZSBpbiB7IjAwLeaooeWdl+WvvOivuy5tZCJ9IG9yIHBhdGgucGFyZW50Lm5hbWUgaW4geyIwMC3mgLvop4giLCAiX+aooeadvyJ9OgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIHJlbGF0aXZlID0gZiJ7cGF0aC5wYXJlbnQubmFtZX0ve3BhdGgubmFtZX0iCiAgICAgICAgaWYgcmVsYXRpdmUgbm90IGluIGRlY2xhcmVkOgogICAgICAgICAgICB3YXJuaW5ncy5hcHBlbmQoZiLmnKrnmbvorrDnmoTmlofnq6A6IHtyZWxhdGl2ZX0iKQoKICAgIHByaW50KGYi5qih5Z2XOiB7bGVuKG1vZHVsZXMpfSAg5Li76aKYOiB7dG90YWxfdG9waWNzfSAg5bey5Y+R5biDOiB7c3RhdHVzX2NvdW50WydwdWJsaXNoZWQnXX0gICIKICAgICAgICAgIGYi5a6h5qChOiB7c3RhdHVzX2NvdW50WydyZXZpZXcnXX0gIOiNieeovzoge3N0YXR1c19jb3VudFsnZHJhZnQnXX0gIOW+heihpeWFhToge3N0YXR1c19jb3VudFsncGxhbm5lZCddfSIpCgogICAgaWYgd2FybmluZ3M6CiAgICAgICAgcHJpbnQoIlxu5o+Q56S6OiIpCiAgICAgICAgZm9yIGl0ZW0gaW4gd2FybmluZ3M6CiAgICAgICAgICAgIHByaW50KGYiICAtIHtpdGVtfSIpCiAgICBpZiBlcnJvcnM6CiAgICAgICAgcHJpbnQoIlxu6ZSZ6K+vOiIpCiAgICAgICAgZm9yIGl0ZW0gaW4gZXJyb3JzOgogICAgICAgICAgICBwcmludChmIiAgLSB7aXRlbX0iKQogICAgICAgIHJldHVybiAxCgogICAgcHJpbnQoIuagoemqjOmAmui/h++8muebruW9leOAgeWvvOivu+S4jiBuYXYuanNvbiDkuIDoh7TjgIIiKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""校验营养学资料库的目录、模块导读与 data/nav.json 是否一致。"""
+
+import json
+import re
+import sys
+from pathlib import Path
+
+LIB = Path(__file__).resolve().parent.parent
+NAV = LIB / "data" / "nav.json"
+
+STATUS_VALUES = {"planned", "draft", "review", "published"}
+errors = []
+warnings = []
+
+
+def parse_frontmatter(text: str) -> dict:
+    if not text.startswith("---"):
+        return {}
+    end = text.find("\n---", 3)
+    if end == -1:
+        return {}
+    data = {}
+    for line in text[3:end].strip().splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        data[key.strip()] = value.strip().strip('"')
+    return data
+
+
+def main() -> int:
+    if not NAV.exists():
+        print(f"缺少导航文件: {NAV}")
+        return 1
+
+    nav = json.loads(NAV.read_text(encoding="utf-8"))
+    modules = nav.get("modules", [])
+    slugs = set()
+    total_topics = 0
+    status_count = {key: 0 for key in STATUS_VALUES}
+
+    for module in modules:
+        module_dir = LIB / module["dir"]
+        if not module_dir.is_dir():
+            errors.append(f"缺少模块目录: {module['dir']}")
+            continue
+
+        guide = LIB / module["guide"]
+        if not guide.exists():
+            errors.append(f"缺少模块导读: {module['guide']}")
+        else:
+            meta = parse_frontmatter(guide.read_text(encoding="utf-8"))
+            if meta.get("slug") != f"guide-{module['id']}":
+                warnings.append(f"导读 slug 不匹配: {module['guide']}")
+
+        for topic in module["topics"]:
+            total_topics += 1
+            if topic["slug"] in slugs:
+                errors.append(f"重复 slug: {topic['slug']}")
+            slugs.add(topic["slug"])
+
+            status = topic.get("status", "planned")
+            if status not in STATUS_VALUES:
+                errors.append(f"非法状态 {status}: {topic['slug']}")
+            else:
+                status_count[status] += 1
+
+            planned = LIB / topic["plannedPath"]
+            if not planned.parent.is_dir():
+                errors.append(f"主题路径的目录不存在: {topic['plannedPath']}")
+            if status != "planned" and not planned.exists():
+                errors.append(f"状态为 {status} 但文件不存在: {topic['plannedPath']}")
+
+    # 找出未登记在 nav.json 的文章
+    declared = {item["plannedPath"] for m in modules for item in m["topics"]}
+    for path in LIB.glob("*/*.md"):
+        if path.name in {"00-模块导读.md"} or path.parent.name in {"00-总览", "_模板"}:
+            continue
+        relative = f"{path.parent.name}/{path.name}"
+        if relative not in declared:
+            warnings.append(f"未登记的文章: {relative}")
+
+    print(f"模块: {len(modules)}  主题: {total_topics}  已发布: {status_count['published']}  "
+          f"审校: {status_count['review']}  草稿: {status_count['draft']}  待补充: {status_count['planned']}")
+
+    if warnings:
+        print("\n提示:")
+        for item in warnings:
+            print(f"  - {item}")
+    if errors:
+        print("\n错误:")
+        for item in errors:
+            print(f"  - {item}")
+        return 1
+
+    print("校验通过：目录、导读与 nav.json 一致。")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,1 +1,69 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmoKHpqowgZGF0YS9uYXYuanNvbiDkuI4gY29udGVudC8g5LiL55qEIE1hcmtkb3duIOaYr+WQpuS4gOiHtOOAgiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IHJlCmltcG9ydCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudC5wYXJlbnQKTkFWID0gUk9PVCAvICJkYXRhIiAvICJuYXYuanNvbiIKCgpkZWYgcGFyc2VfZnJvbnRtYXR0ZXIodGV4dDogc3RyKSAtPiBkaWN0OgogICAgaWYgbm90IHRleHQuc3RhcnRzd2l0aCgiLS0tIik6CiAgICAgICAgcmV0dXJuIHt9CiAgICBlbmQgPSB0ZXh0LmZpbmQoIlxuLS0tIiwgMykKICAgIGlmIGVuZCA9PSAtMToKICAgICAgICByZXR1cm4ge30KICAgIGRhdGEgPSB7fQogICAgZm9yIGxpbmUgaW4gdGV4dFszOmVuZF0uc3RyaXAoKS5zcGxpdGxpbmVzKCk6CiAgICAgICAgaWYgIjoiIG5vdCBpbiBsaW5lOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGtleSwgdmFsdWUgPSBsaW5lLnNwbGl0KCI6IiwgMSkKICAgICAgICBkYXRhW2tleS5zdHJpcCgpXSA9IHZhbHVlLnN0cmlwKCkuc3RyaXAoJyInKQogICAgcmV0dXJuIGRhdGEKCgpkZWYgbWFpbigpIC0+IGludDoKICAgIG5hdiA9IGpzb24ubG9hZHMoTkFWLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgIGVycm9ycyA9IFtdCiAgICBzZWVuX3NsdWdzID0gc2V0KCkKICAgIHRvdGFsID0gMAoKICAgIGZvciBjYXRlZ29yeSBpbiBuYXZbImNhdGVnb3JpZXMiXToKICAgICAgICBmb3IgYXJ0aWNsZSBpbiBjYXRlZ29yeVsiYXJ0aWNsZXMiXToKICAgICAgICAgICAgdG90YWwgKz0gMQogICAgICAgICAgICBwYXRoID0gUk9PVCAvIGFydGljbGVbInBhdGgiXQogICAgICAgICAgICBpZiBub3QgcGF0aC5leGlzdHMoKToKICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiLnvLrlpLHmlofku7Y6IHthcnRpY2xlWydwYXRoJ119IikKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIG1ldGEgPSBwYXJzZV9mcm9udG1hdHRlcihwYXRoLnJlYWRfdGV4dChlbmNvZGluZz0idXRmLTgiKSkKICAgICAgICAgICAgaWYgbWV0YS5nZXQoInRpdGxlIikgIT0gYXJ0aWNsZVsidGl0bGUiXToKICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiLmoIfpopjkuI3kuIDoh7Q6IHthcnRpY2xlWydwYXRoJ119ICh7bWV0YS5nZXQoJ3RpdGxlJykhcn0gIT0ge2FydGljbGVbJ3RpdGxlJ10hcn0pIikKICAgICAgICAgICAgaWYgbWV0YS5nZXQoInNsdWciKSAhPSBhcnRpY2xlWyJzbHVnIl06CiAgICAgICAgICAgICAgICBlcnJvcnMuYXBwZW5kKGYic2x1ZyDkuI3kuIDoh7Q6IHthcnRpY2xlWydwYXRoJ119ICh7bWV0YS5nZXQoJ3NsdWcnKSFyfSAhPSB7YXJ0aWNsZVsnc2x1ZyddIXJ9KSIpCiAgICAgICAgICAgIGlmIGFydGljbGVbInNsdWciXSBpbiBzZWVuX3NsdWdzOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIumHjeWkjSBzbHVnOiB7YXJ0aWNsZVsnc2x1ZyddfSIpCiAgICAgICAgICAgIHNlZW5fc2x1Z3MuYWRkKGFydGljbGVbInNsdWciXSkKICAgICAgICAgICAgYm9keSA9IHBhdGgucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCiAgICAgICAgICAgIGlmIG5vdCByZS5zZWFyY2gociJeIyAuKyIsIGJvZHksIHJlLk0pOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIue8uuWwkeS4gOe6p+agh+mimDoge2FydGljbGVbJ3BhdGgnXX0iKQoKICAgIGFjdHVhbCA9IHtwLm5hbWUgZm9yIHAgaW4gKFJPT1QgLyAiY29udGVudCIpLnJnbG9iKCIqLm1kIil9CiAgICBkZWNsYXJlZCA9IHtQYXRoKGFbInBhdGgiXSkubmFtZSBmb3IgYyBpbiBuYXZbImNhdGVnb3JpZXMiXSBmb3IgYSBpbiBjWyJhcnRpY2xlcyJdfQogICAgZm9yIG5hbWUgaW4gc29ydGVkKGFjdHVhbCAtIGRlY2xhcmVkKToKICAgICAgICBlcnJvcnMuYXBwZW5kKGYi5pyq55m76K6w5ZyoIG5hdi5qc29uOiB7bmFtZX0iKQoKICAgIHByaW50KGYi5YiG57G7OiB7bGVuKG5hdlsnY2F0ZWdvcmllcyddKX0gIOaWh+eroDoge3RvdGFsfSAg5a6e6ZmF5paH5Lu2OiB7bGVuKGFjdHVhbCl9IikKICAgIGlmIGVycm9yczoKICAgICAgICBwcmludCgiXG7lj5HnjrDpl67popg6IikKICAgICAgICBmb3IgZXJyb3IgaW4gZXJyb3JzOgogICAgICAgICAgICBwcmludChmIiAgLSB7ZXJyb3J9IikKICAgICAgICByZXR1cm4gMQogICAgcHJpbnQoIuagoemqjOmAmui/h++8mm5hdi5qc29uIOS4jiBjb250ZW50LyDlrozlhajkuIDoh7TjgIIiKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""校验 data/nav.json 与 content/ 下的 Markdown 是否一致。"""
+
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+NAV = ROOT / "data" / "nav.json"
+
+
+def parse_frontmatter(text: str) -> dict:
+    if not text.startswith("---"):
+        return {}
+    end = text.find("\n---", 3)
+    if end == -1:
+        return {}
+    data = {}
+    for line in text[3:end].strip().splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        data[key.strip()] = value.strip().strip('"')
+    return data
+
+
+def main() -> int:
+    nav = json.loads(NAV.read_text(encoding="utf-8"))
+    errors = []
+    seen_slugs = set()
+    total = 0
+
+    for category in nav["categories"]:
+        for article in category["articles"]:
+            total += 1
+            path = ROOT / article["path"]
+            if not path.exists():
+                errors.append(f"缺失文件: {article['path']}")
+                continue
+            meta = parse_frontmatter(path.read_text(encoding="utf-8"))
+            if meta.get("title") != article["title"]:
+                errors.append(f"标题不一致: {article['path']} ({meta.get('title')!r} != {article['title']!r})")
+            if meta.get("slug") != article["slug"]:
+                errors.append(f"slug 不一致: {article['path']} ({meta.get('slug')!r} != {article['slug']!r})")
+            if article["slug"] in seen_slugs:
+                errors.append(f"重复 slug: {article['slug']}")
+            seen_slugs.add(article["slug"])
+            body = path.read_text(encoding="utf-8")
+            if not re.search(r"^# .+", body, re.M):
+                errors.append(f"缺少一级标题: {article['path']}")
+
+    actual = {p.name for p in (ROOT / "content").rglob("*.md")}
+    declared = {Path(a["path"]).name for c in nav["categories"] for a in c["articles"]}
+    for name in sorted(actual - declared):
+        errors.append(f"未登记在 nav.json: {name}")
+
+    print(f"分类: {len(nav['categories'])}  文章: {total}  实际文件: {len(actual)}")
+    if errors:
+        print("\n发现问题:")
+        for error in errors:
+            print(f"  - {error}")
+        return 1
+    print("校验通过：nav.json 与 content/ 完全一致。")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

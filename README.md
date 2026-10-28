@@ -1,1 +1,75 @@
-IyDlgaXlurfppa7po5/pobnnm64KCumhueebruWIhuS4pOmDqOWIhu+8muaWsOW7uueahCoq57O757uf5YyW6JCl5YW75a2m6LWE5paZ5bqTKirvvIzku6Xlj4rmraTliY3nmoQqKuWHj+mHjeS4k+mimOaXp+eJiCoq77yI5L+d55WZ5L2c57Sg5p2Q5LiO5a+554Wn77yJ44CCCgojIyDnm67lvZXnu5PmnoQKCmBgYHRleHQK5YGl5bq3LwrilJzilIDilIAgUkVBRE1FLm1kCuKUnOKUgOKUgCDokKXlhbvlrabotYTmlpnlupMvICAgICAgICAgICAgICAgICAgIOKGkCDlvZPliY3kuLvnur8K4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZCAgICAgICAgICAgICAgICAgICDorr7orqHljp/liJnjgIHooaXlhYXmtYHnqIvjgIFIVE1MIOermeeCuQrilIIgICDilJzilIDilIAgMDAt5oC76KeILwrilIIgICDilIIgICDilJzilIDilIAgMDAt5oC755uu5b2VLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMS3lrabkuaDot6/lvoQubWQK4pSCICAg4pSCICAg4pSU4pSA4pSAIDAyLeacr+ivreihqC5tZArilIIgICDilJzilIDilIAgMDEt6JCl5YW75a2m5Z+656GALyDigKYgMTQt5LiT6aKYLyAgIDE0IOS4quaooeWdl++8jOWQhOWQqyAwMC3mqKHlnZflr7zor7subWQK4pSCICAg4pSc4pSA4pSAIF/mqKHmnb8v5paH56ug5qih5p2/Lm1kCuKUgiAgIOKUnOKUgOKUgCBkYXRhL25hdi5qc29uICAgICAgICAgICAgICAg5qih5Z2XIC8g5Li76aKYIC8g54q25oCBCuKUgiAgIOKUnOKUgOKUgCBwYWdlcy8gICAgICAgICAgICAgICAgICAgICAgSFRNTCDnq5nngrnvvIhpbmRleC5odG1s77yJCuKUgiAgIOKUnOKUgOKUgCBhc3NldHMvICAgICAgICAgICAgICAgICAgICAgY3NzIC8ganMgLyBpbWFnZXMK4pSCICAg4pSU4pSA4pSAIHNjcmlwdHMvCuKUgiAgICAgICDilJzilIDilIAgc2NhZmZvbGRfbGlicmFyeS5weQrilIIgICAgICAg4pSU4pSA4pSAIGNoZWNrX3N0cnVjdHVyZS5weQrilJzilIDilIAg5pen54mILeWHj+mHjeS4k+mimC8gICAgICAgICAgICAgICAgICAg4oaQIOS/neeVmeeahCAyNyDnr4flh4/ph43lhoXlrrkK4pSCICAg4pSc4pSA4pSAIFJFQURNRS5tZArilIIgICDilJzilIDilIAgY29udGVudC8K4pSCICAg4pSc4pSA4pSAIGRhdGEvCuKUgiAgIOKUnOKUgOKUgCBwYWdlcy8K4pSCICAg4pSc4pSA4pSAIGFzc2V0cy8K4pSCICAg4pSU4pSA4pSAIHNjcmlwdHMvCuKUnOKUgOKUgCDljp/lp4votYTmlpkvICAgICAgICAgICAgICAgICAgICAgICDkuKTku73ljp/lp4sgZG9jeCAvIG1kCuKUlOKUgOKUgCAuY293b3JrLXRlbXAvICAgICAgICAgICAgICAgICAgIOS4tOaXtuebruW9le+8jOWPr+maj+aXtua4heeQhgpgYGAKCiMjIOiQpeWFu+Wtpui1hOaWmeW6kwoKMTQg5Liq5qih5Z2X44CBNjgg5Liq5Li76aKY77yM6KaG55uW77yaCgoxLiDokKXlhbvlrabln7rnoYAKMi4g5a6P6YeP6JCl5YW757SgCjMuIOW+rumHj+iQpeWFu+e0oAo0LiDpo5/niankuI7po5/lk4EKNS4g6Iaz6aOf5qih5byP5LiO5oyH5Y2XCjYuIOiDvemHj+W5s+ihoeS4juS9k+mHjeeuoeeQhgo3LiDnlJ/lkb3lkajmnJ/okKXlhbsKOC4g6L+Q5Yqo6JCl5YW7CjkuIOeWvueXheiQpeWFuwoxMC4g6JCl5YW76K+E5Lyw5LiO5bmy6aKECjExLiDooaXliYLkuI7lip/og73po5/lk4EKMTIuIOW+quivgeiQpeWFu+S4jui+n+iwowoxMy4g5a6e5pON5bel5YW3CjE0LiDkuJPpopgKCjE0IOS4quaooeWdl+OAgTY4IOS4quS4u+mimOWdh+W3suWujOaIkOWIneeov++8jOmdmeaAgSBIVE1MIOermeeCueW3sueUn+aIkOOAguWFpeWPo++8mlvokKXlhbvlrabotYTmlpnlupMgUkVBRE1FXSjokKXlhbvlrabotYTmlpnlupMvUkVBRE1FLm1kKSDCtyBb56uZ54K56aaW6aG1XSjokKXlhbvlrabotYTmlpnlupMvcGFnZXMvaW5kZXguaHRtbCnjgIIKCiMjIOaXp+eJiOWHj+mHjeS4k+mimAoK5q2k5YmN55qEIDYg5aSn57G7IDI3IOevh+aWh+eroO+8jOWGheWuueWujOaVtO+8jOWBj+mHjSLlh4/ph40gKyDpo5/nianpmbfpmLEgKyDml6XluLjor6/ljLoi44CC546w5Zyo5L2c5Li654us56uL5LiT6aKY5L+d55WZ77yM5ZCO57ut5Y+v5oqK5YW25Lit5oiQ54af5YaF5a656L+B5YWl5paw5bqT55qEIDA2IOaooeWdl+aIliAxNC3kuJPpopjjgIIKCuWFpeWPo++8mlvml6fniYggUkVBRE1FXSjml6fniYgt5YeP6YeN5LiT6aKYL1JFQURNRS5tZCnjgIIKCiMjIOS4i+S4gOatpQoKMS4g5a6h5qChIDY4IOevh+WIneeov+eahOadpea6kOOAgeaVsOWtl+WSjOihqOi/sO+8jOmAkOevh+aKiiBzdGF0dXMg5LuOIGRyYWZ0IOaUueS4uiByZXZpZXcgLyBwdWJsaXNoZWTjgIIKMi4g6KGl5YWF6YWN5Zu+44CB5Zu+6KGo5ZKM5qGI5L6L77yM5o+Q5Y2H5Y+v6K+75oCn44CCCjMuIOagueaNruWuoeagoee7k+aenOmHjeaWsOi/kOihjCBgYnVpbGRfc2l0ZS5weWDvvIzlj5HluIPnq5nngrnjgIIKNC4g5a6a5pyf5pu05paw5oyH5Y2X5ZKM6K+B5o2u77yM6K6w5b2V54mI5pys5Y+Y5YyW44CCCgojIyDnu7TmiqTlkb3ku6QKCmBgYGJhc2gKY2Qg6JCl5YW75a2m6LWE5paZ5bqTCnB5dGhvbjMgc2NyaXB0cy9jaGVja19zdHJ1Y3R1cmUucHkgICAgICMg5qCh6aqM55uu5b2V5LiO5a+86IiqCnB5dGhvbjMgc2NyaXB0cy9zY2FmZm9sZF9saWJyYXJ5LnB5ICAgICMg6YeN5paw55Sf5oiQ5qih5Z2X5a+86K+75ZKMIG5hdi5qc29uCmBgYAo=
+# 健康饮食项目
+
+项目分两部分：新建的**系统化营养学资料库**，以及此前的**减重专题旧版**（保留作素材与对照）。
+
+## 目录结构
+
+```text
+健康/
+├── README.md
+├── 营养学资料库/                   ← 当前主线
+│   ├── README.md                   设计原则、补充流程、HTML 站点
+│   ├── 00-总览/
+│   │   ├── 00-总目录.md
+│   │   ├── 01-学习路径.md
+│   │   └── 02-术语表.md
+│   ├── 01-营养学基础/ … 14-专题/   14 个模块，各含 00-模块导读.md
+│   ├── _模板/文章模板.md
+│   ├── data/nav.json               模块 / 主题 / 状态
+│   ├── pages/                      HTML 站点（index.html）
+│   ├── assets/                     css / js / images
+│   └── scripts/
+│       ├── scaffold_library.py
+│       └── check_structure.py
+├── 旧版-减重专题/                   ← 保留的 27 篇减重内容
+│   ├── README.md
+│   ├── content/
+│   ├── data/
+│   ├── pages/
+│   ├── assets/
+│   └── scripts/
+├── 原始资料/                       两份原始 docx / md
+└── .cowork-temp/                   临时目录，可随时清理
+```
+
+## 营养学资料库
+
+14 个模块、68 个主题，覆盖：
+
+1. 营养学基础
+2. 宏量营养素
+3. 微量营养素
+4. 食物与食品
+5. 膳食模式与指南
+6. 能量平衡与体重管理
+7. 生命周期营养
+8. 运动营养
+9. 疾病营养
+10. 营养评估与干预
+11. 补剂与功能食品
+12. 循证营养与辟谣
+13. 实操工具
+14. 专题
+
+14 个模块、68 个主题均已完成初稿，静态 HTML 站点已生成。入口：[营养学资料库 README](营养学资料库/README.md) · [站点首页](营养学资料库/pages/index.html)。
+
+## 旧版减重专题
+
+此前的 6 大类 27 篇文章，内容完整，偏重"减重 + 食物陷阱 + 日常误区"。现在作为独立专题保留，后续可把其中成熟内容迁入新库的 06 模块或 14-专题。
+
+入口：[旧版 README](旧版-减重专题/README.md)。
+
+## 下一步
+
+1. 审校 68 篇初稿的来源、数字和表述，逐篇把 status 从 draft 改为 review / published。
+2. 补充配图、图表和案例，提升可读性。
+3. 根据审校结果重新运行 `build_site.py`，发布站点。
+4. 定期更新指南和证据，记录版本变化。
+
+## 维护命令
+
+```bash
+cd 营养学资料库
+python3 scripts/check_structure.py     # 校验目录与导航
+python3 scripts/scaffold_library.py    # 重新生成模块导读和 nav.json
+```

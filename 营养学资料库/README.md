@@ -1,1 +1,174 @@
-IyDokKXlhbvlrabotYTmlpnlupMKCuS4gOS4quezu+e7n+WMluOAgeWPr+aJqeWxleOAgeW8uuiwg+W+quivgeeahOiQpeWFu+WtpuefpeivhuW6k+OAguW9k+WJjeaYryAqKjEuMCDliJ3nqL/lrozmiJAqKu+8mjE0IOS4quaooeWdl+OAgTY4IOS4quS4u+mimOWFqOmDqOacieWIneeov++8jOmdmeaAgSBIVE1MIOermeeCueW3sueUn+aIkOOAggoKIyMg6K6+6K6h5Y6f5YiZCgoxLiAqKuWFiOahhuaetu+8jOWQjuWGheWuuSoq77yaNjgg5Liq5Li76aKY5YWI5a6a5aW95L2N572u5ZKM5qC45b+D6Zeu6aKY77yM6YG/5YWN5YaZ5Yiw5ZOq566X5ZOq44CCCjIuICoq5oyJ6Zeu6aKY57uE57uH77yM5LiN5oyJ5ZCN6K+N5aCG56CMKirvvJrmr4/kuKrkuLvpopjpg73lv4Xpobvlm57nrZTkuIDkuKrmmI7noa7pl67popjjgIIKMy4gKiror4Hmja7kvJjlhYgqKu+8muaVsOWtl+WSjOe7k+iuuuimgeaxguWPr+i/vea6r+WIsOaMh+WNl+OAgeaVmeadkOaIluWOn+Wni+aWh+eMruOAggo0LiAqKuWMuuWIhuehruWumuaAp+S4juS6ieiurioq77ya5YmN5rK/6K+d6aKY5Y2V54us5pS+5YWlIDE0IOS4k+mimO+8jOW5tuagh+azqOivgeaNruW8uuW6puOAggo1LiAqKuWPr+eUn+aIkOe9keermSoq77yaYGRhdGEvbmF2Lmpzb25gIOaYr+WUr+S4gOWvvOiIquaVsOaNrua6kO+8jE1hcmtkb3duIOWPr+ebtOaOpei9rCBIVE1M44CCCgojIyDmqKHlnZfmgLvop4gKCnwgIyB8IOaooeWdlyB8IOS4u+mimOaVsCB8IOWumuS9jSB8CnwtLS18LS0tfC0tLXwtLS18CnwgMDAgfCDmgLvop4ggfCAzIHwg5oC755uu5b2V44CB5a2m5Lmg6Lev5b6E44CB5pyv6K+t6KGoIHwKfCAwMSB8IOiQpeWFu+WtpuWfuuehgCB8IDQgfCDlrabnp5HlnZDmoIfjgIHmtojljJblkLjmlLbjgIHog73ph4/ku6PosKLjgIFEUklzIHwKfCAwMiB8IOWuj+mHj+iQpeWFu+e0oCB8IDUgfCDom4vnmb3otKjjgIHnorPmsLTjgIHohILnsbvjgIHnuqTnu7TjgIHmsLTnlLXop6PotKggfAp8IDAzIHwg5b6u6YeP6JCl5YW757SgIHwgNiB8IOe7tOeUn+e0oOOAgeefv+eJqei0qOOAgeakjeeJqeWMluWtpueJqSB8CnwgMDQgfCDpo5/niankuI7po5/lk4EgfCA1IHwg6aOf54mp5YiG57G744CB5Yqg5bel44CB54O56aWq44CB5qCH562+44CB5a6J5YWoIHwKfCAwNSB8IOiGs+mjn+aooeW8j+S4juaMh+WNlyB8IDQgfCDkuK3lm73mjIfljZfjgIHlnLDkuK3mtbfjgIFEQVNI44CB57Sg6aOfIHwKfCAwNiB8IOiDvemHj+W5s+ihoeS4juS9k+mHjeeuoeeQhiB8IDUgfCDlh4/ph43jgIHlop7ogozjgIHnu7TmjIHjgIHov5vpo5/ooYzkuLogfAp8IDA3IHwg55Sf5ZG95ZGo5pyf6JCl5YW7IHwgNSB8IOWtleS5s+OAgeWptOW5vOWEv+OAgeWEv+erpemdkuWwkeW5tOOAgeaIkOW5tOOAgeiAgeW5tCB8CnwgMDggfCDov5DliqjokKXlhbsgfCA0IHwg6L+Q5Yqo5Luj6LCi44CB6KGl57uZ44CB5aKe6IKM5YeP6ISC44CB6KGl5YmCIHwKfCAwOSB8IOeWvueXheiQpeWFuyB8IDkgfCDogqXog5bjgIHns5blsL/nl4XjgIHlv4PooYDnrqHjgIHnl5vpo47jgIHogr7nl4XnrYkgfAp8IDEwIHwg6JCl5YW76K+E5Lyw5LiO5bmy6aKEIHwgNSB8IOiGs+mjn+iwg+afpeOAgea1i+mHj+OAgeiviuaWreOAgeWSqOivoiB8CnwgMTEgfCDooaXliYLkuI7lip/og73po5/lk4EgfCA0IHwg6KGl5YmC6K+B5o2u44CB5rOV6KeE44CB6YCJ6LSt6aOO6ZmpIHwKfCAxMiB8IOW+quivgeiQpeWFu+S4jui+n+iwoyB8IDQgfCDnoJTnqbborr7orqHjgIHkuonorq7jgIHosKPoqIDor4bliKvjgIHkv6Hmga/mupAgfAp8IDEzIHwg5a6e5pON5bel5YW3IHwgNCB8IOaIkOWIhuihqOOAgeS7vemHj+OAgemjn+iwseOAgeiusOW9lSB8CnwgMTQgfCDkuJPpopggfCA0IHwg6IKg6YGT6I+M576k44CB5pe26Ze06JCl5YW744CB57K+5YeG6JCl5YW744CB5Y+v5oyB57ut6aWu6aOfIHwKCuWQiOiuoSAqKjY4IOS4quS4u+mimCoq44CC5q+P5Liq5qih5Z2X55qEIGAwMC3mqKHlnZflr7zor7subWRgIOmHjOacieWujOaVtOS4u+mimOihqOWSjOaguOW/g+mXrumimOOAggoKIyMg55uu5b2V57uT5p6ECgpgYGB0ZXh0CuiQpeWFu+Wtpui1hOaWmeW6ky8K4pSc4pSA4pSAIFJFQURNRS5tZArilJzilIDilIAgMDAt5oC76KeILwrilIIgICDilJzilIDilIAgMDAt5oC755uu5b2VLm1kCuKUgiAgIOKUnOKUgOKUgCAwMS3lrabkuaDot6/lvoQubWQK4pSCICAg4pSU4pSA4pSAIDAyLeacr+ivreihqC5tZArilJzilIDilIAgMDEt6JCl5YW75a2m5Z+656GALwrilIIgICDilJTilIDilIAgMDAt5qih5Z2X5a+86K+7Lm1kCuKUnOKUgOKUgCAwMi3lro/ph4/okKXlhbvntKAvCuKUgiAgIOKUlOKUgOKUgCAwMC3mqKHlnZflr7zor7subWQK4pSc4pSA4pSAIDAzLeW+rumHj+iQpeWFu+e0oC8K4pSCICAg4pSU4pSA4pSAIDAwLeaooeWdl+WvvOivuy5tZArilJzilIDilIAgMDQt6aOf54mp5LiO6aOf5ZOBLwrilIIgICDilJTilIDilIAgMDAt5qih5Z2X5a+86K+7Lm1kCuKUnOKUgOKUgCAwNS3ohrPpo5/mqKHlvI/kuI7mjIfljZcvCuKUgiAgIOKUlOKUgOKUgCAwMC3mqKHlnZflr7zor7subWQK4pSc4pSA4pSAIDA2LeiDvemHj+W5s+ihoeS4juS9k+mHjeeuoeeQhi8K4pSCICAg4pSU4pSA4pSAIDAwLeaooeWdl+WvvOivuy5tZArilJzilIDilIAgMDct55Sf5ZG95ZGo5pyf6JCl5YW7LwrilIIgICDilJTilIDilIAgMDAt5qih5Z2X5a+86K+7Lm1kCuKUnOKUgOKUgCAwOC3ov5DliqjokKXlhbsvCuKUgiAgIOKUlOKUgOKUgCAwMC3mqKHlnZflr7zor7subWQK4pSc4pSA4pSAIDA5LeeWvueXheiQpeWFuy8K4pSCICAg4pSU4pSA4pSAIDAwLeaooeWdl+WvvOivuy5tZArilJzilIDilIAgMTAt6JCl5YW76K+E5Lyw5LiO5bmy6aKELwrilIIgICDilJTilIDilIAgMDAt5qih5Z2X5a+86K+7Lm1kCuKUnOKUgOKUgCAxMS3ooaXliYLkuI7lip/og73po5/lk4EvCuKUgiAgIOKUlOKUgOKUgCAwMC3mqKHlnZflr7zor7subWQK4pSc4pSA4pSAIDEyLeW+quivgeiQpeWFu+S4jui+n+iwoy8K4pSCICAg4pSU4pSA4pSAIDAwLeaooeWdl+WvvOivuy5tZArilJzilIDilIAgMTMt5a6e5pON5bel5YW3LwrilIIgICDilJTilIDilIAgMDAt5qih5Z2X5a+86K+7Lm1kCuKUnOKUgOKUgCAxNC3kuJPpopgvCuKUgiAgIOKUlOKUgOKUgCAwMC3mqKHlnZflr7zor7subWQK4pSc4pSA4pSAIF/mqKHmnb8vCuKUgiAgIOKUlOKUgOKUgCDmlofnq6DmqKHmnb8ubWQK4pSc4pSA4pSAIGRhdGEvCuKUgiAgIOKUlOKUgOKUgCBuYXYuanNvbgrilJzilIDilIAgcGFnZXMvICAgICAgICAgICAgICAgICAgICAgICAgSFRNTCDnq5nngrnvvIjnm7TmjqXmiZPlvIAgaW5kZXguaHRtbO+8iQrilIIgICDilJzilIDilIAgaW5kZXguaHRtbArilIIgICDilJzilIDilIAgbW9kdWxlLyAgICAgICAgICAgICAgICAgICAxNCDkuKrmqKHlnZfpobUK4pSCICAg4pSc4pSA4pSAIHRvcGljLyAgICAgICAgICAgICAgICAgICAgNjgg5Liq5Li76aKY6aG1CuKUgiAgIOKUnOKUgOKUgCBhc3NldHMvICAgICAgICAgICAgICAgICAgIGNzcyAvIGpzIC8g5pCc57Si57Si5byVCuKUgiAgIOKUnOKUgOKUgCBtYXN0ZXItaW5kZXguaHRtbArilIIgICDilJzilIDilIAgbGVhcm5pbmctcGF0aHMuaHRtbArilIIgICDilJTilIDilIAgZ2xvc3NhcnkuaHRtbArilJzilIDilIAgYXNzZXRzLyAgICAgICAgICAgICAgICAgICAgICAg6aKE55WZ55uu5b2V77yI5p6E5bu66L6T5Ye65ZyoIHBhZ2VzL2Fzc2V0c++8iQrilJTilIDilIAgc2NyaXB0cy8KICAgIOKUnOKUgOKUgCBzY2FmZm9sZF9saWJyYXJ5LnB5ICAgICAgIOeUn+aIkOaooeWdl+WvvOivu+OAgeaAu+ebruW9leOAgW5hdi5qc29uCiAgICDilJzilIDilIAgY2hlY2tfc3RydWN0dXJlLnB5ICAgICAgICDmoKHpqoznm67lvZXkuI7lr7zoiKrkuIDoh7TmgKcKICAgIOKUlOKUgOKUgCBidWlsZF9zaXRlLnB5ICAgICAgICAgICAgIOaehOW7uumdmeaAgSBIVE1MIOermeeCuQpgYGAKCiMjIOWmguS9leihpeWFheWGheWuuQoKMS4g5omT5byA55uu5qCH5qih5Z2X55qEIGAwMC3mqKHlnZflr7zor7subWRg77yM5LuO5Li76aKY6KGo6YeM6YCJ5LiA5LiqIOKsnCDkuLvpopjjgIIKMi4g5aSN5Yi2IGBf5qih5p2/L+aWh+eroOaooeadvy5tZGAg5Yiw6K+l5qih5Z2X55uu5b2V77yM5ZG95ZCN5Li6IGBOTi3kuLvpopjlkI0ubWRg77yITk4g5LiO5a+86K+75bqP5Y+35LiA6Ie077yJ44CCCjMuIOaMieaooeadv+WGme+8muaguOW/g+e7k+iuuiDihpIg5YWz6ZSu5qaC5b+1IOKGkiDmlbDmja7kuI7or4Hmja4g4oaSIOW4uOingeivr+WMuiDihpIg5a6e5pON5bu66K6uIOKGkiDlj4LogIPmnaXmupDjgIIKNC4g5oqK5a+86K+76KGo5Lit55qEIOKsnCDmlLnmiJAg4pyF77yM5bm25pu05pawIGBkYXRhL25hdi5qc29uYCDkuK3or6XkuLvpopjnmoQgYHN0YXR1c2DvvIhwbGFubmVkIOKGkiBkcmFmdCDihpIgcHVibGlzaGVk77yJ5ZKMIGBmaWxlYCDlrZfmrrXjgIIKNS4g6L+Q6KGMIGBweXRob24zIHNjcmlwdHMvY2hlY2tfc3RydWN0dXJlLnB5YCDmoKHpqozjgIIKCiMjIOaWh+eroOWRveWQjeS4juWFg+aVsOaNrgoKYGBgeWFtbAotLS0KdGl0bGU6ICLom4vnmb3otKgiCnNsdWc6ICJwcm90ZWluIgptb2R1bGU6ICLlro/ph4/okKXlhbvntKAiCm9yZGVyOiAxCnN0YXR1czogImRyYWZ0IiAgICAgICAgICAjIHBsYW5uZWQgLyBkcmFmdCAvIHJldmlldyAvIHB1Ymxpc2hlZAp0YWdzOiBb6JuL55m96LSoLCDmsKjln7rphbgsIOS8mOi0qOibi+eZvV0Kc3VtbWFyeTogIuS4gOWPpeivneivtOaYjui/meevh+ino+WGs+S7gOS5iOmXrumimCIKdXBkYXRlZDogMjAyNi0xMC0yMwotLS0KYGBgCgrnuqblrprvvJoKCjEuIOagh+mimOS4juaWh+S7tuWQjeS4u+mimOS4gOiHtO+8jHNsdWcg5YWo5bCP5YaZ6Iux5paH77yM5YWo5bqT5ZSv5LiA44CCCjIuIOaVsOWtl+W/hemhu+W4puadpea6kO+8jOaXoOazlei/vea6r+eahOWGmeaIkCLlvoXmoLjlrp4i77yM5LiN6KaB5Lyq6KOF5oiQ57uT6K6644CCCjMuIOS6ieiuruivnemimOW/hemhu+WGmeaYjiLor4Hmja7lvLrluqYi5ZKMIumAgueUqOS6uue+pCLjgIIKNC4g5LiN5YaZ5Liq5L2T5YyW5Yy755aX5bu66K6u77yM5raJ5Y+K55a+55eF5rK755aX5pe25o+Q56S65bCx5Yy744CCCgojIyDnirbmgIHmtYHovawKCnwg54q25oCBIHwg5ZCr5LmJIHwg572R56uZ6KGo546wIHwKfC0tLXwtLS18LS0tfAp8IGBwbGFubmVkYCB8IOWPquacieS4u+mimOWSjOaguOW/g+mXrumimCB8IOebruW9leS4reaYvuekuuS4uueBsOiJsiLlvoXooaXlhYUiIHwKfCBgZHJhZnRgIHwg5pyJ5Yid56i/77yM5pyq5qC45a+55p2l5rqQIHwg5Y+v6K6/6Zeu77yM5qCH5rOoIuiNieeovyIgfAp8IGByZXZpZXdgIHwg5YaF5a655a6M5pW077yM5b6F5a6h5qChIHwg5Y+v6K6/6Zeu77yM5qCH5rOoIuWuoeagoeS4rSIgfAp8IGBwdWJsaXNoZWRgIHwg5p2l5rqQ5qC45a+55a6M5oiQIHwg5q2j5bi45bGV56S6IHwKCiMjIEhUTUwg56uZ54K5Cgrnq5nngrnlt7LnlJ/miJDvvIzlhaXlj6PvvJpgcGFnZXMvaW5kZXguaHRtbGDvvIzlj6/nm7TmjqXlj4zlh7vmiZPlvIDvvIzml6DpnIDmnI3liqHlmajjgIIKCmBgYHRleHQKcGFnZXMvaW5kZXguaHRtbCAgICAgICAgICAgICAgICAgICAgIOmmlumhte+8muaooeWdl+WNoeeJhyArIOe7n+iuoSArIOaQnOe0ogpwYWdlcy9tb2R1bGUve21vZHVsZUlkfS5odG1sICAgICAgICAg5qih5Z2X6aG177ya5a6a5L2NICsg5Li76aKY5Y2h54mHICsg5qih5Z2X6K+05piOCnBhZ2VzL3RvcGljL3tzbHVnfS5odG1sICAgICAgICAgICAgICDmlofnq6DpobXvvJrmraPmlocgKyDlj7Pkvqfnm67lvZUgKyDkuIrkuIvnr4cKcGFnZXMvbWFzdGVyLWluZGV4Lmh0bWwgICAgICAgICAgICAgIOaAu+ebruW9lQpwYWdlcy9sZWFybmluZy1wYXRocy5odG1sICAgICAgICAgICAg5a2m5Lmg6Lev5b6ECnBhZ2VzL2dsb3NzYXJ5Lmh0bWwgICAgICAgICAgICAgICAgICDmnK/or63ooagKcGFnZXMvYXNzZXRzL2Nzcy9zaXRlLmNzcyAgICAgICAgICAgIOagt+W8jwpwYWdlcy9hc3NldHMvanMvc2l0ZS5qcyAgICAgICAgICAgICAg5pCc57Si44CB56e75Yqo56uv5a+86IiqCnBhZ2VzL2Fzc2V0cy9qcy9zZWFyY2gtZGF0YS5qcyAgICAgICDlhajnq5nmkJzntKLntKLlvJUKYGBgCgrmnoTlu7rmlrnlvI/vvJoKCjEuIGBzY3JpcHRzL2J1aWxkX3NpdGUucHlgIOivu+WPliBgZGF0YS9uYXYuanNvbmDjgIIKMi4g55SoIHBhbmRvYyDmioogTWFya2Rvd24g6L2sIEhUTUzvvIznlJ/miJAgaDIvaDMg55uu5b2V44CCCjMuIOWll+eUqOe7n+S4gOaooeadv++8jOi+k+WHuuWIsCBgcGFnZXMvYOOAggo0LiDnlJ/miJDlhajnq5nmkJzntKLntKLlvJXvvIzliY3nq6/mnKzlnLDmkJzntKLvvIzkuI3kvp3otZbmnI3liqHlmajjgIIKNS4g6Ieq5Yqo6YeN5YaZ5paH56ug6Ze055qEIGAubWRgIOmTvuaOpeS4uiBgLmh0bWxg44CCCgrlvZPliY3lip/og73vvJrmqKHlnZflr7zoiKrjgIHlhajnq5nmkJzntKLjgIHmlofnq6Dnm67lvZXjgIHkuIrkuIDnr4cv5LiL5LiA56+H44CB5Yid56i/54q25oCB5qCH6K6w44CB56e75Yqo56uv5L6n6L655qCP44CB5omT5Y2w5qC35byP44CCCgojIyDnu7TmiqTlkb3ku6QKCmBgYGJhc2gKIyDooaXlhajnvLrlpLHnmoTmqKHlnZflr7zor7sv5oC755uu5b2V77yM5bm25L+d55WZ5bey5pyJ54q25oCB77yI5o6o6I2Q77yJCnB5dGhvbjMgc2NyaXB0cy9zY2FmZm9sZF9saWJyYXJ5LnB5CgojIOW8uuWItuaMieiEmuacrOWGheWuuemHjeWGmeWFqOmDqOWvvOivu+OAgeaAu+ebruW9leWSjCBuYXYuanNvbgpweXRob24zIHNjcmlwdHMvc2NhZmZvbGRfbGlicmFyeS5weSAtLWZvcmNlCgojIOagoemqjOebruW9leOAgeWvvOivu+OAgXNsdWcg5LiOIG5hdi5qc29uIOaYr+WQpuS4gOiHtApweXRob24zIHNjcmlwdHMvY2hlY2tfc3RydWN0dXJlLnB5CgojIOmHjeaWsOaehOW7uiBIVE1MIOermeeCuQpweXRob24zIHNjcmlwdHMvYnVpbGRfc2l0ZS5weQpgYGAKCiMjIOivtOaYjgoK5pys6LWE5paZ5bqT55So5LqO57O757uf5a2m5Lmg5ZKM56eR5pmu5YaZ5L2c77yM5LiN5p6E5oiQ5Yy755aX5bu66K6u44CC55a+55eF5Lq6576k44CB5a2V5pyf5ZO65Lmz5pyf44CB5q2j5Zyo5pyN6I2v6ICF77yM6K+35Zyo5Yy755Sf5oiW5rOo5YaM6JCl5YW75biI5oyH5a+85LiL6LCD5pW06aWu6aOf44CCCg==
+# 营养学资料库
+
+一个系统化、可扩展、强调循证的营养学知识库。当前是 **1.0 初稿完成**：14 个模块、68 个主题全部有初稿，静态 HTML 站点已生成。
+
+## 设计原则
+
+1. **先框架，后内容**：68 个主题先定好位置和核心问题，避免写到哪算哪。
+2. **按问题组织，不按名词堆砌**：每个主题都必须回答一个明确问题。
+3. **证据优先**：数字和结论要求可追溯到指南、教材或原始文献。
+4. **区分确定性与争议**：前沿话题单独放入 14 专题，并标注证据强度。
+5. **可生成网站**：`data/nav.json` 是唯一导航数据源，Markdown 可直接转 HTML。
+
+## 模块总览
+
+| # | 模块 | 主题数 | 定位 |
+|---|---|---|---|
+| 00 | 总览 | 3 | 总目录、学习路径、术语表 |
+| 01 | 营养学基础 | 4 | 学科坐标、消化吸收、能量代谢、DRIs |
+| 02 | 宏量营养素 | 5 | 蛋白质、碳水、脂类、纤维、水电解质 |
+| 03 | 微量营养素 | 6 | 维生素、矿物质、植物化学物 |
+| 04 | 食物与食品 | 5 | 食物分类、加工、烹饪、标签、安全 |
+| 05 | 膳食模式与指南 | 4 | 中国指南、地中海、DASH、素食 |
+| 06 | 能量平衡与体重管理 | 5 | 减重、增肌、维持、进食行为 |
+| 07 | 生命周期营养 | 5 | 孕乳、婴幼儿、儿童青少年、成年、老年 |
+| 08 | 运动营养 | 4 | 运动代谢、补给、增肌减脂、补剂 |
+| 09 | 疾病营养 | 9 | 肥胖、糖尿病、心血管、痛风、肾病等 |
+| 10 | 营养评估与干预 | 5 | 膳食调查、测量、诊断、咨询 |
+| 11 | 补剂与功能食品 | 4 | 补剂证据、法规、选购风险 |
+| 12 | 循证营养与辟谣 | 4 | 研究设计、争议、谣言识别、信息源 |
+| 13 | 实操工具 | 4 | 成分表、份量、食谱、记录 |
+| 14 | 专题 | 4 | 肠道菌群、时间营养、精准营养、可持续饮食 |
+
+合计 **68 个主题**。每个模块的 `00-模块导读.md` 里有完整主题表和核心问题。
+
+## 目录结构
+
+```text
+营养学资料库/
+├── README.md
+├── 00-总览/
+│   ├── 00-总目录.md
+│   ├── 01-学习路径.md
+│   └── 02-术语表.md
+├── 01-营养学基础/
+│   └── 00-模块导读.md
+├── 02-宏量营养素/
+│   └── 00-模块导读.md
+├── 03-微量营养素/
+│   └── 00-模块导读.md
+├── 04-食物与食品/
+│   └── 00-模块导读.md
+├── 05-膳食模式与指南/
+│   └── 00-模块导读.md
+├── 06-能量平衡与体重管理/
+│   └── 00-模块导读.md
+├── 07-生命周期营养/
+│   └── 00-模块导读.md
+├── 08-运动营养/
+│   └── 00-模块导读.md
+├── 09-疾病营养/
+│   └── 00-模块导读.md
+├── 10-营养评估与干预/
+│   └── 00-模块导读.md
+├── 11-补剂与功能食品/
+│   └── 00-模块导读.md
+├── 12-循证营养与辟谣/
+│   └── 00-模块导读.md
+├── 13-实操工具/
+│   └── 00-模块导读.md
+├── 14-专题/
+│   └── 00-模块导读.md
+├── _模板/
+│   └── 文章模板.md
+├── data/
+│   └── nav.json
+├── pages/                        HTML 站点（直接打开 index.html）
+│   ├── index.html
+│   ├── module/                   14 个模块页
+│   ├── topic/                    68 个主题页
+│   ├── assets/                   css / js / 搜索索引
+│   ├── master-index.html
+│   ├── learning-paths.html
+│   └── glossary.html
+├── assets/                       预留目录（构建输出在 pages/assets）
+└── scripts/
+    ├── scaffold_library.py       生成模块导读、总目录、nav.json
+    ├── check_structure.py        校验目录与导航一致性
+    └── build_site.py             构建静态 HTML 站点
+```
+
+## 如何补充内容
+
+1. 打开目标模块的 `00-模块导读.md`，从主题表里选一个 ⬜ 主题。
+2. 复制 `_模板/文章模板.md` 到该模块目录，命名为 `NN-主题名.md`（NN 与导读序号一致）。
+3. 按模板写：核心结论 → 关键概念 → 数据与证据 → 常见误区 → 实操建议 → 参考来源。
+4. 把导读表中的 ⬜ 改成 ✅，并更新 `data/nav.json` 中该主题的 `status`（planned → draft → published）和 `file` 字段。
+5. 运行 `python3 scripts/check_structure.py` 校验。
+
+## 文章命名与元数据
+
+```yaml
+---
+title: "蛋白质"
+slug: "protein"
+module: "宏量营养素"
+order: 1
+status: "draft"          # planned / draft / review / published
+tags: [蛋白质, 氨基酸, 优质蛋白]
+summary: "一句话说明这篇解决什么问题"
+updated: 2026-10-23
+---
+```
+
+约定：
+
+1. 标题与文件名主题一致，slug 全小写英文，全库唯一。
+2. 数字必须带来源，无法追溯的写成"待核实"，不要伪装成结论。
+3. 争议话题必须写明"证据强度"和"适用人群"。
+4. 不写个体化医疗建议，涉及疾病治疗时提示就医。
+
+## 状态流转
+
+| 状态 | 含义 | 网站表现 |
+|---|---|---|
+| `planned` | 只有主题和核心问题 | 目录中显示为灰色"待补充" |
+| `draft` | 有初稿，未核对来源 | 可访问，标注"草稿" |
+| `review` | 内容完整，待审校 | 可访问，标注"审校中" |
+| `published` | 来源核对完成 | 正常展示 |
+
+## HTML 站点
+
+站点已生成，入口：`pages/index.html`，可直接双击打开，无需服务器。
+
+```text
+pages/index.html                     首页：模块卡片 + 统计 + 搜索
+pages/module/{moduleId}.html         模块页：定位 + 主题卡片 + 模块说明
+pages/topic/{slug}.html              文章页：正文 + 右侧目录 + 上下篇
+pages/master-index.html              总目录
+pages/learning-paths.html            学习路径
+pages/glossary.html                  术语表
+pages/assets/css/site.css            样式
+pages/assets/js/site.js              搜索、移动端导航
+pages/assets/js/search-data.js       全站搜索索引
+```
+
+构建方式：
+
+1. `scripts/build_site.py` 读取 `data/nav.json`。
+2. 用 pandoc 把 Markdown 转 HTML，生成 h2/h3 目录。
+3. 套用统一模板，输出到 `pages/`。
+4. 生成全站搜索索引，前端本地搜索，不依赖服务器。
+5. 自动重写文章间的 `.md` 链接为 `.html`。
+
+当前功能：模块导航、全站搜索、文章目录、上一篇/下一篇、初稿状态标记、移动端侧边栏、打印样式。
+
+## 维护命令
+
+```bash
+# 补全缺失的模块导读/总目录，并保留已有状态（推荐）
+python3 scripts/scaffold_library.py
+
+# 强制按脚本内容重写全部导读、总目录和 nav.json
+python3 scripts/scaffold_library.py --force
+
+# 校验目录、导读、slug 与 nav.json 是否一致
+python3 scripts/check_structure.py
+
+# 重新构建 HTML 站点
+python3 scripts/build_site.py
+```
+
+## 说明
+
+本资料库用于系统学习和科普写作，不构成医疗建议。疾病人群、孕期哺乳期、正在服药者，请在医生或注册营养师指导下调整饮食。

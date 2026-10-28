@@ -1,1 +1,144 @@
-IyDlgaXlurfppa7po5/kuI7lh4/ph43nn6Xor4blupMKCuaKiuS4pOS7veWOn+Wni+i1hOaWme+8iOOAiuWHj+mHjemlrumjn+etlOeWkeaKpeWRiuOAi+OAiumjn+eJqemZt+mYseS4juaXpeW4uOiQpeWFu+ivr+WMuuais+eQhuOAi++8ieaLhuino+aIkOaMieS4u+mimOWIhuexu+OAgeWPr+eUn+aIkOmdmeaAgee9keermeeahCBNYXJrZG93biDlhoXlrrnlupPjgIIKCi0g5YaF5a655rqQ77yaYGNvbnRlbnQvYO+8iDI3IOevh++8jDYg5Liq5YiG57G777yJCi0g5a+86Iiq5pWw5o2u77yaYGRhdGEvbmF2Lmpzb25g77yISFRNTCDnlJ/miJDnmoTllK/kuIDmlbDmja7mupDvvIkKLSDljp/lp4votYTmlpnvvJpg5Y6f5aeL6LWE5paZL2DvvIjkv53mjIHkuI3liqjvvIzkvr/kuo7muq/mupDmoLjlr7nvvIkKLSDovpPlh7rnm67lvZXvvJpgcGFnZXMvYO+8iEhUTUwg55Sf5oiQ5ZCO5YaZ5YWl6L+Z6YeM77yJCgojIyDmlofku7bmoJEKCmBgYHRleHQK5YGl5bq3LwrilJzilIDilIAgUkVBRE1FLm1kICAgICAgICAgICAgICAgICAgICAgICAg6aG555uu6K+05piO5LiOIEhUTUwg6KeE5YiSCuKUnOKUgOKUgCDljp/lp4votYTmlpkvICAgICAgICAgICAgICAgICAgICAgICAg5Lik5Lu95Y6f5aeL5paH5Lu277yIZG9jeCArIG1k77yJ77yM5Y+q6K+75b2S5qGjCuKUnOKUgOKUgCBjb250ZW50LyAgICAgICAgICAgICAgICAgICAgICAgICDnu5PmnoTljJblhoXlrrnmupAK4pSCICAg4pSc4pSA4pSAIDAxLeWFpemXqOaAu+iniC8K4pSCICAg4pSCICAg4pSc4pSA4pSAIDAxLeaguOW/g+e7k+iuui5tZArilIIgICDilIIgICDilJzilIDilIAgMDIt5LiJ5p2h5bqV5bGC5Y6f5YiZLm1kCuKUgiAgIOKUgiAgIOKUlOKUgOKUgCAwMy3nn6Xor4blupPlr7zor7subWQK4pSCICAg4pSc4pSA4pSAIDAyLeWHj+mHjeWOn+eQhuS4juWQg+azlS8K4pSCICAg4pSCICAg4pSc4pSA4pSAIDAxLeWHj+iEgueahOWUr+S4gOmAmui3ry5tZArilIIgICDilIIgICDilJzilIDilIAgMDIt5aSp54S25rO76I2v6IO95YeP6IKl5ZCXLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMy3lm5vnsbvmiZvppb/po5/niakubWQK4pSCICAg4pSCICAg4pSc4pSA4pSAIDA0LeS4gOWkqeaQremFjeekuuS+iy5tZArilIIgICDilIIgICDilJzilIDilIAgMDUt5L2O6IO96YeP5a+G5bqm5LiO6aSQ5YmN572u5o2iLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwNi3pvp/oi5Poho/mgI7kuYjlkIMubWQK4pSCICAg4pSCICAg4pSU4pSA4pSAIDA3LeivpemBv+W8gOeahOmrmOeDremHj+eCuOW8uS5tZArilIIgICDilJzilIDilIAgMDMt6aOf54mp6Zm36Zix6Ym05YirLwrilIIgICDilIIgICDilJzilIDilIAgMDEt5Lyq6JCl5YW75ZOB5o6S6KGM5qacLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMi3kvKrnspfnsq7kuI7kvKrkubPppa4ubWQK4pSCICAg4pSCICAg4pSc4pSA4pSAIDAzLeS7peW9ouihpeW9ouS4juaXoOezluaWh+Wtl+a4uOaIjy5tZArilIIgICDilIIgICDilJTilIDilIAgMDQt6YWN5paZ6KGo5LiO5omn6KGM5qCH5YeGLm1kCuKUgiAgIOKUnOKUgOKUgCAwNC3ml6XluLjokKXlhbvor6/ljLovCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMS3llp3msaTlvIPogonkuI7kuKLmjonom4vpu4QubWQK4pSCICAg4pSCICAg4pSc4pSA4pSAIDAyLeeyl+eyrui/h+mHj+S4juiEseiEguWltui/t+S/oS5tZArilIIgICDilIIgICDilJzilIDilIAgMDMt5Zyf6bih6JuL5pyJ5py66aOf5ZOB5LiO6aOf54mp55u45YWLLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwNC3pmpTlpJzoj5zkuI7okKXlhbvooaXliYIubWQK4pSCICAg4pSCICAg4pSU4pSA4pSAIDA1LeiAgeW5tOS6uueahOS4pOS4qumlrumjn+aPkOmGki5tZArilIIgICDilJzilIDilIAgMDUt6aOf5p2Q5LiO6JCl5YW757SgLwrilIIgICDilIIgICDilJzilIDilIAgMDEt6JCl5YW757Sg5LiO6aOf54mp5p2l5rqQLm1kCuKUgiAgIOKUgiAgIOKUnOKUgOKUgCAwMi3ovrnop5Lmlpnom4vnmb3nuqLmppwubWQK4pSCICAg4pSCICAg4pSc4pSA4pSAIDAzLei+ueinkuaWmeibi+eZvem7keamnC5tZArilIIgICDilIIgICDilJTilIDilIAgMDQt5YaF6ISP5LiO6LGG5rijLm1kCuKUgiAgIOKUlOKUgOKUgCAwNi3lrp7mk43lt6XlhbcvCuKUgiAgICAgICDilJzilIDilIAgMDEt6LSt54mp5LiJ55yL5riF5Y2VLm1kCuKUgiAgICAgICDilJzilIDilIAgMDIt5q+P5pel6Iaz6aOf5omT5Y2hLm1kCuKUgiAgICAgICDilJzilIDilIAgMDMt6aSQ55uY5YWs5byP5LiO6L+b6aOf6aG65bqPLm1kCuKUgiAgICAgICDilJTilIDilIAgMDQt5LiA5ZGo5omn6KGM5riF5Y2VLm1kCuKUnOKUgOKUgCBkYXRhLwrilIIgICDilJTilIDilIAgbmF2Lmpzb24gICAgICAgICAgICAgICAgICAgICDliIbnsbsgLyDmlofnq6AgLyDmoIfnrb4gLyDkuLvpopjphY3nva4K4pSc4pSA4pSAIGFzc2V0cy8K4pSCICAg4pSc4pSA4pSAIGNzcy8gICAgICAgICAgICAgICAgICAgICAgICAgSFRNTCDmoLflvI8K4pSCICAg4pSc4pSA4pSAIGpzLyAgICAgICAgICAgICAgICAgICAgICAgICAgSFRNTCDkuqTkupLvvIjmkJzntKLjgIHnrZvpgInjgIHmiZPljaHvvIkK4pSCICAg4pSU4pSA4pSAIGltYWdlcy8gICAgICAgICAgICAgICAgICAgICAg6YWN5Zu+CuKUnOKUgOKUgCBwYWdlcy8gICAgICAgICAgICAgICAgICAgICAgICAgICBIVE1MIOi+k+WHuuebruW9lQrilJTilIDilIAgc2NyaXB0cy8KICAgIOKUlOKUgOKUgCBjaGVja19jb250ZW50LnB5ICAgICAgICAgICAgIOagoemqjCBuYXYuanNvbiDkuI4gY29udGVudCDkuIDoh7TmgKcKYGBgCgojIyDlhoXlrrnlnLDlm74KCnwg5YiG57G7IHwg56+H5pWwIHwg6Kej5Yaz55qE6Zeu6aKYIHwKfC0tLXwtLS18LS0tfAp8IDAxIOWFpemXqOaAu+iniCB8IDMgfCDlh4/ohILlupXlsYLpgLvovpHjgIHkuInmnaHljp/liJnjgIHnn6Xor4blupPnlKjms5UgfAp8IDAyIOWHj+mHjeWOn+eQhuS4juWQg+azlSB8IDcgfCDng63ph4/nvLrlj6PjgIHmiZvppb/po5/nianjgIHkuIDml6XnpLrkvovjgIHkvY7ljaHmm7/ouqsgfAp8IDAzIOmjn+eJqemZt+mYsemJtOWIqyB8IDQgfCDkvKrokKXlhbvlk4HjgIHkvKrnspfnsq7kubPppa7jgIHku6XlvaLooaXlvaLjgIHmoIfnrb7or4bliKsgfAp8IDA0IOaXpeW4uOiQpeWFu+ivr+WMuiB8IDUgfCDmsaTkuI7om4vpu4TjgIHnspfnsq7kuI7lpbbjgIHlnJ/puKHom4vkuI7nm7jlhYvjgIHpmpTlpJzoj5zkuI7ooaXliYLjgIHogIHkurrppa7po58gfAp8IDA1IOmjn+adkOS4juiQpeWFu+e0oCB8IDQgfCDlha3lpKfokKXlhbvntKDmnaXmupDjgIHovrnop5LmlpnnuqLpu5HmppzjgIHlhoXohI/kuI7osYbmuKMgfAp8IDA2IOWunuaTjeW3peWFtyB8IDQgfCDotK3nianjgIHmiZPljaHjgIHppJDnm5jlhazlvI/jgIHkuIDlkajmiafooYwgfAoKIyMg5YaF5a6557qm5a6aCgrmr4/nr4fmlofnq6DlpLTpg6jkvb/nlKggWUFNTCBmcm9udG1hdHRlcu+8mgoKYGBgeWFtbAotLS0KdGl0bGU6ICLmlofnq6DmoIfpopgiCnNsdWc6ICJ1cmwtc2x1ZyIKY2F0ZWdvcnk6ICLliIbnsbvlkI0iCm9yZGVyOiAxCnRhZ3M6IFvmoIfnrb4xLCDmoIfnrb4yXQpzdW1tYXJ5OiAi5LiA5Y+l6K+d5pGY6KaB77yM55So5LqO5Y2h54mH5ZKM5pCc57Si57uT5p6cIgp1cGRhdGVkOiAyMDI2LTEwLTIzCi0tLQpgYGAKCuato+aWh+inhOWIme+8mgoKMS4g5Y+q55So5LiA57qn5qCH6aKY5byA5aS077yM5LiOIGZyb250bWF0dGVyIOeahCB0aXRsZSDlr7nlupQKMi4g6KGo5qC85L+d55WZ5Y6f5aeL5pWw5o2u77yM5LiN5Zub6IiN5LqU5YWl5pS55YaZCjMuIOaWh+acq+aUviLkuIrkuIDnr4cgLyDkuIvkuIDnr4ci77yM5L2/55So55u45a+56Lev5b6ECjQuIOWOn+aWh+ayoeacieeahOaOqOaWreaAp+WGheWuueS4jeWGmeWFpe+8m+mAmueUqOiQpeWFu+W4uOivhuWNleeLrOaIkOaute+8jOmBv+WFjeS4juWOn+Wni+e7k+iuuua3t+a3hgoKIyMgSFRNTCDnq5nngrnop4TliJIKCioq5L+h5oGv5p625p6EKioKCjEuIOmmlumhte+8muermeeCueagh+mimCArIOWFreS4quWIhuexu+WNoeeJhyArIOeyvumAieaWh+eroCArIOWFqOermeaQnOe0ouahhgoyLiDliIbnsbvpobXvvJror6XliIbnsbvmlofnq6DliJfooajvvIjmoIfpopjjgIHmkZjopoHjgIHmoIfnrb7jgIHpmIXor7vml7bplb/vvIkKMy4g5paH56ug6aG177ya5bem5L6n5YiG57G75a+86IiqICsg5q2j5paHICsg5Y+z5L6n55uu5b2V77yIaDIvaDPvvIkrIOS4iuS4gOevhy/kuIvkuIDnr4cKNC4g5bel5YW36aG177ya5riF5Y2V57G75paH56ug5pSv5oyB5Yu+6YCJ77yM54q25oCB5a2YIGBsb2NhbFN0b3JhZ2VgCgoqKui3r+eUse+8iHNsdWfvvIkqKgoKYGBgdGV4dApwYWdlcy9pbmRleC5odG1sCnBhZ2VzL2NhdGVnb3J5L3tjYXRlZ29yeUlkfS5odG1sCnBhZ2VzL2FydGljbGUve3NsdWd9Lmh0bWwKcGFnZXMvdG9vbHMuaHRtbCAgICAgICAgICAgIOaJgOaciea4heWNleaxh+aAu++8jOWPr+aJk+WNsApgYGAKCioq5p6E5bu65rWB56iL77yI5bu66K6uIFB5dGhvbu+8jOaXoOWJjeerr+ahhuaetu+8iSoqCgoxLiBgc2NyaXB0cy9idWlsZF9zaXRlLnB5YCDor7vlj5YgYGRhdGEvbmF2Lmpzb25gCjIuIOeUqCBgbWFya2Rvd25gIOW6k+aKiuavj+evhyBgLm1kYCDovawgSFRNTO+8jOeUn+aIkOmUmueCueebruW9lQozLiDlpZfnlKggYGFzc2V0cy9jc3Mvc2l0ZS5jc3NgIOaooeadv++8jOi+k+WHuuWIsCBgcGFnZXMvYAo0LiDnlJ/miJAgYGRhdGEvc2VhcmNoLWluZGV4Lmpzb25g77yI5qCH6aKY44CB5pGY6KaB44CB5qCH562+44CB5q2j5paH57qv5paH5pys77yJCjUuIOWJjeerryBgYXNzZXRzL2pzL3NpdGUuanNgIOi0n+i0o+aQnOe0ouOAgeagh+etvuetm+mAieOAgea4heWNleWLvumAiQoKKirop4bop4nmlrnlkJEqKgoKLSDkuLvoibLmt7Hnu78gYCMyRjZCNEZg77yM5by66LCD6Imy5pqW5qmZIGAjRThBMzNEYO+8jOW6leiJsuexs+eZvSBgI0ZBRjhGMmAKLSDmnYLlv5flvI/mjpLniYjvvJrlpKfmoIfpopjjgIHlrr3ooYzot53jgIHljaHniYflvI/liIbnsbvlhaXlj6MKLSDooajmoLzlnKjnp7vliqjnq6/mqKrlkJHmu5rliqjvvIzkuI3ljovnvKnlrZflj7cKLSDlhbPplK7nu5PorrrnlKjlvJXnlKjlnZfmiJbpq5jkuq7lnZfvvIzpgb/lhY3mlbTpobXpg73mmK/mraPmlocKCiMjIOe7tOaKpAoKYGBgYmFzaAojIOaWsOWinuaIluS/ruaUueaWh+eroOWQju+8jOagoemqjOWvvOiIquS4juaWh+S7tuaYr+WQpuS4gOiHtApweXRob24zIHNjcmlwdHMvY2hlY2tfY29udGVudC5weQpgYGAKCuaWsOWinuaWh+eroOatpemqpO+8mgoKMS4g5Zyo5a+55bqU5YiG57G755uu5b2V5paw5bu6IGBOTi3moIfpopgubWRg77yM6KGlIGZyb250bWF0dGVyCjIuIOWcqCBgZGF0YS9uYXYuanNvbmAg5a+55bqU5YiG57G755qEIGBhcnRpY2xlc2Ag5Lit55m76K6wCjMuIOi/kOihjOagoemqjOiEmuacrAo0LiDph43mlrDnlJ/miJAgSFRNTAoKIyMg5p2l5rqQ5LiO5YWN6LSj5aOw5piOCgrlhoXlrrnmlbTnkIboh6rkuKTku73ljp/lp4votYTmlpnvvIzmlbDlgLzmnaXoh6rlhazlvIDokKXlhbvotYTmlpnkuI7mnYPlqIHmjIfljZflj6PlvoTjgILkuKrkvZPlt67lvILovoPlpKfvvJvoi6XmnInln7rnoYDnlr7nl4XjgIHlrZXmnJ/lk7rkubPmnJ/miJbmraPlnKjmnI3oja/vvIzor7flnKjljLvnlJ/miJbkuLTluorokKXlhbvluIjmjIflr7zkuIvmiafooYzjgIIK
+# 健康饮食与减重知识库
+
+把两份原始资料（《减重饮食答疑报告》《食物陷阱与日常营养误区梳理》）拆解成按主题分类、可生成静态网站的 Markdown 内容库。
+
+- 内容源：`content/`（27 篇，6 个分类）
+- 导航数据：`data/nav.json`（HTML 生成的唯一数据源）
+- 原始资料：`原始资料/`（保持不动，便于溯源核对）
+- 输出目录：`pages/`（HTML 生成后写入这里）
+
+## 文件树
+
+```text
+健康/
+├── README.md                        项目说明与 HTML 规划
+├── 原始资料/                        两份原始文件（docx + md），只读归档
+├── content/                         结构化内容源
+│   ├── 01-入门总览/
+│   │   ├── 01-核心结论.md
+│   │   ├── 02-三条底层原则.md
+│   │   └── 03-知识库导读.md
+│   ├── 02-减重原理与吃法/
+│   │   ├── 01-减脂的唯一通路.md
+│   │   ├── 02-天然泻药能减肥吗.md
+│   │   ├── 03-四类扛饿食物.md
+│   │   ├── 04-一天搭配示例.md
+│   │   ├── 05-低能量密度与餐前置换.md
+│   │   ├── 06-龟苓膏怎么吃.md
+│   │   └── 07-该避开的高热量炸弹.md
+│   ├── 03-食物陷阱鉴别/
+│   │   ├── 01-伪营养品排行榜.md
+│   │   ├── 02-伪粗粮与伪乳饮.md
+│   │   ├── 03-以形补形与无糖文字游戏.md
+│   │   └── 04-配料表与执行标准.md
+│   ├── 04-日常营养误区/
+│   │   ├── 01-喝汤弃肉与丢掉蛋黄.md
+│   │   ├── 02-粗粮过量与脱脂奶迷信.md
+│   │   ├── 03-土鸡蛋有机食品与食物相克.md
+│   │   ├── 04-隔夜菜与营养补剂.md
+│   │   └── 05-老年人的两个饮食提醒.md
+│   ├── 05-食材与营养素/
+│   │   ├── 01-营养素与食物来源.md
+│   │   ├── 02-边角料蛋白红榜.md
+│   │   ├── 03-边角料蛋白黑榜.md
+│   │   └── 04-内脏与豆渣.md
+│   └── 06-实操工具/
+│       ├── 01-购物三看清单.md
+│       ├── 02-每日膳食打卡.md
+│       ├── 03-餐盘公式与进食顺序.md
+│       └── 04-一周执行清单.md
+├── data/
+│   └── nav.json                     分类 / 文章 / 标签 / 主题配置
+├── assets/
+│   ├── css/                         HTML 样式
+│   ├── js/                          HTML 交互（搜索、筛选、打卡）
+│   └── images/                      配图
+├── pages/                           HTML 输出目录
+└── scripts/
+    └── check_content.py             校验 nav.json 与 content 一致性
+```
+
+## 内容地图
+
+| 分类 | 篇数 | 解决的问题 |
+|---|---|---|
+| 01 入门总览 | 3 | 减脂底层逻辑、三条原则、知识库用法 |
+| 02 减重原理与吃法 | 7 | 热量缺口、扛饿食物、一日示例、低卡替身 |
+| 03 食物陷阱鉴别 | 4 | 伪营养品、伪粗粮乳饮、以形补形、标签识别 |
+| 04 日常营养误区 | 5 | 汤与蛋黄、粗粮与奶、土鸡蛋与相克、隔夜菜与补剂、老人饮食 |
+| 05 食材与营养素 | 4 | 六大营养素来源、边角料红黑榜、内脏与豆渣 |
+| 06 实操工具 | 4 | 购物、打卡、餐盘公式、一周执行 |
+
+## 内容约定
+
+每篇文章头部使用 YAML frontmatter：
+
+```yaml
+---
+title: "文章标题"
+slug: "url-slug"
+category: "分类名"
+order: 1
+tags: [标签1, 标签2]
+summary: "一句话摘要，用于卡片和搜索结果"
+updated: 2026-10-23
+---
+```
+
+正文规则：
+
+1. 只用一级标题开头，与 frontmatter 的 title 对应
+2. 表格保留原始数据，不四舍五入改写
+3. 文末放"上一篇 / 下一篇"，使用相对路径
+4. 原文没有的推断性内容不写入；通用营养常识单独成段，避免与原始结论混淆
+
+## HTML 站点规划
+
+**信息架构**
+
+1. 首页：站点标题 + 六个分类卡片 + 精选文章 + 全站搜索框
+2. 分类页：该分类文章列表（标题、摘要、标签、阅读时长）
+3. 文章页：左侧分类导航 + 正文 + 右侧目录（h2/h3）+ 上一篇/下一篇
+4. 工具页：清单类文章支持勾选，状态存 `localStorage`
+
+**路由（slug）**
+
+```text
+pages/index.html
+pages/category/{categoryId}.html
+pages/article/{slug}.html
+pages/tools.html            所有清单汇总，可打印
+```
+
+**构建流程（建议 Python，无前端框架）**
+
+1. `scripts/build_site.py` 读取 `data/nav.json`
+2. 用 `markdown` 库把每篇 `.md` 转 HTML，生成锚点目录
+3. 套用 `assets/css/site.css` 模板，输出到 `pages/`
+4. 生成 `data/search-index.json`（标题、摘要、标签、正文纯文本）
+5. 前端 `assets/js/site.js` 负责搜索、标签筛选、清单勾选
+
+**视觉方向**
+
+- 主色深绿 `#2F6B4F`，强调色暖橙 `#E8A33D`，底色米白 `#FAF8F2`
+- 杂志式排版：大标题、宽行距、卡片式分类入口
+- 表格在移动端横向滚动，不压缩字号
+- 关键结论用引用块或高亮块，避免整页都是正文
+
+## 维护
+
+```bash
+# 新增或修改文章后，校验导航与文件是否一致
+python3 scripts/check_content.py
+```
+
+新增文章步骤：
+
+1. 在对应分类目录新建 `NN-标题.md`，补 frontmatter
+2. 在 `data/nav.json` 对应分类的 `articles` 中登记
+3. 运行校验脚本
+4. 重新生成 HTML
+
+## 来源与免责声明
+
+内容整理自两份原始资料，数值来自公开营养资料与权威指南口径。个体差异较大；若有基础疾病、孕期哺乳期或正在服药，请在医生或临床营养师指导下执行。

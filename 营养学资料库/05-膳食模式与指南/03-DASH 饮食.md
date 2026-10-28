@@ -1,1 +1,104 @@
-LS0tCnRpdGxlOiAiREFTSCDppa7po58iCnNsdWc6ICJkYXNoLWRpZXQiCm1vZHVsZTogIuiGs+mjn+aooeW8j+S4juaMh+WNlyIKb3JkZXI6IDMKc3RhdHVzOiAiZHJhZnQiCnRhZ3M6IFtEQVNILCDpq5jooYDljossIOmZkOebkCwg6ZK+LCDohrPpo5/mqKHlvI9dCnN1bW1hcnk6ICJEQVNIIOeUqOmrmOmSvuOAgemrmOmSmeOAgemrmOmVgeOAgemrmOe6pOe7tOWSjOS9jumSoOeahOmlrumjn+e7hOWQiOmZjeihgOWOi++8jOaYr+mrmOihgOWOi+iGs+mjn+W5sumihOivgeaNruacgOW8uueahOaWueazleS5i+S4gOOAgiIKdXBkYXRlZDogMjAyNi0xMC0yMwotLS0KCiMgREFTSCDppa7po58KCiMjIOaguOW/g+e7k+iuugoKREFTSO+8iERpZXRhcnkgQXBwcm9hY2hlcyB0byBTdG9wIEh5cGVydGVuc2lvbu+8ieacgOWIneaYr+S4uumZjeihgOWOi+iuvuiuoeeahOiGs+mjn+aooeW8j++8jOaguOW/g+aYr++8mgoKMS4gKirpq5gqKu+8muiUrOiPnOOAgeawtOaenOOAgeWFqOiwt+eJqeOAgeS9juiEguWltuOAgeixhuexu+OAgeWdmuaenOOAgemxvOemveOAggoyLiAqKuS9jioq77ya6ZKg44CB6aWx5ZKM6ISC6IKq44CB57qi6IKJ44CB5Yqg5bel6IKJ44CB55Sc6aOf44CB5ZCr57OW6aWu5paZ44CCCjMuIOaViOaenO+8muaUtue8qeWOi+WPr+mZjeS9jue6piA1fjExIG1tSGfvvIzpq5jooYDljovkurrnvqTmm7TmmI7mmL7jgIIKNC4g5LiO6ZmQ6ZKg57uT5ZCI77yM5pWI5p6c5LyY5LqO5Y2V54us5omn6KGMIERBU0gg5oiW5Y2V54us6ZmQ55uQ44CCCgojIyDpo5/niannu5PmnoTvvIjku6UgMjAwMCDljYPljaHkuLrkvovvvIkKCnwg6aOf54mp57G75YirIHwg5q+P5pel5Lu95pWwIHwg5LiA5Lu95aSn6Ie055u45b2T5LqOIHwKfC0tLXwtLS18LS0tfAp8IOiwt+exuyB8IDZ+OCDku70gfCAxIOeJh+WFqOm6pumdouWMhSAvIOWNiueil+eGn+mlrSAvIDMwIOWFi+W5sueHlem6piB8Cnwg6JSs6I+cIHwgNH41IOS7vSB8IDEg56KX55Sf6I+cIC8g5Y2K56KX54af6I+cIHwKfCDmsLTmnpwgfCA0fjUg5Lu9IHwgMSDkuKrkuK3nrYnmsLTmnpwgLyDljYrmna/liIflnZcgfAp8IOS9juiEguWltiB8IDJ+MyDku70gfCAyNTAg5q+r5Y2H54mb5aW2IC8gMSDmna/phbjlpbYgfAp8IOeYpuiCieOAgeemveOAgemxvCB8IOKJpDYg5Lu977yI57qmIDE3MCDlhYvvvIkgfCAzMCDlhYvnhp/ogokgfAp8IOWdmuaenOOAgeenjeWtkOOAgeixhuexuyB8IOavj+WRqCA0fjUg5Lu9IHwgMS8zIOadr+WdmuaenCAvIOWNiuadr+eGn+ixhiB8Cnwg5rK56ISCIHwgMn4zIOS7vSB8IDEg6Iy25YyZ5rK5IC8gMSDmsaTljJnmspnmi4nphbEgfAp8IOeUnOmjnyB8IOavj+WRqCDiiaQ1IOS7vSB8IDEg5rGk5YyZ57OWIC8gMSDlnZflsI/ppbzlubIgfAoK5YW35L2T5Lu95pWw5oyJ54Ot6YeP6ZyA5rGC6LCD5pW077yM5YeP6YeN5Lq6576k6ZyA6KaB55u45bqU5YeP5bCR44CCCgojIyDlhbPplK7okKXlhbvnibnngrkKCnwg6JCl5YW757SgIHwgREFTSCDnmoTnibnngrkgfCDkvZznlKggfAp8LS0tfC0tLXwtLS18Cnwg6ZKgIHwg5qCH5YeG54mIIOKJpDIzMDAg5q+r5YWLL+Wkqe+8jOeQhuaDsyDiiaQxNTAwIOavq+WFiyB8IOmZjeS9juihgOWOiyB8Cnwg6ZK+IHwg57qmIDM1MDB+NDcwMCDmr6vlhYsv5aSpIHwg5a+55oqX6ZKg55qE5Y2H5Y6L5L2c55SoIHwKfCDpkpkgfCDmnaXoh6rkvY7ohILlpbbjgIHosYbohZDjgIHnu7/lj7boj5wgfCDooYDnrqHmlLbnvKnosIPoioIgfAp8IOmVgSB8IOadpeiHquWFqOiwt+eJqeOAgeWdmuaenOOAgee7v+WPtuiPnCB8IOihgOeuoeiIkuW8oCB8Cnwg6Iaz6aOf57qk57u0IHwg5p2l6Ieq6JSs5p6c44CB5YWo6LC344CB6LGG57G7IHwg5pS55ZaE6KGA6ISC5ZKM6aWx6IW55oSfIHwKfCDppbHlkozohILogqogfCDkvY4gfCDpmY3kvY4gTERMLUMgfAoKIyMg6K+B5o2uCgotICoqREFTSCDor5XpqowqKu+8muS4juWFuOWei+e+juWbvemlrumjn+ebuOavlO+8jERBU0gg6aWu6aOf5L2/5pS257yp5Y6L6ZmN5L2O57qmIDUuNSBtbUhn44CB6IiS5byg5Y6L6ZmN5L2O57qmIDMuMCBtbUhn77yb6auY6KGA5Y6L5oKj6ICF6ZmN5bmF5pu05aSn44CCCi0gKipEQVNILVNvZGl1bSDor5XpqowqKu+8muWcqCBEQVNIIOWfuuehgOS4iui/m+S4gOatpemZkOmSoOWIsCAxNTAwIOavq+WFi++8jOmZjeWOi+aViOaenOabtOaYjuaYvuOAggotIOmVv+acn+inguWvn+aAp+eglOeptuaYvuekuu+8jERBU0gg5L6d5LuO5oCn6auY5LiO5b+D6KGA566h55a+55eF44CB5Y2S5Lit44CB5b+D6KGw6aOO6Zmp6ZmN5L2O55u45YWz44CCCi0g5py65Yi277ya6ZmQ6ZKg44CB5aKe5Yqg6ZK+6ZKZ6ZWB44CB5pS55ZaE5L2T6YeN5ZKM6IOw5bKb57Sg5pWP5oSf5oCn5YWx5ZCM5L2c55So44CCCgojIyDkuK3lm73ljJbmiafooYwKCnwgREFTSCDlhYPntKAgfCDkuK3lm73ppJDmoYzlgZrms5UgfAp8LS0tfC0tLXwKfCDlhajosLfniakgfCDns5nnsbPjgIHnh5XpuqbjgIHlhajpuqbpppLlpLTjgIHnjonnsbMgfAp8IOS9juiEguWltiB8IOS9juiEgi/ohLHohILniZvlpbbjgIHml6Dns5bphbjlpbYgfAp8IOiUrOiPnOawtOaenCB8IOavj+mkkOS4pOS7veiUrOiPnO+8jOavj+WkqSAyIOS7veawtOaenCB8Cnwg6bG856a9IHwg5riF6JK46bG844CB55m954G86Jm+44CB5Y6755qu6bih6IW/IHwKfCDlnZrmnpzosYbnsbsgfCDljp/lkbPlnZrmnpzjgIHosYbohZDjgIHosYbmtYbjgIHmnYLosYbppa0gfAp8IOmZkOmSoCB8IOebkCA8NSDlhYvvvIzlsJHphbHmsrnjgIHohYzliLblk4HjgIHliqDlt6XogokgfAp8IOmZkOeUnOmjnyB8IOWwkeezleeCueOAgeWQq+ezlumlruaWmeOAgeWltuiMtiB8CgojIyMg5LiA5pel56S65L6LCgotIOaXqemkkO+8mueHlem6pueypSArIOS9juiEgueJm+WltiArIOmmmeiViSArIOS4gOWwj+aKiuadj+S7gQotIOWNiOmkkO+8muezmeexs+mlrSArIOa4heiSuOmxvCArIOeCkuiPoOiPnCArIOixhuiFkOaxpAotIOWKoOmkkO+8muaXoOezlumFuOWltiArIOiTneiOkwotIOaZmumkkO+8mueOieexsyArIOeZveeBvOiZviArIOilv+WFsOiKsSArIOeVquiMhAoKIyMg5rOo5oSP5LqL6aG5CgoxLiAqKuiCvuWKn+iDveS4jeWFqOiAhSoq77yaREFTSCDpkr7lkKvph4/pq5jvvIzlj6/og73lvJXotbfpq5jpkr7ooYDnl4fvvIzpnIDljLvnlJ/mjIflr7zjgIIKMi4gKirkvY7pkqDnm5AqKu+8muWQq+awr+WMlumSvu+8jOiCvuWKn+iDveS4jeWFqOaIluacjeeUqOS/nemSvuiNr+eJqeiAheaFjueUqOOAggozLiAqKuacjeeUqOmZjeWOi+iNr+iAhSoq77ya6aWu6aOf6LCD5pW05LiN6IO95pu/5Luj6I2v54mp77yM6ZyA55uR5rWL6KGA5Y6L5bm26YG15Yy75Zix44CCCjQuICoq6ICB5bm05Lq6KirvvJrms6jmhI/mgLvng63ph4/lkozom4vnmb3otKjvvIzpgb/lhY3lm6DpmZDnm5Dlr7zoh7Tpo5/mrLLkuIvpmY3jgIIKNS4gKirlpJbpo58qKu+8mumkkOmmhuiPnOmSoOWQq+mHj+mrmO+8jOWwvemHj+WwkeWWneaxpOOAgeWwkeiYuOmFseOAggoKIyMg5bi46KeB6K+v5Yy6CgoxLiAqKuKAnERBU0gg5piv6ZmN5Y6L6I2v5pu/5Luj5ZOB4oCdKirvvJrlroPmmK/ovoXliqnmiYvmrrXvvIzkuI3og73mk4Xoh6rlgZzoja/jgIIKMi4gKirigJzlj6ropoHlsJHnm5DlsLHooYzigJ0qKu+8mkRBU0gg55qE6JSs5p6c44CB5aW257G744CB5YWo6LC35ZKM5L2O6ISC6JuL55m95ZCM5qC36YeN6KaB44CCCjMuICoq4oCc5L2O6ZKg55uQ5Lq65Lq66YCC5ZCI4oCdKirvvJrpq5jpkr7po47pmankurrnvqTpnIDpgb/lhY3jgIIKNC4gKirigJxEQVNIIOW+iOmavuaJp+ihjOKAnSoq77ya5YWI5LuO5q+P5aSp5aSa5Lik5Lu96JSs6I+c44CB5LiA5Lu95rC05p6c44CB5LiA5p2v5aW25byA5aeL44CCCjUuICoq4oCc6KGA5Y6L5q2j5bi45bCx5LiN55So566h4oCdKirvvJpEQVNIIOS5n+aYr+mihOmYsumrmOihgOWOi+WSjOW/g+ihgOeuoeeXheeahOWQiOeQhuiGs+mjn+aooeW8j+OAggoKIyMg5a6e5pON5bu66K6uCgoxLiDnrKzkuIDlkajlj6rlgZrkuIDku7bkuovvvJrmiornm5DpmY3liLAgNSDlhYvku6XkuIvvvIzlsJHphbHmsrnlkozohYzliLblk4HjgIIKMi4g56ys5LqM5ZGo5aKe5Yqg6JSs6I+c5Yiw5q+P6aSQ5Lik5Lu977yM5rC05p6c5q+P5aSp5Lik5Lu944CCCjMuIOesrOS4ieWRqOaKiuS4gOWNiuS4u+mjn+aNouaIkOWFqOiwt+eJqe+8jOWltuexu+aNouaIkOS9juiEgi/ml6Dns5bjgIIKNC4g56ys5Zub5ZGo55So6bG856a95pu/5Luj6YOo5YiG57qi6IKJ77yM5Z2a5p6c5pu/5Luj6Zu26aOf44CCCjUuIOeUqOWutueUqOihgOWOi+iuoeiusOW9leWPmOWMlu+8jDQg5ZGo5ZCO5aSN55uY44CCCgojIyDlj4LogIPmnaXmupAKCi0g5Lit5Zu96JCl5YW75a2m5LyaLuOAiuS4reWbveWxheawkeiGs+mjn+aMh+WNl++8iDIwMjLvvInjgIsKLSBBcHBlbCBMSiwgZXQgYWwuIEEgY2xpbmljYWwgdHJpYWwgb2YgdGhlIGVmZmVjdHMgb2YgZGlldGFyeSBwYXR0ZXJucyBvbiBibG9vZCBwcmVzc3VyZS4gTiBFbmdsIEogTWVkLCAxOTk3Ci0gU2Fja3MgRk0sIGV0IGFsLiBFZmZlY3RzIG9uIGJsb29kIHByZXNzdXJlIG9mIHJlZHVjZWQgZGlldGFyeSBzb2RpdW0gYW5kIHRoZSBEQVNIIGRpZXQuIE4gRW5nbCBKIE1lZCwgMjAwMQotIE5JSCBOSExCSS4gREFTSCBFYXRpbmcgUGxhbgo=
+---
+title: "DASH 饮食"
+slug: "dash-diet"
+module: "膳食模式与指南"
+order: 3
+status: "draft"
+tags: [DASH, 高血压, 限盐, 钾, 膳食模式]
+summary: "DASH 用高钾、高钙、高镁、高纤维和低钠的饮食组合降血压，是高血压膳食干预证据最强的方法之一。"
+updated: 2026-10-23
+---
+
+# DASH 饮食
+
+## 核心结论
+
+DASH（Dietary Approaches to Stop Hypertension）最初是为降血压设计的膳食模式，核心是：
+
+1. **高**：蔬菜、水果、全谷物、低脂奶、豆类、坚果、鱼禽。
+2. **低**：钠、饱和脂肪、红肉、加工肉、甜食、含糖饮料。
+3. 效果：收缩压可降低约 5~11 mmHg，高血压人群更明显。
+4. 与限钠结合，效果优于单独执行 DASH 或单独限盐。
+
+## 食物结构（以 2000 千卡为例）
+
+| 食物类别 | 每日份数 | 一份大致相当于 |
+|---|---|---|
+| 谷类 | 6~8 份 | 1 片全麦面包 / 半碗熟饭 / 30 克干燕麦 |
+| 蔬菜 | 4~5 份 | 1 碗生菜 / 半碗熟菜 |
+| 水果 | 4~5 份 | 1 个中等水果 / 半杯切块 |
+| 低脂奶 | 2~3 份 | 250 毫升牛奶 / 1 杯酸奶 |
+| 瘦肉、禽、鱼 | ≤6 份（约 170 克） | 30 克熟肉 |
+| 坚果、种子、豆类 | 每周 4~5 份 | 1/3 杯坚果 / 半杯熟豆 |
+| 油脂 | 2~3 份 | 1 茶匙油 / 1 汤匙沙拉酱 |
+| 甜食 | 每周 ≤5 份 | 1 汤匙糖 / 1 块小饼干 |
+
+具体份数按热量需求调整，减重人群需要相应减少。
+
+## 关键营养特点
+
+| 营养素 | DASH 的特点 | 作用 |
+|---|---|---|
+| 钠 | 标准版 ≤2300 毫克/天，理想 ≤1500 毫克 | 降低血压 |
+| 钾 | 约 3500~4700 毫克/天 | 对抗钠的升压作用 |
+| 钙 | 来自低脂奶、豆腐、绿叶菜 | 血管收缩调节 |
+| 镁 | 来自全谷物、坚果、绿叶菜 | 血管舒张 |
+| 膳食纤维 | 来自蔬果、全谷、豆类 | 改善血脂和饱腹感 |
+| 饱和脂肪 | 低 | 降低 LDL-C |
+
+## 证据
+
+- **DASH 试验**：与典型美国饮食相比，DASH 饮食使收缩压降低约 5.5 mmHg、舒张压降低约 3.0 mmHg；高血压患者降幅更大。
+- **DASH-Sodium 试验**：在 DASH 基础上进一步限钠到 1500 毫克，降压效果更明显。
+- 长期观察性研究显示，DASH 依从性高与心血管疾病、卒中、心衰风险降低相关。
+- 机制：限钠、增加钾钙镁、改善体重和胰岛素敏感性共同作用。
+
+## 中国化执行
+
+| DASH 元素 | 中国餐桌做法 |
+|---|---|
+| 全谷物 | 糙米、燕麦、全麦馒头、玉米 |
+| 低脂奶 | 低脂/脱脂牛奶、无糖酸奶 |
+| 蔬菜水果 | 每餐两份蔬菜，每天 2 份水果 |
+| 鱼禽 | 清蒸鱼、白灼虾、去皮鸡腿 |
+| 坚果豆类 | 原味坚果、豆腐、豆浆、杂豆饭 |
+| 限钠 | 盐 <5 克，少酱油、腌制品、加工肉 |
+| 限甜食 | 少糕点、含糖饮料、奶茶 |
+
+### 一日示例
+
+- 早餐：燕麦粥 + 低脂牛奶 + 香蕉 + 一小把杏仁
+- 午餐：糙米饭 + 清蒸鱼 + 炒菠菜 + 豆腐汤
+- 加餐：无糖酸奶 + 蓝莓
+- 晚餐：玉米 + 白灼虾 + 西兰花 + 番茄
+
+## 注意事项
+
+1. **肾功能不全者**：DASH 钾含量高，可能引起高钾血症，需医生指导。
+2. **低钠盐**：含氯化钾，肾功能不全或服用保钾药物者慎用。
+3. **服用降压药者**：饮食调整不能替代药物，需监测血压并遵医嘱。
+4. **老年人**：注意总热量和蛋白质，避免因限盐导致食欲下降。
+5. **外食**：餐馆菜钠含量高，尽量少喝汤、少蘸酱。
+
+## 常见误区
+
+1. **“DASH 是降压药替代品”**：它是辅助手段，不能擅自停药。
+2. **“只要少盐就行”**：DASH 的蔬果、奶类、全谷和低脂蛋白同样重要。
+3. **“低钠盐人人适合”**：高钾风险人群需避免。
+4. **“DASH 很难执行”**：先从每天多两份蔬菜、一份水果、一杯奶开始。
+5. **“血压正常就不用管”**：DASH 也是预防高血压和心血管病的合理膳食模式。
+
+## 实操建议
+
+1. 第一周只做一件事：把盐降到 5 克以下，少酱油和腌制品。
+2. 第二周增加蔬菜到每餐两份，水果每天两份。
+3. 第三周把一半主食换成全谷物，奶类换成低脂/无糖。
+4. 第四周用鱼禽替代部分红肉，坚果替代零食。
+5. 用家用血压计记录变化，4 周后复盘。
+
+## 参考来源
+
+- 中国营养学会.《中国居民膳食指南（2022）》
+- Appel LJ, et al. A clinical trial of the effects of dietary patterns on blood pressure. N Engl J Med, 1997
+- Sacks FM, et al. Effects on blood pressure of reduced dietary sodium and the DASH diet. N Engl J Med, 2001
+- NIH NHLBI. DASH Eating Plan

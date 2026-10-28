@@ -1,1 +1,444 @@
-ewogICJzaXRlIjogewogICAgInRpdGxlIjogIuWBpeW6t+mlrumjn+S4juWHj+mHjeefpeivhuW6kyIsCiAgICAic3VidGl0bGUiOiAi5LuO6K+G5Yir6aOf54mp6Zm36Zix5Yiw6JC95Zyw5omn6KGM55qE57O757uf5pW055CGIiwKICAgICJkZXNjcmlwdGlvbiI6ICLln7rkuo7kuKTku73ljp/lp4votYTmlpnph43nu4TvvJrlh4/ph43ppa7po5/nrZTnlpHmiqXlkYrjgIHpo5/nianpmbfpmLHkuI7ml6XluLjokKXlhbvor6/ljLrmorPnkIbjgIIiLAogICAgInZlcnNpb24iOiAiMS4wLjAiLAogICAgInVwZGF0ZWQiOiAiMjAyNi0xMC0yMyIsCiAgICAiaG9tZSI6ICJwYWdlcy9pbmRleC5odG1sIiwKICAgICJjb250ZW50Um9vdCI6ICJjb250ZW50IiwKICAgICJvdXRwdXRSb290IjogInBhZ2VzIgogIH0sCiAgInRoZW1lIjogewogICAgInN0eWxlIjogImNsZWFuLW1hZ2F6aW5lIiwKICAgICJwcmltYXJ5IjogIiMyRjZCNEYiLAogICAgImFjY2VudCI6ICIjRThBMzNEIiwKICAgICJiYWNrZ3JvdW5kIjogIiNGQUY4RjIiLAogICAgImZvbnQiOiAic3lzdGVtLXVpLCAtYXBwbGUtc3lzdGVtLCAnUGluZ0ZhbmcgU0MnLCAnTm90byBTYW5zIFNDJywgc2Fucy1zZXJpZiIsCiAgICAibGF5b3V0IjogInNpZGViYXItbmF2ICsgYXJ0aWNsZSIsCiAgICAiZmVhdHVyZXMiOiBbCiAgICAgICLlhajnq5nmkJzntKIiLAogICAgICAi5YiG57G7562b6YCJIiwKICAgICAgIuagh+etvuetm+mAiSIsCiAgICAgICLmlofnq6Dnm67lvZUiLAogICAgICAi5LiK5LiA56+HL+S4i+S4gOevhyIsCiAgICAgICLmuIXljZXlj6/li77pgIkobG9jYWxTdG9yYWdlKSIsCiAgICAgICLlk43lupTlvI8iCiAgICBdCiAgfSwKICAiY2F0ZWdvcmllcyI6IFsKICAgIHsKICAgICAgImlkIjogIm92ZXJ2aWV3IiwKICAgICAgInRpdGxlIjogIuWFpemXqOaAu+iniCIsCiAgICAgICJpY29uIjogIvCfp60iLAogICAgICAib3JkZXIiOiAxLAogICAgICAiZGVzY3JpcHRpb24iOiAi5YWI5bu656uL5q2j56Gu6K6k55+l77ya5YeP6ISC55qE5bqV5bGC6YC76L6R44CB5LiJ5p2h5Y6f5YiZ44CB55+l6K+G5bqT5L2/55So5pa55byP44CCIiwKICAgICAgImFydGljbGVzIjogWwogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLmoLjlv4Pnu5PorrrvvJrlh4/ohILmsqHmnInnpZ7lmagiLAogICAgICAgICAgInNsdWciOiAiY29yZS1jb25jbHVzaW9uIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDEt5YWl6Zeo5oC76KeILzAxLeaguOW/g+e7k+iuui5tZCIsCiAgICAgICAgICAib3JkZXIiOiAxLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLmgLvop4giLAogICAgICAgICAgICAi54Ot6YeP57y65Y+jIiwKICAgICAgICAgICAgIuW6leWxgumAu+i+kSIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLlh4/ohILnmoTllK/kuIDpgJrot6/mmK/mjIHnu63nmoTng63ph4/nvLrlj6PvvJvnnJ/mraPmnInmlYjnmoTkuI3mmK/mn5DkuKrljZXlk4HvvIzogIzmmK/po5/nianlpJrmoLfjgIHmr5TkvovlkIjnkIbjgIHplb/mnJ/lnZrmjIHjgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5LiJ5p2h5bqV5bGC5Y6f5YiZIiwKICAgICAgICAgICJzbHVnIjogInRocmVlLXByaW5jaXBsZXMiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wMS3lhaXpl6jmgLvop4gvMDIt5LiJ5p2h5bqV5bGC5Y6f5YiZLm1kIiwKICAgICAgICAgICJvcmRlciI6IDIsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIuaAu+iniCIsCiAgICAgICAgICAgICLlv4PmgIEiLAogICAgICAgICAgICAi57O757ufIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuWHj+eahOaYr+iEguiCquS4jeaYr+S9k+mHjeaVsOWtl++8m+aLvOeahOaYr+WdmuaMgeS4jeaYr+W8uuW6pu+8m+mdoOeahOaYr+ezu+e7n+S4jeaYr+elnuWZqOOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLnn6Xor4blupPmgI7kuYjnlKgiLAogICAgICAgICAgInNsdWciOiAiaG93LXRvLXVzZSIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAxLeWFpemXqOaAu+iniC8wMy3nn6Xor4blupPlr7zor7subWQiLAogICAgICAgICAgIm9yZGVyIjogMywKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5oC76KeIIiwKICAgICAgICAgICAgIuWvvOiIqiIsCiAgICAgICAgICAgICLkvb/nlKjor7TmmI4iCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi5YWt5Liq5YiG57G744CB5Zub5p2h5o6o6I2Q6ZiF6K+76Lev5b6E77yM5Lul5Y+K5YaF5a655LiO5qC85byP57qm5a6a44CCIgogICAgICAgIH0KICAgICAgXQogICAgfSwKICAgIHsKICAgICAgImlkIjogImZhdGxvc3MiLAogICAgICAidGl0bGUiOiAi5YeP6YeN5Y6f55CG5LiO5ZCD5rOVIiwKICAgICAgImljb24iOiAi4pqW77iPIiwKICAgICAgIm9yZGVyIjogMiwKICAgICAgImRlc2NyaXB0aW9uIjogIueDremHj+e8uuWPo+aAjuS5iOeul+OAgeWQg+S7gOS5iOaJm+mlv+OAgeS4gOWkqeaAjuS5iOaQreOAgeWTquS6m+aYr+S9juWNoeabv+i6q+OAgiIsCiAgICAgICJhcnRpY2xlcyI6IFsKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5YeP6ISC55qE5ZSv5LiA6YCa6Lev77ya54Ot6YeP57y65Y+jIiwKICAgICAgICAgICJzbHVnIjogImNhbG9yaWUtZGVmaWNpdCIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAyLeWHj+mHjeWOn+eQhuS4juWQg+azlS8wMS3lh4/ohILnmoTllK/kuIDpgJrot68ubWQiLAogICAgICAgICAgIm9yZGVyIjogMSwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5YeP6ISCIiwKICAgICAgICAgICAgIueDremHj+e8uuWPoyIsCiAgICAgICAgICAgICLov5DliqgiCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi5q+P5aSpIDMwMH41MDAg5Y2D5Y2h57y65Y+jICsg5q+P5ZGoIDE1MCDliIbpkp/ov5DliqjvvIzpgJ/luqbmjqfliLblnKjmr4/lkaggMC41fjEg5YWs5pak44CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuWkqeeEtuazu+iNr+iDveWHj+iCpeWQl++8muilv+aiheaxgeS4jueZvummmeaenCIsCiAgICAgICAgICAic2x1ZyI6ICJuYXR1cmFsLWxheGF0aXZlcyIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAyLeWHj+mHjeWOn+eQhuS4juWQg+azlS8wMi3lpKnnhLbms7voja/og73lh4/ogqXlkJcubWQiLAogICAgICAgICAgIm9yZGVyIjogMiwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi6KW/5qKF5rGBIiwKICAgICAgICAgICAgIueZvummmeaenCIsCiAgICAgICAgICAgICLkvr/np5giLAogICAgICAgICAgICAi5pm65ZWG56iOIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuS4jeWHj+iEgu+8jOWPquaOkuawtOWSjOiCoOmBk+WGheWuueeJqe+8mzI0fjQ4IOWwj+aXtuaOiSAxfjMg5YWs5pak77yM5ZCD6aG/6aWt5bCx5Y+N5by544CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuWbm+exu+aJm+mlv+mjn+eJqe+8muWHj+mHjeacn+ivpeWQg+S7gOS5iCIsCiAgICAgICAgICAic2x1ZyI6ICJmb3VyLXNhdGlldHktZm9vZHMiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wMi3lh4/ph43ljp/nkIbkuI7lkIPms5UvMDMt5Zub57G75omb6aW/6aOf54mpLm1kIiwKICAgICAgICAgICJvcmRlciI6IDMsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIuibi+eZvei0qCIsCiAgICAgICAgICAgICLlhajosLfniakiLAogICAgICAgICAgICAi6JSs6I+cIiwKICAgICAgICAgICAgIuawtOaenCIsCiAgICAgICAgICAgICLlpbYiCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi6auY6JuL55m9ICsg5YWo6LC354mp6Jav57G7ICsg6auY57qk57u06JSs6I+cICsg5L2O57OW5rC05p6c5L2O6ISC5aW244CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuS4gOWkqeaQremFjeekuuS+i++8iOe6piAxMzAwfjE1MDAg5Y2D5Y2h77yJIiwKICAgICAgICAgICJzbHVnIjogIm9uZS1kYXktbWVudSIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAyLeWHj+mHjeWOn+eQhuS4juWQg+azlS8wNC3kuIDlpKnmkK3phY3npLrkvosubWQiLAogICAgICAgICAgIm9yZGVyIjogNCwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi6aOf6LCxIiwKICAgICAgICAgICAgIuS4gOaXpeS4iemkkCIsCiAgICAgICAgICAgICLliqDppJAiCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi54eV6bqm6bih6JuL5pep6aSQ44CB5p2C57Ku6aWt6bih6IO45Y2I6aSQ44CB6Iu55p6c5Z2a5p6c5Yqg6aSQ44CB57qi6Jav6LGG6IWQ5pma6aSQ44CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuS9juiDvemHj+WvhuW6puS4jumkkOWJjee9ruaNoiIsCiAgICAgICAgICAic2x1ZyI6ICJsb3ctZW5lcmd5LWRlbnNpdHkiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wMi3lh4/ph43ljp/nkIbkuI7lkIPms5UvMDUt5L2O6IO96YeP5a+G5bqm5LiO6aSQ5YmN572u5o2iLm1kIiwKICAgICAgICAgICJvcmRlciI6IDUsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIuS9juWNoemjn+eJqSIsCiAgICAgICAgICAgICLppbHohbnmhJ8iLAogICAgICAgICAgICAi6aSQ5YmN5rGkIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIueUqOS9k+enr+Wkp+OAgeawtOWIhuWkmuOAgeeDremHj+S9jueahOmjn+eJqeWFiOWNoOS9je+8m+mkkOWJjeaxpOWPr+WHj+Wwkee6piAyMCUg5q2j6aSQ5pGE5YWl44CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIum+n+iLk+iGj+aAjuS5iOWQg++8muS9juWNoeabv+i6q++8jOS4jeaYr+WHj+iEguW3peWFtyIsCiAgICAgICAgICAic2x1ZyI6ICJndWlsaW5nZ2FvIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDIt5YeP6YeN5Y6f55CG5LiO5ZCD5rOVLzA2Lem+n+iLk+iGj+aAjuS5iOWQgy5tZCIsCiAgICAgICAgICAib3JkZXIiOiA2LAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLpvp/oi5Poho8iLAogICAgICAgICAgICAi55Sc5ZOB5pu/5LujIiwKICAgICAgICAgICAgIuS9juWNoSIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLml6Dns5bljp/lkbPnuqYgMzB+NjAg5Y2D5Y2hLzEwMCDlhYvvvJvluILllK7liqDns5bniYjog73liLAgODB+MTUwIOWNg+WNoe+8jOS4lOWHoOS5juS4jeWQq+ibi+eZvei0qOOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLnnJ/mraPopoHpgb/lvIDnmoTpq5jng63ph4/ngrjlvLkiLAogICAgICAgICAgInNsdWciOiAiY2Fsb3JpZS1ib21icyIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAyLeWHj+mHjeWOn+eQhuS4juWQg+azlS8wNy3or6Xpgb/lvIDnmoTpq5jng63ph4/ngrjlvLkubWQiLAogICAgICAgICAgIm9yZGVyIjogNywKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5rK554K4IiwKICAgICAgICAgICAgIuWQq+ezlumlruaWmSIsCiAgICAgICAgICAgICLphZLnsr4iLAogICAgICAgICAgICAi6IKl6IKJIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuayueeCuOOAgeWQq+ezlumlruaWmeOAgeezleeCueezluaenOOAgeiCpeiCieOAgemFku+8jOS7peWPiuaymeaLiemFseOAgea1k+axpOetiemakOW9oueCuOW8ueOAgiIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJpZCI6ICJ0cmFwcyIsCiAgICAgICJ0aXRsZSI6ICLpo5/nianpmbfpmLHpibTliKsiLAogICAgICAiaWNvbiI6ICLwn5W177iPIiwKICAgICAgIm9yZGVyIjogMywKICAgICAgImRlc2NyaXB0aW9uIjogIuaLhuepv+S8quiQpeWFu+WTgeOAgeS8queyl+eyruOAgeS8quS5s+mlruWSjOS7peW9ouihpeW9ou+8jOWtpuS8mueci+mFjeaWmeihqOS4juaJp+ihjOagh+WHhuOAgiIsCiAgICAgICJhcnRpY2xlcyI6IFsKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5Lyq6JCl5YW75ZOB5o6S6KGM5qac77ya55m957Kl44CB6aqo5aS05rGk44CB6JyC6Jyc44CB5p6c5rGB44CB54eV56qdIiwKICAgICAgICAgICJzbHVnIjogImZha2Utc3VwcGxlbWVudHMiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wMy3po5/nianpmbfpmLHpibTliKsvMDEt5Lyq6JCl5YW75ZOB5o6S6KGM5qacLm1kIiwKICAgICAgICAgICJvcmRlciI6IDEsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIueZveeypSIsCiAgICAgICAgICAgICLpqqjlpLTmsaQiLAogICAgICAgICAgICAi6JyC6JycIiwKICAgICAgICAgICAgIuaenOaxgSIsCiAgICAgICAgICAgICLnh5Xnqp0iLAogICAgICAgICAgICAi5pm65ZWG56iOIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIueZveeypeOAgemqqOWktOaxpOOAgeicguicnOOAgeaenOaxgeOAgeeHleeqneOAgeWQhOexu+eyieWJgueahOmAkOadoeaLhuino+S4juaVsOaNruaguOWvueOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLkvKrnspfnsq7kuI7kvKrkubPppa7vvJrotoXluILlkoznm7Tmkq3pl7TnmoTph43ngb7ljLoiLAogICAgICAgICAgInNsdWciOiAiZmFrZS13aG9sZWdyYWluLWRhaXJ5IiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDMt6aOf54mp6Zm36Zix6Ym05YirLzAyLeS8queyl+eyruS4juS8quS5s+mlri5tZCIsCiAgICAgICAgICAib3JkZXIiOiAyLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLnspfnsq7ppbzlubIiLAogICAgICAgICAgICAi6bqm54mHIiwKICAgICAgICAgICAgIuWFq+WuneeypSIsCiAgICAgICAgICAgICLlhajpuqbpnaLljIUiLAogICAgICAgICAgICAi5Lmz6YW46I+M6aWu5paZIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIueyl+eyrumlvOW5suayuei2hSAzMCXjgIHoirHlvI/puqbniYfns5YgMTV+MjVnLzEwMGfjgIHkubPphbjoj4zppa7mlpnlkKvns5bpq5jkuo7lj6/kuZDjgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5Lul5b2i6KGl5b2i5LiO44CM5peg57OW44CN5paH5a2X5ri45oiPIiwKICAgICAgICAgICJzbHVnIjogImZvb2Qtc3VwZXJzdGl0aW9ucyIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzAzLemjn+eJqemZt+mYsemJtOWIqy8wMy3ku6XlvaLooaXlvaLkuI7ml6Dns5bmloflrZfmuLjmiI8ubWQiLAogICAgICAgICAgIm9yZGVyIjogMywKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5qC45qGD6KGl6ISRIiwKICAgICAgICAgICAgIum7keiKnem6uyIsCiAgICAgICAgICAgICLpmL/og7YiLAogICAgICAgICAgICAi57qi5p6jIiwKICAgICAgICAgICAgIuaXoOezliIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLmoLjmoYPooaXohJHjgIHpu5Hoip3purvkuYzlj5HjgIHpmL/og7bnuqLmnqPooaXooYDnvLrkuY/nm7TmjqXor4Hmja7vvJvml6DolJfns5bkuI3nrYnkuo7ml6Dns5bjgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi6YWN5paZ6KGo5LiO5omn6KGM5qCH5YeG77ya5Lmw5LmL5YmN57+75Yiw6IOM6Z2i55yL5LiJ5aSEIiwKICAgICAgICAgICJzbHVnIjogImxhYmVsLXJlYWRpbmciLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wMy3po5/nianpmbfpmLHpibTliKsvMDQt6YWN5paZ6KGo5LiO5omn6KGM5qCH5YeGLm1kIiwKICAgICAgICAgICJvcmRlciI6IDQsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIumFjeaWmeihqCIsCiAgICAgICAgICAgICLokKXlhbvmiJDliIbooagiLAogICAgICAgICAgICAi5omn6KGM5qCH5YeGIiwKICAgICAgICAgICAgIumAiei0rSIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLphY3mlpnooajliY3kuInkvY3jgIHokKXlhbvmiJDliIbooajlhbPplK7mjIfmoIfjgIFHQiDmiafooYzmoIflh4blj7fkuInmraXnrZvpgInjgIIiCiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgewogICAgICAiaWQiOiAibXl0aHMiLAogICAgICAidGl0bGUiOiAi5pel5bi46JCl5YW76K+v5Yy6IiwKICAgICAgImljb24iOiAi8J+SoSIsCiAgICAgICJvcmRlciI6IDQsCiAgICAgICJkZXNjcmlwdGlvbiI6ICLllp3msaTjgIHom4vpu4TjgIHnspfnsq7jgIHohLHohILlpbbjgIHlnJ/puKHom4vjgIHpo5/niannm7jlhYvjgIHpmpTlpJzoj5zjgIHooaXliYLkuI7ogIHkurrppa7po5/jgIIiLAogICAgICAiYXJ0aWNsZXMiOiBbCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuivr+WMuiAxLTLvvJrllp3msaTlvIPogonjgIHkuKLmjonom4vpu4QiLAogICAgICAgICAgInNsdWciOiAic291cC1hbmQteW9sayIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzA0LeaXpeW4uOiQpeWFu+ivr+WMui8wMS3llp3msaTlvIPogonkuI7kuKLmjonom4vpu4QubWQiLAogICAgICAgICAgIm9yZGVyIjogMSwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5rGkIiwKICAgICAgICAgICAgIuibi+eZvei0qCIsCiAgICAgICAgICAgICLpuKHom4siLAogICAgICAgICAgICAi6JuL6buEIiwKICAgICAgICAgICAgIuiDhuWbuumGhyIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICI4NSV+OTAlIOibi+eZvei0qOS7jeWcqOiCiemHjO+8m+m4oeibiyA4MCUg5Lul5LiK6JCl5YW75Zyo6JuL6buE44CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuivr+WMuiAzLTTvvJrnspfnsq7ov4fph4/kuI7ohLHohILlpbbov7fkv6EiLAogICAgICAgICAgInNsdWciOiAiY29hcnNlLWdyYWluLWFuZC1taWxrIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDQt5pel5bi46JCl5YW76K+v5Yy6LzAyLeeyl+eyrui/h+mHj+S4juiEseiEguWltui/t+S/oS5tZCIsCiAgICAgICAgICAib3JkZXIiOiAyLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLnspfnsq4iLAogICAgICAgICAgICAi6Iaz6aOf57qk57u0IiwKICAgICAgICAgICAgIuiAgeW5tOS6uiIsCiAgICAgICAgICAgICLohLHohILlpbYiLAogICAgICAgICAgICAi5YWo6ISC5aW2IgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuiAgeS6uueyl+eyruaMieW5tOm+hOaOp+WItuWcqOS4u+mjn+eahCAxLzR+MS8y77yb5YGl5bq35Lq65LyY5YWI5YWo6ISC5aW244CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuivr+WMuiA1LTbvvJrlnJ/puKHom4vjgIHmnInmnLrpo5/lk4HkuI7po5/niannm7jlhYsiLAogICAgICAgICAgInNsdWciOiAiZWdnLW9yZ2FuaWMtZm9vZC1jb25mbGljdCIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzA0LeaXpeW4uOiQpeWFu+ivr+WMui8wMy3lnJ/puKHom4vmnInmnLrpo5/lk4HkuI7po5/niannm7jlhYsubWQiLAogICAgICAgICAgIm9yZGVyIjogMywKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5Zyf6bih6JuLIiwKICAgICAgICAgICAgIuibi+Wjs+minOiJsiIsCiAgICAgICAgICAgICLmnInmnLrpo5/lk4EiLAogICAgICAgICAgICAi6aOf54mp55u45YWLIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuWcn+m4oeibi+S4jua0i+m4oeibi+aXoOaYvuiRl+W3ruW8gu+8m+mjn+eJqeebuOWFi+afpeaXoOatpOS6i+OAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLor6/ljLogNy0477ya6ZqU5aSc6I+c54Sm6JmR5LiO6KGl5YmC6LaK5aSa6LaK5aW9IiwKICAgICAgICAgICJzbHVnIjogImxlZnRvdmVycy1hbmQtc3VwcGxlbWVudHMiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wNC3ml6XluLjokKXlhbvor6/ljLovMDQt6ZqU5aSc6I+c5LiO6JCl5YW76KGl5YmCLm1kIiwKICAgICAgICAgICJvcmRlciI6IDQsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIumalOWknOiPnCIsCiAgICAgICAgICAgICLkuprnoZ3phbjnm5AiLAogICAgICAgICAgICAi5Ya36JePIiwKICAgICAgICAgICAgIuihpemSmSIsCiAgICAgICAgICAgICLnu7TnlJ/ntKBEIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuWGt+iXjyAyNCDlsI/ml7bkuprnoZ3phbjnm5Dln7rmnKzkuI3lj5jvvIznnJ/mraPpo47pmanmmK/nu4boj4zvvJvooaXliYLkvJjlhYjnuqfnu7TnlJ/ntKAgRCA+IOmSmSA+IOibi+eZveeyieOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLor6/ljLogOS0xMO+8mue7meeItuavjeeahOmlrumjn+aPkOmGkiIsCiAgICAgICAgICAic2x1ZyI6ICJlbGRlcmx5LWRpZXQiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wNC3ml6XluLjokKXlhbvor6/ljLovMDUt6ICB5bm05Lq655qE5Lik5Liq6aWu6aOf5o+Q6YaSLm1kIiwKICAgICAgICAgICJvcmRlciI6IDUsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIuiAgeW5tOS6uiIsCiAgICAgICAgICAgICLom4vnmb3otKgiLAogICAgICAgICAgICAi5ZKA5Zq8IiwKICAgICAgICAgICAgIua4hea3oemlrumjnyIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLliKvorqnogIHkurrlsJHlkIPogonvvJvmuIXmt6HkuI3mmK/nmb3nsqXlkrjoj5zvvIzogIzmmK/lsJHmsrnlsJHnm5DlsJHns5bkuJTokKXlhbvlnYfooaHjgIIiCiAgICAgICAgfQogICAgICBdCiAgICB9LAogICAgewogICAgICAiaWQiOiAiZm9vZHMiLAogICAgICAidGl0bGUiOiAi6aOf5p2Q5LiO6JCl5YW757SgIiwKICAgICAgImljb24iOiAi8J+lmiIsCiAgICAgICJvcmRlciI6IDUsCiAgICAgICJkZXNjcmlwdGlvbiI6ICLpkpnpk4Hom4vnmb3nu7TnlJ/ntKDmgI7kuYjooaXvvIzovrnop5Lmlpnom4vnmb3nmoTnuqLmppzkuI7pu5HmppzvvIzlhoXohI/lkozosYbmuKPmgI7kuYjlkIPjgIIiLAogICAgICAiYXJ0aWNsZXMiOiBbCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuiQpeWFu+e0oOS4jumjn+eJqeadpea6kOWvueeFpyIsCiAgICAgICAgICAic2x1ZyI6ICJudXRyaWVudC1zb3VyY2VzIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDUt6aOf5p2Q5LiO6JCl5YW757SgLzAxLeiQpeWFu+e0oOS4jumjn+eJqeadpea6kC5tZCIsCiAgICAgICAgICAib3JkZXIiOiAxLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLpkpkiLAogICAgICAgICAgICAi6JuL55m96LSoIiwKICAgICAgICAgICAgIumTgSIsCiAgICAgICAgICAgICLnu7TnlJ/ntKBEIiwKICAgICAgICAgICAgIuiGs+mjn+e6pOe7tCIsCiAgICAgICAgICAgICJPbWVnYS0zIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuWFreWkp+iQpeWFu+e0oOeahOavj+aXpeaOqOiNkOmHj+S4juacgOWIkueul+eahOmjn+eJqeadpea6kOOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLovrnop5Lmlpnom4vnmb3nuqLmppzvvJrkvr/lrpzlj4jkvJjotKjnmoTpg6jkvY0iLAogICAgICAgICAgInNsdWciOiAiY2hlYXAtcHJvdGVpbi1nb29kIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDUt6aOf5p2Q5LiO6JCl5YW757SgLzAyLei+ueinkuaWmeibi+eZvee6ouamnC5tZCIsCiAgICAgICAgICAib3JkZXIiOiAyLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLpuK3ooYAiLAogICAgICAgICAgICAi54yq6IKdIiwKICAgICAgICAgICAgIum4oeiFvyIsCiAgICAgICAgICAgICLpuK3og7giLAogICAgICAgICAgICAi54mb6IKaIiwKICAgICAgICAgICAgIuecgemSsSIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLpuK3ooYDjgIHpuK3og5fjgIHniZvogprjgIHnjKrogp3jgIHljrvnmq7puKHohb/jgIHljrvnmq7puK3og7jvvIzom4vnmb3pq5johILogqrkvY7jgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi6L656KeS5paZ6JuL55m96buR5qac77ya5oqr552A6JuL55m95aSW6KGj55qE6ISC6IKq5aSn5oi3IiwKICAgICAgICAgICJzbHVnIjogImNoZWFwLXByb3RlaW4tYmFkIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDUt6aOf5p2Q5LiO6JCl5YW757SgLzAzLei+ueinkuaWmeibi+eZvem7keamnC5tZCIsCiAgICAgICAgICAib3JkZXIiOiAzLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLpuKHniKoiLAogICAgICAgICAgICAi54yq6LmEIiwKICAgICAgICAgICAgIum4oeeariIsCiAgICAgICAgICAgICLpuKHnv4UiLAogICAgICAgICAgICAi6IKl6IKgIiwKICAgICAgICAgICAgIuiDtuWOn+ibi+eZvSIKICAgICAgICAgIF0sCiAgICAgICAgICAic3VtbWFyeSI6ICLpuKHniKogMjU0IOWNg+WNoeOAgeeMqui5hCAyNjAg5Y2D5Y2h44CB6bih55quIDUwMSDljYPljaHvvJvog7bljp/om4vnmb3mmK/pnZ7kvJjotKjom4vnmb3jgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5YaF6ISP5LiO6LGG5rij5oCO5LmI5ZCDIiwKICAgICAgICAgICJzbHVnIjogIm9yZ2Fucy1hbmQtb2thcmEiLAogICAgICAgICAgInBhdGgiOiAiY29udGVudC8wNS3po5/mnZDkuI7okKXlhbvntKAvMDQt5YaF6ISP5LiO6LGG5rijLm1kIiwKICAgICAgICAgICJvcmRlciI6IDQsCiAgICAgICAgICAidGFncyI6IFsKICAgICAgICAgICAgIueMquiCnSIsCiAgICAgICAgICAgICLog4blm7rphociLAogICAgICAgICAgICAi5YaF6ISPIiwKICAgICAgICAgICAgIuixhua4oyIsCiAgICAgICAgICAgICLohrPpo5/nuqTnu7QiCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi54yq6IKd5q+P5ZGoIDF+MiDmrKHjgIHmr4/mrKEgNTB+MTAwIOWFi++8m+ixhua4o+e6pOe7tOmrmOS9huibi+eZveS9juOAgiIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJpZCI6ICJ0b29scyIsCiAgICAgICJ0aXRsZSI6ICLlrp7mk43lt6XlhbciLAogICAgICAiaWNvbiI6ICLwn5uSIiwKICAgICAgIm9yZGVyIjogNiwKICAgICAgImRlc2NyaXB0aW9uIjogIui0reeJqea4heWNleOAgeavj+aXpeaJk+WNoeOAgemkkOebmOWFrOW8j+OAgeS4gOWRqOaJp+ihjOihqO+8jOebtOaOpeeFp+edgOWBmuOAgiIsCiAgICAgICJhcnRpY2xlcyI6IFsKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi6LSt54mp5LiJ55yL5riF5Y2VIiwKICAgICAgICAgICJzbHVnIjogInNob3BwaW5nLWNoZWNrbGlzdCIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzA2LeWunuaTjeW3peWFty8wMS3otK3niankuInnnIvmuIXljZUubWQiLAogICAgICAgICAgIm9yZGVyIjogMSwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi6LSt54mpIiwKICAgICAgICAgICAgIumFjeaWmeihqCIsCiAgICAgICAgICAgICLmiafooYzmoIflh4YiLAogICAgICAgICAgICAi5riF5Y2VIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIue7k+i0puWJjSAzMCDnp5LvvIzmjInphY3mlpnooajjgIHokKXlhbvmiJDliIbooajjgIHmiafooYzmoIflh4bnrZvmjonkvKrlgaXlurfpo5/lk4HjgIIiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAidGl0bGUiOiAi5q+P5pel6Iaz6aOf5omT5Y2h5riF5Y2VIiwKICAgICAgICAgICJzbHVnIjogImRhaWx5LWNoZWNrbGlzdCIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzA2LeWunuaTjeW3peWFty8wMi3mr4/ml6XohrPpo5/miZPljaEubWQiLAogICAgICAgICAgIm9yZGVyIjogMiwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi5omT5Y2hIiwKICAgICAgICAgICAgIua4heWNlSIsCiAgICAgICAgICAgICLmr4/ml6UiLAogICAgICAgICAgICAi6Iaz6aOf5oyH5Y2XIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuWltuOAgeibi+OAgeiCieOAgeixhuOAgeiPnOOAgeaenOOAgeS4u+mjn+OAgemlruawtOOAgeaXpeeFp+eahOavj+aXpeWLvumAiea4heWNleOAgiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6ICLppJDnm5jlhazlvI/kuI7ov5vpo5/pobrluo8iLAogICAgICAgICAgInNsdWciOiAicGxhdGUtbWV0aG9kIiwKICAgICAgICAgICJwYXRoIjogImNvbnRlbnQvMDYt5a6e5pON5bel5YW3LzAzLemkkOebmOWFrOW8j+S4jui/m+mjn+mhuuW6jy5tZCIsCiAgICAgICAgICAib3JkZXIiOiAzLAogICAgICAgICAgInRhZ3MiOiBbCiAgICAgICAgICAgICLppJDnm5giLAogICAgICAgICAgICAi6L+b6aOf6aG65bqPIiwKICAgICAgICAgICAgIuWIhumkkCIsCiAgICAgICAgICAgICLlpJbpo58iCiAgICAgICAgICBdLAogICAgICAgICAgInN1bW1hcnkiOiAi5LyY6LSo6JuL55m9ICsg5Lik5ouz6JSs6I+cICsg5LiA5ouz5Li76aOf77yb5YWI6I+c5YaN6IKJ5pyA5ZCO5Li76aOf44CCIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjogIuS4gOWRqOaJp+ihjOa4heWNlSIsCiAgICAgICAgICAic2x1ZyI6ICJ3ZWVrbHktcGxhbiIsCiAgICAgICAgICAicGF0aCI6ICJjb250ZW50LzA2LeWunuaTjeW3peWFty8wNC3kuIDlkajmiafooYzmuIXljZUubWQiLAogICAgICAgICAgIm9yZGVyIjogNCwKICAgICAgICAgICJ0YWdzIjogWwogICAgICAgICAgICAi6K6h5YiSIiwKICAgICAgICAgICAgIuS4gOWRqCIsCiAgICAgICAgICAgICLph4fotK0iLAogICAgICAgICAgICAi5aSN55uYIgogICAgICAgICAgXSwKICAgICAgICAgICJzdW1tYXJ5IjogIuS7jua4heWOqOaIv+OAgemHh+i0reOAgeWkh+mkkOWIsOaJp+ihjOS4juWkjeebmO+8jOS4gOWRqOW7uueri+iKguWlj+OAgiIKICAgICAgICB9CiAgICAgIF0KICAgIH0KICBdCn0K
+{
+  "site": {
+    "title": "健康饮食与减重知识库",
+    "subtitle": "从识别食物陷阱到落地执行的系统整理",
+    "description": "基于两份原始资料重组：减重饮食答疑报告、食物陷阱与日常营养误区梳理。",
+    "version": "1.0.0",
+    "updated": "2026-10-23",
+    "home": "pages/index.html",
+    "contentRoot": "content",
+    "outputRoot": "pages"
+  },
+  "theme": {
+    "style": "clean-magazine",
+    "primary": "#2F6B4F",
+    "accent": "#E8A33D",
+    "background": "#FAF8F2",
+    "font": "system-ui, -apple-system, 'PingFang SC', 'Noto Sans SC', sans-serif",
+    "layout": "sidebar-nav + article",
+    "features": [
+      "全站搜索",
+      "分类筛选",
+      "标签筛选",
+      "文章目录",
+      "上一篇/下一篇",
+      "清单可勾选(localStorage)",
+      "响应式"
+    ]
+  },
+  "categories": [
+    {
+      "id": "overview",
+      "title": "入门总览",
+      "icon": "🧭",
+      "order": 1,
+      "description": "先建立正确认知：减脂的底层逻辑、三条原则、知识库使用方式。",
+      "articles": [
+        {
+          "title": "核心结论：减脂没有神器",
+          "slug": "core-conclusion",
+          "path": "content/01-入门总览/01-核心结论.md",
+          "order": 1,
+          "tags": [
+            "总览",
+            "热量缺口",
+            "底层逻辑"
+          ],
+          "summary": "减脂的唯一通路是持续的热量缺口；真正有效的不是某个单品，而是食物多样、比例合理、长期坚持。"
+        },
+        {
+          "title": "三条底层原则",
+          "slug": "three-principles",
+          "path": "content/01-入门总览/02-三条底层原则.md",
+          "order": 2,
+          "tags": [
+            "总览",
+            "心态",
+            "系统"
+          ],
+          "summary": "减的是脂肪不是体重数字；拼的是坚持不是强度；靠的是系统不是神器。"
+        },
+        {
+          "title": "知识库怎么用",
+          "slug": "how-to-use",
+          "path": "content/01-入门总览/03-知识库导读.md",
+          "order": 3,
+          "tags": [
+            "总览",
+            "导航",
+            "使用说明"
+          ],
+          "summary": "六个分类、四条推荐阅读路径，以及内容与格式约定。"
+        }
+      ]
+    },
+    {
+      "id": "fatloss",
+      "title": "减重原理与吃法",
+      "icon": "⚖️",
+      "order": 2,
+      "description": "热量缺口怎么算、吃什么扛饿、一天怎么搭、哪些是低卡替身。",
+      "articles": [
+        {
+          "title": "减脂的唯一通路：热量缺口",
+          "slug": "calorie-deficit",
+          "path": "content/02-减重原理与吃法/01-减脂的唯一通路.md",
+          "order": 1,
+          "tags": [
+            "减脂",
+            "热量缺口",
+            "运动"
+          ],
+          "summary": "每天 300~500 千卡缺口 + 每周 150 分钟运动，速度控制在每周 0.5~1 公斤。"
+        },
+        {
+          "title": "天然泻药能减肥吗：西梅汁与百香果",
+          "slug": "natural-laxatives",
+          "path": "content/02-减重原理与吃法/02-天然泻药能减肥吗.md",
+          "order": 2,
+          "tags": [
+            "西梅汁",
+            "百香果",
+            "便秘",
+            "智商税"
+          ],
+          "summary": "不减脂，只排水和肠道内容物；24~48 小时掉 1~3 公斤，吃顿饭就反弹。"
+        },
+        {
+          "title": "四类扛饿食物：减重期该吃什么",
+          "slug": "four-satiety-foods",
+          "path": "content/02-减重原理与吃法/03-四类扛饿食物.md",
+          "order": 3,
+          "tags": [
+            "蛋白质",
+            "全谷物",
+            "蔬菜",
+            "水果",
+            "奶"
+          ],
+          "summary": "高蛋白 + 全谷物薯类 + 高纤维蔬菜 + 低糖水果低脂奶。"
+        },
+        {
+          "title": "一天搭配示例（约 1300~1500 千卡）",
+          "slug": "one-day-menu",
+          "path": "content/02-减重原理与吃法/04-一天搭配示例.md",
+          "order": 4,
+          "tags": [
+            "食谱",
+            "一日三餐",
+            "加餐"
+          ],
+          "summary": "燕麦鸡蛋早餐、杂粮饭鸡胸午餐、苹果坚果加餐、红薯豆腐晚餐。"
+        },
+        {
+          "title": "低能量密度与餐前置换",
+          "slug": "low-energy-density",
+          "path": "content/02-减重原理与吃法/05-低能量密度与餐前置换.md",
+          "order": 5,
+          "tags": [
+            "低卡食物",
+            "饱腹感",
+            "餐前汤"
+          ],
+          "summary": "用体积大、水分多、热量低的食物先占位；餐前汤可减少约 20% 正餐摄入。"
+        },
+        {
+          "title": "龟苓膏怎么吃：低卡替身，不是减脂工具",
+          "slug": "guilinggao",
+          "path": "content/02-减重原理与吃法/06-龟苓膏怎么吃.md",
+          "order": 6,
+          "tags": [
+            "龟苓膏",
+            "甜品替代",
+            "低卡"
+          ],
+          "summary": "无糖原味约 30~60 千卡/100 克；市售加糖版能到 80~150 千卡，且几乎不含蛋白质。"
+        },
+        {
+          "title": "真正要避开的高热量炸弹",
+          "slug": "calorie-bombs",
+          "path": "content/02-减重原理与吃法/07-该避开的高热量炸弹.md",
+          "order": 7,
+          "tags": [
+            "油炸",
+            "含糖饮料",
+            "酒精",
+            "肥肉"
+          ],
+          "summary": "油炸、含糖饮料、糕点糖果、肥肉、酒，以及沙拉酱、浓汤等隐形炸弹。"
+        }
+      ]
+    },
+    {
+      "id": "traps",
+      "title": "食物陷阱鉴别",
+      "icon": "🕵️",
+      "order": 3,
+      "description": "拆穿伪营养品、伪粗粮、伪乳饮和以形补形，学会看配料表与执行标准。",
+      "articles": [
+        {
+          "title": "伪营养品排行榜：白粥、骨头汤、蜂蜜、果汁、燕窝",
+          "slug": "fake-supplements",
+          "path": "content/03-食物陷阱鉴别/01-伪营养品排行榜.md",
+          "order": 1,
+          "tags": [
+            "白粥",
+            "骨头汤",
+            "蜂蜜",
+            "果汁",
+            "燕窝",
+            "智商税"
+          ],
+          "summary": "白粥、骨头汤、蜂蜜、果汁、燕窝、各类粉剂的逐条拆解与数据核对。"
+        },
+        {
+          "title": "伪粗粮与伪乳饮：超市和直播间的重灾区",
+          "slug": "fake-wholegrain-dairy",
+          "path": "content/03-食物陷阱鉴别/02-伪粗粮与伪乳饮.md",
+          "order": 2,
+          "tags": [
+            "粗粮饼干",
+            "麦片",
+            "八宝粥",
+            "全麦面包",
+            "乳酸菌饮料"
+          ],
+          "summary": "粗粮饼干油超 30%、花式麦片糖 15~25g/100g、乳酸菌饮料含糖高于可乐。"
+        },
+        {
+          "title": "以形补形与「无糖」文字游戏",
+          "slug": "food-superstitions",
+          "path": "content/03-食物陷阱鉴别/03-以形补形与无糖文字游戏.md",
+          "order": 3,
+          "tags": [
+            "核桃补脑",
+            "黑芝麻",
+            "阿胶",
+            "红枣",
+            "无糖"
+          ],
+          "summary": "核桃补脑、黑芝麻乌发、阿胶红枣补血缺乏直接证据；无蔗糖不等于无糖。"
+        },
+        {
+          "title": "配料表与执行标准：买之前翻到背面看三处",
+          "slug": "label-reading",
+          "path": "content/03-食物陷阱鉴别/04-配料表与执行标准.md",
+          "order": 4,
+          "tags": [
+            "配料表",
+            "营养成分表",
+            "执行标准",
+            "选购"
+          ],
+          "summary": "配料表前三位、营养成分表关键指标、GB 执行标准号三步筛选。"
+        }
+      ]
+    },
+    {
+      "id": "myths",
+      "title": "日常营养误区",
+      "icon": "💡",
+      "order": 4,
+      "description": "喝汤、蛋黄、粗粮、脱脂奶、土鸡蛋、食物相克、隔夜菜、补剂与老人饮食。",
+      "articles": [
+        {
+          "title": "误区 1-2：喝汤弃肉、丢掉蛋黄",
+          "slug": "soup-and-yolk",
+          "path": "content/04-日常营养误区/01-喝汤弃肉与丢掉蛋黄.md",
+          "order": 1,
+          "tags": [
+            "汤",
+            "蛋白质",
+            "鸡蛋",
+            "蛋黄",
+            "胆固醇"
+          ],
+          "summary": "85%~90% 蛋白质仍在肉里；鸡蛋 80% 以上营养在蛋黄。"
+        },
+        {
+          "title": "误区 3-4：粗粮过量与脱脂奶迷信",
+          "slug": "coarse-grain-and-milk",
+          "path": "content/04-日常营养误区/02-粗粮过量与脱脂奶迷信.md",
+          "order": 2,
+          "tags": [
+            "粗粮",
+            "膳食纤维",
+            "老年人",
+            "脱脂奶",
+            "全脂奶"
+          ],
+          "summary": "老人粗粮按年龄控制在主食的 1/4~1/2；健康人优先全脂奶。"
+        },
+        {
+          "title": "误区 5-6：土鸡蛋、有机食品与食物相克",
+          "slug": "egg-organic-food-conflict",
+          "path": "content/04-日常营养误区/03-土鸡蛋有机食品与食物相克.md",
+          "order": 3,
+          "tags": [
+            "土鸡蛋",
+            "蛋壳颜色",
+            "有机食品",
+            "食物相克"
+          ],
+          "summary": "土鸡蛋与洋鸡蛋无显著差异；食物相克查无此事。"
+        },
+        {
+          "title": "误区 7-8：隔夜菜焦虑与补剂越多越好",
+          "slug": "leftovers-and-supplements",
+          "path": "content/04-日常营养误区/04-隔夜菜与营养补剂.md",
+          "order": 4,
+          "tags": [
+            "隔夜菜",
+            "亚硝酸盐",
+            "冷藏",
+            "补钙",
+            "维生素D"
+          ],
+          "summary": "冷藏 24 小时亚硝酸盐基本不变，真正风险是细菌；补剂优先级维生素 D > 钙 > 蛋白粉。"
+        },
+        {
+          "title": "误区 9-10：给父母的饮食提醒",
+          "slug": "elderly-diet",
+          "path": "content/04-日常营养误区/05-老年人的两个饮食提醒.md",
+          "order": 5,
+          "tags": [
+            "老年人",
+            "蛋白质",
+            "咀嚼",
+            "清淡饮食"
+          ],
+          "summary": "别让老人少吃肉；清淡不是白粥咸菜，而是少油少盐少糖且营养均衡。"
+        }
+      ]
+    },
+    {
+      "id": "foods",
+      "title": "食材与营养素",
+      "icon": "🥚",
+      "order": 5,
+      "description": "钙铁蛋白维生素怎么补，边角料蛋白的红榜与黑榜，内脏和豆渣怎么吃。",
+      "articles": [
+        {
+          "title": "营养素与食物来源对照",
+          "slug": "nutrient-sources",
+          "path": "content/05-食材与营养素/01-营养素与食物来源.md",
+          "order": 1,
+          "tags": [
+            "钙",
+            "蛋白质",
+            "铁",
+            "维生素D",
+            "膳食纤维",
+            "Omega-3"
+          ],
+          "summary": "六大营养素的每日推荐量与最划算的食物来源。"
+        },
+        {
+          "title": "边角料蛋白红榜：便宜又优质的部位",
+          "slug": "cheap-protein-good",
+          "path": "content/05-食材与营养素/02-边角料蛋白红榜.md",
+          "order": 2,
+          "tags": [
+            "鸭血",
+            "猪肝",
+            "鸡腿",
+            "鸭胸",
+            "牛肚",
+            "省钱"
+          ],
+          "summary": "鸭血、鸭胗、牛肚、猪肝、去皮鸡腿、去皮鸭胸，蛋白高脂肪低。"
+        },
+        {
+          "title": "边角料蛋白黑榜：披着蛋白外衣的脂肪大户",
+          "slug": "cheap-protein-bad",
+          "path": "content/05-食材与营养素/03-边角料蛋白黑榜.md",
+          "order": 3,
+          "tags": [
+            "鸡爪",
+            "猪蹄",
+            "鸡皮",
+            "鸡翅",
+            "肥肠",
+            "胶原蛋白"
+          ],
+          "summary": "鸡爪 254 千卡、猪蹄 260 千卡、鸡皮 501 千卡；胶原蛋白是非优质蛋白。"
+        },
+        {
+          "title": "内脏与豆渣怎么吃",
+          "slug": "organs-and-okara",
+          "path": "content/05-食材与营养素/04-内脏与豆渣.md",
+          "order": 4,
+          "tags": [
+            "猪肝",
+            "胆固醇",
+            "内脏",
+            "豆渣",
+            "膳食纤维"
+          ],
+          "summary": "猪肝每周 1~2 次、每次 50~100 克；豆渣纤维高但蛋白低。"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "实操工具",
+      "icon": "🛒",
+      "order": 6,
+      "description": "购物清单、每日打卡、餐盘公式、一周执行表，直接照着做。",
+      "articles": [
+        {
+          "title": "购物三看清单",
+          "slug": "shopping-checklist",
+          "path": "content/06-实操工具/01-购物三看清单.md",
+          "order": 1,
+          "tags": [
+            "购物",
+            "配料表",
+            "执行标准",
+            "清单"
+          ],
+          "summary": "结账前 30 秒，按配料表、营养成分表、执行标准筛掉伪健康食品。"
+        },
+        {
+          "title": "每日膳食打卡清单",
+          "slug": "daily-checklist",
+          "path": "content/06-实操工具/02-每日膳食打卡.md",
+          "order": 2,
+          "tags": [
+            "打卡",
+            "清单",
+            "每日",
+            "膳食指南"
+          ],
+          "summary": "奶、蛋、肉、豆、菜、果、主食、饮水、日照的每日勾选清单。"
+        },
+        {
+          "title": "餐盘公式与进食顺序",
+          "slug": "plate-method",
+          "path": "content/06-实操工具/03-餐盘公式与进食顺序.md",
+          "order": 3,
+          "tags": [
+            "餐盘",
+            "进食顺序",
+            "分餐",
+            "外食"
+          ],
+          "summary": "优质蛋白 + 两拳蔬菜 + 一拳主食；先菜再肉最后主食。"
+        },
+        {
+          "title": "一周执行清单",
+          "slug": "weekly-plan",
+          "path": "content/06-实操工具/04-一周执行清单.md",
+          "order": 4,
+          "tags": [
+            "计划",
+            "一周",
+            "采购",
+            "复盘"
+          ],
+          "summary": "从清厨房、采购、备餐到执行与复盘，一周建立节奏。"
+        }
+      ]
+    }
+  ]
+}

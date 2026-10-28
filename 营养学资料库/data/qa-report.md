@@ -1,1 +1,35 @@
-IyDlhoXlrrnlrqHmoKHmiqXlkYoKCi0g55Sf5oiQ5pel5pyf77yaMjAyNi0xMC0yNQotIOaWh+eroOaAu+aVsO+8mjY4Ci0g5oC75a2X56ym77yaMTI5LDQ2MgotIOW5s+Wdh+Wtl+espu+8mjEsOTA0Ci0g54q25oCB5YiG5biD77yaZHJhZnQgNjgKLSDmnInpl67popjmlofnq6DvvJowCgojIyDpl67popjmsYfmgLsKCuacquWPkeeOsOiHquWKqOWMluWPr+ivhuWIq+eahOmXrumimOOAggoKIyMg5YiG5qih5Z2X57uf6K6hCgp8IOaooeWdlyB8IOevh+aVsCB8IOWtl+espuaVsCB8IOW5s+Wdh+Wtl+espiB8IOmXrumimOaVsCB8CnwtLS18LS0tfC0tLXwtLS18LS0tfAp8IOiQpeWFu+WtpuWfuuehgCB8IDQgfCA4LDU1NiB8IDIsMTM5IHwgMCB8Cnwg5a6P6YeP6JCl5YW757SgIHwgNSB8IDksNDA3IHwgMSw4ODEgfCAwIHwKfCDlvq7ph4/okKXlhbvntKAgfCA2IHwgMTMsMzc3IHwgMiwyMzAgfCAwIHwKfCDpo5/niankuI7po5/lk4EgfCA1IHwgOSw5MTUgfCAxLDk4MyB8IDAgfAp8IOiGs+mjn+aooeW8j+S4juaMh+WNlyB8IDQgfCA4LDE5OSB8IDIsMDUwIHwgMCB8Cnwg6IO96YeP5bmz6KGh5LiO5L2T6YeN566h55CGIHwgNSB8IDksODQyIHwgMSw5NjggfCAwIHwKfCDnlJ/lkb3lkajmnJ/okKXlhbsgfCA1IHwgOSw4NTggfCAxLDk3MiB8IDAgfAp8IOi/kOWKqOiQpeWFuyB8IDQgfCA2LDg5OSB8IDEsNzI1IHwgMCB8Cnwg55a+55eF6JCl5YW7IHwgOSB8IDE1LDMxMSB8IDEsNzAxIHwgMCB8Cnwg6JCl5YW76K+E5Lyw5LiO5bmy6aKEIHwgNSB8IDksNjQ5IHwgMSw5MzAgfCAwIHwKfCDooaXliYLkuI7lip/og73po5/lk4EgfCA0IHwgNyw1NjUgfCAxLDg5MSB8IDAgfAp8IOW+quivgeiQpeWFu+S4jui+n+iwoyB8IDQgfCA3LDYxMiB8IDEsOTAzIHwgMCB8Cnwg5a6e5pON5bel5YW3IHwgNCB8IDYsNjAxIHwgMSw2NTAgfCAwIHwKfCDkuJPpopggfCA0IHwgNiw2NzEgfCAxLDY2OCB8IDAgfAoKIyMg6ZyA6KaB5aSE55CG55qE5paH56ugCgrml6DjgIIK
+# 内容审校报告
+
+- 生成日期：2026-10-25
+- 文章总数：68
+- 总字符：129,462
+- 平均字符：1,904
+- 状态分布：draft 68
+- 有问题文章：0
+
+## 问题汇总
+
+未发现自动化可识别的问题。
+
+## 分模块统计
+
+| 模块 | 篇数 | 字符数 | 平均字符 | 问题数 |
+|---|---|---|---|---|
+| 营养学基础 | 4 | 8,556 | 2,139 | 0 |
+| 宏量营养素 | 5 | 9,407 | 1,881 | 0 |
+| 微量营养素 | 6 | 13,377 | 2,230 | 0 |
+| 食物与食品 | 5 | 9,915 | 1,983 | 0 |
+| 膳食模式与指南 | 4 | 8,199 | 2,050 | 0 |
+| 能量平衡与体重管理 | 5 | 9,842 | 1,968 | 0 |
+| 生命周期营养 | 5 | 9,858 | 1,972 | 0 |
+| 运动营养 | 4 | 6,899 | 1,725 | 0 |
+| 疾病营养 | 9 | 15,311 | 1,701 | 0 |
+| 营养评估与干预 | 5 | 9,649 | 1,930 | 0 |
+| 补剂与功能食品 | 4 | 7,565 | 1,891 | 0 |
+| 循证营养与辟谣 | 4 | 7,612 | 1,903 | 0 |
+| 实操工具 | 4 | 6,601 | 1,650 | 0 |
+| 专题 | 4 | 6,671 | 1,668 | 0 |
+
+## 需要处理的文章
+
+无。

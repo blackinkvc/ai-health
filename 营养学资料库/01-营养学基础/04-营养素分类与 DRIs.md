@@ -1,1 +1,118 @@
-LS0tCnRpdGxlOiAi6JCl5YW757Sg5YiG57G75LiOIERSSXMiCnNsdWc6ICJudXRyaWVudC1jbGFzc2lmaWNhdGlvbiIKbW9kdWxlOiAi6JCl5YW75a2m5Z+656GAIgpvcmRlcjogNApzdGF0dXM6ICJkcmFmdCIKdGFnczogW+iQpeWFu+e0oCwgRFJJcywgUk5JLCBVTCwgQU1EUiwg5Y+C6ICD5pGE5YWl6YePXQpzdW1tYXJ5OiAi5b+F6ZyA6JCl5YW757Sg5oCO5LmI5YiG57G777yMRUFS44CBUk5J44CBQUnjgIFVTOOAgUFNRFIg5YiG5Yir5piv5LuA5LmI77yM5Lul5Y+K5Li65LuA5LmIIERSSXMg5LiN5piv5Liq5Lq66aOf6LCx44CCIgp1cGRhdGVkOiAyMDI2LTEwLTIzCi0tLQoKIyDokKXlhbvntKDliIbnsbvkuI4gRFJJcwoKIyMg5qC45b+D57uT6K66CgrkurrkvZPpnIDopoHnuqYgNDAg5aSa56eN5b+F6ZyA6JCl5YW757Sg77yM6YCa5bi45YiG5Li6Kirom4vnmb3otKjjgIHohILnsbvjgIHnorPmsLTljJblkIjnianjgIHnn7/nianotKjjgIHnu7TnlJ/ntKDlkozmsLQqKuWFreWkp+exu++8jOiGs+mjn+e6pOe7tOW4uOWNleWIl+OAguWug+S7rOS4jeaYr+KAnOi2iuWkmui2iuWlveKAne+8jOiAjOaYr+WQhOacieWuieWFqOWMuumXtOOAggoKRFJJc++8iOiGs+mjn+iQpeWFu+e0oOWPguiAg+aRhOWFpemHj++8ieaYr+S4gOWllyoq5Lq6576k5bGC6Z2i55qE5pGE5YWl5qCH5YeGKirvvIznlKjmnaXor4TkvLDohrPpo5/jgIHliLblrprmlL/nrZblkozmjIflr7zmoIfnrb7vvIzkuI3mmK/nu5nkuKrkurrlvIDnmoTnsr7noa7lpITmlrnjgIIKCiMjIOiQpeWFu+e0oOeahOWIhuexuwoKfCDnsbvliKsgfCDljIXlkKsgfCDkuLvopoHlip/og70gfCDpnIDopoHph4/nuqcgfAp8LS0tfC0tLXwtLS18LS0tfAp8IOibi+eZvei0qCB8IDkg56eN5b+F6ZyA5rCo5Z+66YW4IHwg57uT5p6E44CB6YW244CB6L+Q6L6T44CB5YWN55ar44CB5L6b6IO9IHwg5YWLL+WkqSB8Cnwg6ISC57G7IHwg5b+F6ZyA6ISC6IKq6YW444CB5YW25LuW6ISC6IKq6YW4IHwg57uG6IOe6Iac44CB5r+A57Sg44CB6ISC5rq25oCn57u055Sf57Sg5ZC45pS244CB5L6b6IO9IHwg5YWLL+WkqSB8Cnwg56Kz5rC05YyW5ZCI54mpIHwg57OW44CB5reA57KJ44CB6Iaz6aOf57qk57u0IHwg5Li76KaB5L6b6IO944CB6IqC57qm6JuL55m96LSo44CB6IKg6YGT5YGl5bq3IHwg5YWLL+WkqSB8Cnwg55+/54mp6LSoIHwg6ZKZ44CB56O344CB6ZK+44CB6ZKg44CB6ZWB44CB6ZOB44CB6ZSM44CB56KY44CB56GS562JIHwg6aqo6aq844CB55S16Kej6LSo44CB6YW26L6F5Zug5a2Q44CB5rCn6L+Q6L6TIHwg5q+r5YWLfuW+ruWFiy/lpKkgfAp8IOe7tOeUn+e0oCB8IOiEgua6tuaApyBBL0QvRS9L77yM5rC05rq25oCnIEIg5pePL0MgfCDovoXphbbjgIHmipfmsKfljJbjgIHnlJ/nkIbosIPoioIgfCDmr6vlhYt+5b6u5YWLL+WkqSB8Cnwg5rC0IHwg6aWu55So5rC05ZKM6aOf54mp5rC0IHwg5rq25YmC44CB6L+Q6L6T44CB5L2T5rip6LCD6IqCIHwg5q+r5Y2HL+WkqSB8CgojIyMg5a6P6YePIHZzIOW+rumHjwoKLSAqKuWuj+mHj+iQpeWFu+e0oCoq77ya6JuL55m96LSo44CB6ISC6IKq44CB56Kz5rC077yM6ZyA6KaB6YeP5Lul5YWL6K6h77yM5ZCM5pe25o+Q5L6b6IO96YeP44CCCi0gKirlvq7ph4/okKXlhbvntKAqKu+8mue7tOeUn+e0oOWSjOefv+eJqei0qO+8jOmcgOimgemHj+S7peavq+WFi+aIluW+ruWFi+iuoe+8jOS4jeaPkOS+m+iDvemHj++8jOS9huWPguS4juWHoOS5juWFqOmDqOS7o+iwoui/h+eoi+OAggotICoq5rC0KirvvJrpnIDopoHph4/mnIDlpKfvvIzljbTmnIDlrrnmmJPooqvlv73nlaXjgIIKCiMjIyDlv4XpnIDokKXlhbvntKDnmoTmlbDph48KCi0gOSDnp43lv4XpnIDmsKjln7rphbgKLSAyIOenjeW/hemcgOiEguiCqumFuO+8iOS6muayuemFuOOAgc6xLeS6mum6u+mFuO+8iQotIDEzIOenjee7tOeUn+e0oAotIOe6piAxNX4yMCDnp43nn7/nianotKgKLSDmsLQKCueis+awtOWMluWQiOeJqeS4jeaYr+S4peagvOaEj+S5ieS4iueahOKAnOW/hemcgOKAne+8jOWboOS4uuS6uuS9k+WPr+S7pemAmui/h+ezluW8gueUn+WQiOaIkOiRoeiQhOezlu+8jOS9huiGs+mjn+S4reS7jemcgOS/neivgeS4gOWumumHj++8jOS7pee7tOaMgeato+W4uOS7o+iwouWSjOiCoOmBk+WBpeW6t+OAggoKIyMgRFJJcyDnmoTlha3kuKrmoLjlv4PmjIfmoIcKCnwg5oyH5qCHIHwg6Iux5paHIHwg5ZCr5LmJIHwg5oCO5LmI55SoIHwKfC0tLXwtLS18LS0tfC0tLXwKfCDlubPlnYfpnIDopoHph48gfCBFQVIgfCDmu6HotrPmn5DkurrnvqQgNTAlIOS4quS9k+mcgOimgeeahOaRhOWFpemHjyB8IOivhOS8sOe+pOS9k+aRhOWFpeS4jei2s+avlOS+iyB8Cnwg5o6o6I2Q5pGE5YWl6YePIHwgUk5JIHwg5ruh6Laz57qmIDk3JX45OCUg5Liq5L2T6ZyA6KaB55qE5pGE5YWl6YePIHwg5L2c5Li65Liq5L2T5pGE5YWl55uu5qCHIHwKfCDpgILlrpzmkYTlhaXph48gfCBBSSB8IOaVsOaNruS4jei2s+aXtu+8jOWfuuS6juinguWvn+iuvuWumueahOaRhOWFpemHjyB8IOW9k+aXoOazleiuoeeulyBFQVIg5pe25L2/55SoIHwKfCDlj6/ogJDlj5fmnIDpq5jmkYTlhaXph48gfCBVTCB8IOmVv+acn+avj+aXpeaRhOWFpeS4jeW6lOi2hei/h+eahOS4iumZkCB8IOWIpOaWreihpeWJguWSjOW8uuWMlumjn+WTgemjjumZqSB8Cnwg5a6P6YeP6JCl5YW757Sg5Y+v5o6l5Y+X6IyD5Zu0IHwgQU1EUiB8IOS4ieWkp+S6p+iDveiQpeWFu+e0oOWNoOaAu+eDremHj+eahOWQiOeQhuavlOS+iyB8IOiuvuiuoeiGs+mjn+e7k+aehCB8Cnwg6aKE6Ziy5oWi5oCn55eF5bu66K6u5pGE5YWl6YePIHwgUEktTkNEIHwg5Li66ZmN5L2O5oWi55eF6aOO6Zmp6K6+5a6a55qE5pGE5YWl5rC05bmzIHwg5oyH5a+86ZmQ55uQ44CB6ZmQ57OW562JIHwKCiMjIyBFQVIg5LiOIFJOSSDnmoTlhbPns7sKCuW9k+iQpeWFu+e0oOmcgOimgeeahOWPmOW8guezu+aVsOe6puS4uiAxMCUg5pe277yaCgoqKlJOSSDiiYggRUFSIMOXIDEuMioqCgpSTkkg5LiN5piv4oCc5pyA5L2O6ZyA5rGC4oCd77yM6ICM5piv6KaG55uW57ud5aSn5aSa5pWw5Lq655qE5a6J5YWo5pGE5YWl5rC05bmz44CC5L2O5LqOIFJOSSDkuI3kuIDlrprnvLrkuY/vvIzkvYbplb/mnJ/mmI7mmL7kvY7kuo4gRUFSIOWwsemcgOimgeitpuaDleOAggoKIyMjIEFNRFIg5Y+C6ICD6IyD5Zu0Cgp8IOiQpeWFu+e0oCB8IOWNoOaAu+iDvemHj+avlOS+iyB8CnwtLS18LS0tfAp8IOibi+eZvei0qCB8IDEwJX4yMCUgfAp8IOiEguiCqiB8IDIwJX4zMCUgfAp8IOeis+awtOWMluWQiOeJqSB8IDUwJX42NSUgfAoK5q2k5aSW77yM5re75Yqg57OW5bu66K6u5L2O5LqO5oC76IO96YeP55qEIDEwJe+8jOacgOWlveS9juS6jiA1Je+8m+mjn+ebkOavj+WkqeS4jei2hei/hyA1IOWFi++8m+iGs+mjn+e6pOe7tOavj+WkqSAyNX4zMCDlhYvjgIIKCiMjIyDluLjop4EgUk5JIOekuuS+i++8iOaIkOS6uu+8iQoKfCDokKXlhbvntKAgfCDlj4LogIPlgLwgfAp8LS0tfC0tLXwKfCDom4vnmb3otKggfCDnlLcgNjUg5YWLL+Wkqe+8jOWlsyA1NSDlhYsv5aSpIHwKfCDpkpkgfCA4MDAg5q+r5YWLL+Wkqe+8mzUwIOWygeS7peS4iiAxMDAwIOavq+WFiy/lpKkgfAp8IOe7tOeUn+e0oCBEIHwgMTAg5b6u5YWLL+Wkqe+8iDQwMCBJVe+8ie+8mzY1IOWygeS7peS4iiAxNSDlvq7lhYsv5aSpIHwKfCDpk4EgfCDmiJDlubTlpbPmgKfpgJrluLjpq5jkuo7nlLfmgKfvvIzlhbfkvZPpmo/lubTpvoTlkoznlJ/nkIbnirbmgIHlj5jljJYgfAoK5pWw5YC85p2l6Ieq44CK5Lit5Zu95bGF5rCR6Iaz6aOf6JCl5YW757Sg5Y+C6ICD5pGE5YWl6YeP77yIMjAyMyDniYjvvInjgIvvvIzkuKrkvZPpnIDmsYLpnIDnu5PlkIjkvZPph43jgIHmtLvliqjph4/lkoznlJ/nkIbnirbmgIHosIPmlbTjgIIKCiMjIERSSXMg5LiOIE5SViDkuI3mmK/kuIDlm57kuosKCnwg5qaC5b+1IHwg55So6YCUIHwg5L6L5a2QIHwKfC0tLXwtLS18LS0tfAp8IERSSXMgfCDor4TkvLDkurrnvqTlkozkuKrkvZPohrPpo5/mmK/lkKblhYXotrMgfCDmiJDkurrpkpkgUk5JIDgwMCDmr6vlhYsv5aSpIHwKfCBOUlYgfCDpo5/lk4HokKXlhbvmoIfnrb7nmoTmr4/ml6Xlj4LogIPlgLzvvIznlKjkuo7orqHnrpcgTlJWJSB8IOmSmSBOUlYgODAwIOavq+WFi++8jOWWnSAyNTAg5q+r5Y2H54mb5aW257qm5o+Q5L6bIDMwMCDmr6vlhYvvvIzljbMgMzcuNSUgTlJWIHwKCk5SViUg5Y+q6K+05piO4oCc6L+Z5Lu96aOf5ZOB5Y2g5qCH562+5Y+C6ICD5YC855qE5q+U5L6L4oCd77yM5LiN5Luj6KGo5L2g5Liq5Lq65b2T5aSp6L+Y6ZyA6KaB5aSa5bCR44CCCgojIyDluLjop4Hor6/ljLoKCjEuICoq4oCcUk5JIOaYr+acgOS9jue6v++8jOW/hemhu+avj+Wkqeeyvuehrui+vuWIsOKAnSoq77ya55yL5LiA5ZGo5bmz5Z2H5pu05ZCI55CG77yM5YG25bCU5LiN6Laz5LiN5Lya56uL5Yi75Ye66Zeu6aKY44CCCjIuICoq4oCcVUwg5piv5Lit5q+S57q/77yM5o6l6L+R5bCx5Y2x6Zmp4oCdKirvvJpVTCDmmK/plb/mnJ/mr4/ml6XmkYTlhaXnmoTlronlhajkuIrpmZDvvIzlgbblsJTotoXov4fkuI3nrYnkuo7kuK3mr5LvvIzkvYbkuI3lupTplb/mnJ/otoXph4/jgIIKMy4gKirigJzooaXliYLlkIPlvpflpJrvvIzokKXlhbvkuIDlrprlpb3igJ0qKu+8mui2hei/hyBVTCDnmoTooaXlhYXmsqHmnInpop3lpJbmlLbnm4rvvIzlj43ogIzlop7liqDpo47pmanjgIIKNC4gKirigJxEUklzIOmAgueUqOS6juaJgOacieS6uuKAnSoq77yaRFJJcyDpkojlr7nlgaXlurfkurrnvqTvvJvnl4XkurrjgIHlrZXlpofjgIHogIHlubTkurrpnIDopoHkuKrkvZPljJbor4TkvLDjgIIKNS4gKirigJzlj6ropoHng63ph4/lpJ/vvIzokKXlhbvlsLHlpJ/igJ0qKu+8mueDremHj+WFhei2s+S9hue7k+aehOWNleS4gO+8jOS7jeWPr+iDvee8uuS5j+W+rumHj+iQpeWFu+e0oOOAggoKIyMg5a6e5pON5bu66K6uCgoxLiDlhYjnlKjpo5/niannsbvliKvlr7nnhacgRFJJc++8muWltuexu+OAgea3seiJsuiUrOiPnOOAgeWFqOiwt+eJqeOAgemxvOiZvuOAgeixhuWItuWTgeaYr+WQpuavj+WkqemDveacieOAggoyLiDor4TkvLDmkYTlhaXnnIsgM343IOWkqeW5s+Wdh++8jOS4jeWboOWNlemkkOWBj+W3rueEpuiZkeOAggozLiDkvJjlhYjpgJrov4fpo5/nianmu6HotrPpnIDmsYLvvIznoa7mnInnqbrnvLrlho3ogIPomZHooaXliYLvvIzlubbms6jmhI8gVUzjgIIKNC4g55yL5qCH562+5pe25Yy65YiGIE5SViUg5ZKM5Liq5Lq655uu5qCH77yM5Yir5oqKIDEwMCUgTlJWIOW9k+aIkOKAnOWImuWlvea7oei2s+S9oOKAneOAggo1LiDnibnmrorkurrnvqTvvIjlrZXmnJ/jgIHlk7rkubPmnJ/jgIHmhaLmgKfnl4XjgIHogIHlubTkurrvvInkvb/nlKggRFJJcyDliY3lhYjlkqjor6LkuJPkuJrkurrlkZjjgIIKCiMjIOWPguiAg+adpea6kAoKLSDkuK3lm73okKXlhbvlrabkvJou44CK5Lit5Zu95bGF5rCR6Iaz6aOf6JCl5YW757Sg5Y+C6ICD5pGE5YWl6YeP77yIMjAyMyDniYjvvInjgIsKLSDkuK3lm73okKXlhbvlrabkvJou44CK5Lit5Zu95bGF5rCR6Iaz6aOf5oyH5Y2X77yIMjAyMu+8ieOAiwotIOWtmemVv+miouS4u+e8li7jgIrokKXlhbvkuI7po5/lk4HljavnlJ/lrabjgIvvvIjkurrmsJHljavnlJ/lh7rniYjnpL7vvIkKLSBXSE8uIEd1aWRlbGluZTogU29kaXVtIGludGFrZSBmb3IgYWR1bHRzIGFuZCBjaGlsZHJlbgotIFdITy4gR3VpZGVsaW5lOiBTdWdhcnMgaW50YWtlIGZvciBhZHVsdHMgYW5kIGNoaWxkcmVuCg==
+---
+title: "营养素分类与 DRIs"
+slug: "nutrient-classification"
+module: "营养学基础"
+order: 4
+status: "draft"
+tags: [营养素, DRIs, RNI, UL, AMDR, 参考摄入量]
+summary: "必需营养素怎么分类，EAR、RNI、AI、UL、AMDR 分别是什么，以及为什么 DRIs 不是个人食谱。"
+updated: 2026-10-23
+---
+
+# 营养素分类与 DRIs
+
+## 核心结论
+
+人体需要约 40 多种必需营养素，通常分为**蛋白质、脂类、碳水化合物、矿物质、维生素和水**六大类，膳食纤维常单列。它们不是“越多越好”，而是各有安全区间。
+
+DRIs（膳食营养素参考摄入量）是一套**人群层面的摄入标准**，用来评估膳食、制定政策和指导标签，不是给个人开的精确处方。
+
+## 营养素的分类
+
+| 类别 | 包含 | 主要功能 | 需要量级 |
+|---|---|---|---|
+| 蛋白质 | 9 种必需氨基酸 | 结构、酶、运输、免疫、供能 | 克/天 |
+| 脂类 | 必需脂肪酸、其他脂肪酸 | 细胞膜、激素、脂溶性维生素吸收、供能 | 克/天 |
+| 碳水化合物 | 糖、淀粉、膳食纤维 | 主要供能、节约蛋白质、肠道健康 | 克/天 |
+| 矿物质 | 钙、磷、钾、钠、镁、铁、锌、碘、硒等 | 骨骼、电解质、酶辅因子、氧运输 | 毫克~微克/天 |
+| 维生素 | 脂溶性 A/D/E/K，水溶性 B 族/C | 辅酶、抗氧化、生理调节 | 毫克~微克/天 |
+| 水 | 饮用水和食物水 | 溶剂、运输、体温调节 | 毫升/天 |
+
+### 宏量 vs 微量
+
+- **宏量营养素**：蛋白质、脂肪、碳水，需要量以克计，同时提供能量。
+- **微量营养素**：维生素和矿物质，需要量以毫克或微克计，不提供能量，但参与几乎全部代谢过程。
+- **水**：需要量最大，却最容易被忽略。
+
+### 必需营养素的数量
+
+- 9 种必需氨基酸
+- 2 种必需脂肪酸（亚油酸、α-亚麻酸）
+- 13 种维生素
+- 约 15~20 种矿物质
+- 水
+
+碳水化合物不是严格意义上的“必需”，因为人体可以通过糖异生合成葡萄糖，但膳食中仍需保证一定量，以维持正常代谢和肠道健康。
+
+## DRIs 的六个核心指标
+
+| 指标 | 英文 | 含义 | 怎么用 |
+|---|---|---|---|
+| 平均需要量 | EAR | 满足某人群 50% 个体需要的摄入量 | 评估群体摄入不足比例 |
+| 推荐摄入量 | RNI | 满足约 97%~98% 个体需要的摄入量 | 作为个体摄入目标 |
+| 适宜摄入量 | AI | 数据不足时，基于观察设定的摄入量 | 当无法计算 EAR 时使用 |
+| 可耐受最高摄入量 | UL | 长期每日摄入不应超过的上限 | 判断补剂和强化食品风险 |
+| 宏量营养素可接受范围 | AMDR | 三大产能营养素占总热量的合理比例 | 设计膳食结构 |
+| 预防慢性病建议摄入量 | PI-NCD | 为降低慢病风险设定的摄入水平 | 指导限盐、限糖等 |
+
+### EAR 与 RNI 的关系
+
+当营养素需要的变异系数约为 10% 时：
+
+**RNI ≈ EAR × 1.2**
+
+RNI 不是“最低需求”，而是覆盖绝大多数人的安全摄入水平。低于 RNI 不一定缺乏，但长期明显低于 EAR 就需要警惕。
+
+### AMDR 参考范围
+
+| 营养素 | 占总能量比例 |
+|---|---|
+| 蛋白质 | 10%~20% |
+| 脂肪 | 20%~30% |
+| 碳水化合物 | 50%~65% |
+
+此外，添加糖建议低于总能量的 10%，最好低于 5%；食盐每天不超过 5 克；膳食纤维每天 25~30 克。
+
+### 常见 RNI 示例（成人）
+
+| 营养素 | 参考值 |
+|---|---|
+| 蛋白质 | 男 65 克/天，女 55 克/天 |
+| 钙 | 800 毫克/天；50 岁以上 1000 毫克/天 |
+| 维生素 D | 10 微克/天（400 IU）；65 岁以上 15 微克/天 |
+| 铁 | 成年女性通常高于男性，具体随年龄和生理状态变化 |
+
+数值来自《中国居民膳食营养素参考摄入量（2023 版）》，个体需求需结合体重、活动量和生理状态调整。
+
+## DRIs 与 NRV 不是一回事
+
+| 概念 | 用途 | 例子 |
+|---|---|---|
+| DRIs | 评估人群和个体膳食是否充足 | 成人钙 RNI 800 毫克/天 |
+| NRV | 食品营养标签的每日参考值，用于计算 NRV% | 钙 NRV 800 毫克，喝 250 毫升牛奶约提供 300 毫克，即 37.5% NRV |
+
+NRV% 只说明“这份食品占标签参考值的比例”，不代表你个人当天还需要多少。
+
+## 常见误区
+
+1. **“RNI 是最低线，必须每天精确达到”**：看一周平均更合理，偶尔不足不会立刻出问题。
+2. **“UL 是中毒线，接近就危险”**：UL 是长期每日摄入的安全上限，偶尔超过不等于中毒，但不应长期超量。
+3. **“补剂吃得多，营养一定好”**：超过 UL 的补充没有额外收益，反而增加风险。
+4. **“DRIs 适用于所有人”**：DRIs 针对健康人群；病人、孕妇、老年人需要个体化评估。
+5. **“只要热量够，营养就够”**：热量充足但结构单一，仍可能缺乏微量营养素。
+
+## 实操建议
+
+1. 先用食物类别对照 DRIs：奶类、深色蔬菜、全谷物、鱼虾、豆制品是否每天都有。
+2. 评估摄入看 3~7 天平均，不因单餐偏差焦虑。
+3. 优先通过食物满足需求，确有空缺再考虑补剂，并注意 UL。
+4. 看标签时区分 NRV% 和个人目标，别把 100% NRV 当成“刚好满足你”。
+5. 特殊人群（孕期、哺乳期、慢性病、老年人）使用 DRIs 前先咨询专业人员。
+
+## 参考来源
+
+- 中国营养学会.《中国居民膳食营养素参考摄入量（2023 版）》
+- 中国营养学会.《中国居民膳食指南（2022）》
+- 孙长颢主编.《营养与食品卫生学》（人民卫生出版社）
+- WHO. Guideline: Sodium intake for adults and children
+- WHO. Guideline: Sugars intake for adults and children

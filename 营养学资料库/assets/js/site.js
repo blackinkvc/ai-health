@@ -1,1 +1,33 @@
-CihmdW5jdGlvbigpewogIGNvbnN0IG1lbnVCdG4gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbWVudS10b2dnbGUnKTsKICBjb25zdCBzaWRlYmFyID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3NpZGViYXInKTsKICBpZihtZW51QnRuICYmIHNpZGViYXIpewogICAgbWVudUJ0bi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsKCk9PnNpZGViYXIuY2xhc3NMaXN0LnRvZ2dsZSgnb3BlbicpKTsKICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywoZSk9PnsKICAgICAgaWYod2luZG93LmlubmVyV2lkdGg8PTc2MCAmJiBzaWRlYmFyLmNsYXNzTGlzdC5jb250YWlucygnb3BlbicpICYmICFzaWRlYmFyLmNvbnRhaW5zKGUudGFyZ2V0KSAmJiBlLnRhcmdldCE9PW1lbnVCdG4pewogICAgICAgIHNpZGViYXIuY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpOwogICAgICB9CiAgICB9KTsKICB9CiAgY29uc3QgaW5wdXQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc2VhcmNoLWlucHV0Jyk7CiAgY29uc3QgYm94ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3NlYXJjaC1yZXN1bHRzJyk7CiAgaWYoIWlucHV0IHx8ICFib3ggfHwgIXdpbmRvdy5TRUFSQ0hfSU5ERVgpIHJldHVybjsKICBjb25zdCByb290ID0gZG9jdW1lbnQuYm9keS5kYXRhc2V0LnJvb3QgfHwgJyc7CiAgZnVuY3Rpb24gZXNjYXBlSHRtbChzKXtyZXR1cm4gcy5yZXBsYWNlKC9bJjw+IiddL2csbT0+KHsnJic6JyZhbXA7JywnPCc6JyZsdDsnLCc+JzonJmd0OycsJyInOicmcXVvdDsnLCInIjonJiMzOTsnfVttXSkpO30KICBmdW5jdGlvbiByZW5kZXIoKXsKICAgIGNvbnN0IHEgPSBpbnB1dC52YWx1ZS50cmltKCkudG9Mb3dlckNhc2UoKTsKICAgIGlmKHEubGVuZ3RoIDwgMSl7Ym94LmNsYXNzTGlzdC5yZW1vdmUoJ29wZW4nKTtib3guaW5uZXJIVE1MPScnO3JldHVybjt9CiAgICBjb25zdCBoaXRzID0gd2luZG93LlNFQVJDSF9JTkRFWC5maWx0ZXIoaXRlbT0+ewogICAgICBjb25zdCBoYXkgPSAoaXRlbS50aXRsZSsnICcraXRlbS5zdW1tYXJ5KycgJysoaXRlbS50YWdzfHxbXSkuam9pbignICcpKycgJytpdGVtLnRleHQpLnRvTG93ZXJDYXNlKCk7CiAgICAgIHJldHVybiBoYXkuaW5jbHVkZXMocSk7CiAgICB9KS5zbGljZSgwLDkpOwogICAgaWYoIWhpdHMubGVuZ3RoKXtib3guaW5uZXJIVE1MPSc8ZGl2IGNsYXNzPSJzZWFyY2gtZW1wdHkiPuayoeacieaJvuWIsO+8jOivleivleKAnOibi+eZvei0qOKAneKAnOWHj+mHjeKAneKAnOe7tOeUn+e0oCBE4oCd44CCPC9kaXY+Jztib3guY2xhc3NMaXN0LmFkZCgnb3BlbicpO3JldHVybjt9CiAgICBib3guaW5uZXJIVE1MID0gaGl0cy5tYXAoaXRlbT0+YDxhIGNsYXNzPSJzZWFyY2gtaGl0IiBocmVmPSIke3Jvb3R9JHtpdGVtLnVybH0iPjxiPiR7ZXNjYXBlSHRtbChpdGVtLnRpdGxlKX08L2I+PHNwYW4+JHtlc2NhcGVIdG1sKGl0ZW0ubW9kdWxlKX0gwrcgJHtlc2NhcGVIdG1sKGl0ZW0uc3VtbWFyeXx8JycpfTwvc3Bhbj48L2E+YCkuam9pbignJyk7CiAgICBib3guY2xhc3NMaXN0LmFkZCgnb3BlbicpOwogIH0KICBpbnB1dC5hZGRFdmVudExpc3RlbmVyKCdpbnB1dCcsIHJlbmRlcik7CiAgaW5wdXQuYWRkRXZlbnRMaXN0ZW5lcignZm9jdXMnLCByZW5kZXIpOwogIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywoZSk9PntpZighYm94LmNvbnRhaW5zKGUudGFyZ2V0KSYmZS50YXJnZXQhPT1pbnB1dClib3guY2xhc3NMaXN0LnJlbW92ZSgnb3BlbicpO30pOwogIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2tleWRvd24nLChlKT0+e2lmKGUua2V5PT09J0VzY2FwZScpe2JveC5jbGFzc0xpc3QucmVtb3ZlKCdvcGVuJyk7aW5wdXQuYmx1cigpO319KTsKfSkoKTsK
+
+(function(){
+  const menuBtn = document.getElementById('menu-toggle');
+  const sidebar = document.getElementById('sidebar');
+  if(menuBtn && sidebar){
+    menuBtn.addEventListener('click',()=>sidebar.classList.toggle('open'));
+    document.addEventListener('click',(e)=>{
+      if(window.innerWidth<=760 && sidebar.classList.contains('open') && !sidebar.contains(e.target) && e.target!==menuBtn){
+        sidebar.classList.remove('open');
+      }
+    });
+  }
+  const input = document.getElementById('search-input');
+  const box = document.getElementById('search-results');
+  if(!input || !box || !window.SEARCH_INDEX) return;
+  const root = document.body.dataset.root || '';
+  function escapeHtml(s){return s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+  function render(){
+    const q = input.value.trim().toLowerCase();
+    if(q.length < 1){box.classList.remove('open');box.innerHTML='';return;}
+    const hits = window.SEARCH_INDEX.filter(item=>{
+      const hay = (item.title+' '+item.summary+' '+(item.tags||[]).join(' ')+' '+item.text).toLowerCase();
+      return hay.includes(q);
+    }).slice(0,9);
+    if(!hits.length){box.innerHTML='<div class="search-empty">没有找到，试试“蛋白质”“减重”“维生素 D”。</div>';box.classList.add('open');return;}
+    box.innerHTML = hits.map(item=>`<a class="search-hit" href="${root}${item.url}"><b>${escapeHtml(item.title)}</b><span>${escapeHtml(item.module)} · ${escapeHtml(item.summary||'')}</span></a>`).join('');
+    box.classList.add('open');
+  }
+  input.addEventListener('input', render);
+  input.addEventListener('focus', render);
+  document.addEventListener('click',(e)=>{if(!box.contains(e.target)&&e.target!==input)box.classList.remove('open');});
+  document.addEventListener('keydown',(e)=>{if(e.key==='Escape'){box.classList.remove('open');input.blur();}});
+})();
